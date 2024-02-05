@@ -2,6 +2,14 @@
 
 Starter template for [Docus](https://docus.dev).
 
+## Thêm biến `NUXT_PUBLIC_STUDIO_TOKENS` vào Vercel
+` https://vercel.com/{username}/{projectname}/settings`
+
+Vào mục **Environment Variables** và thêm biến `NUXT_PUBLIC_STUDIO_TOKENS`
+### edit:
+https://nuxt.studio/{@{username}/{projectname}/studio/content
+
+
 ## Clone
 
 Clone the repository (using `nuxi`):
