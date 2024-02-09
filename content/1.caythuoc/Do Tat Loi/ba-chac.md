@@ -1,4 +1,4 @@
-# BA CHẠC - 三桠苦
+# BA CHẠC - 三桠苦 2ß
 
 *Còn gọi là dầu dấu, bí bái, mạt, kom la van tio tăng (Viêm tian), swai anor (Cămpuchia).*
 
@@ -10,11 +10,11 @@
 
 ***Ba chạc - Evodia lepta***
 
-**A. MÔ TẢ CÂY**
+## A. MÔ TẢ CÂY
 
 Cây nhỏ cao 4-5m cành màu đỏ xám. Lá kép gồm 3 lá chét nguyên, trông giống chạc ba nhánh do đó có tên ba chạc. Cụm hoa mọc ở kẽ lá và ngắn hơn lá. Quả nang gồm 1-4, vỏ nhẵn, phía ngoài nhăn nheo, mỗi ngăn chứa 1 hạt hình cầu đường kính 2mm, màu đen xanh, bóng.
 
-**B. PHÂN BỐ, THU HÁI VÀ CHẾ BIẾN**
+## B. PHÂN BỐ, THU HÁI VÀ CHẾ BIẾN
 
 Cây mọc hoang, rất phổ biến ở khắp nơi trong nước ta, miền núi cũng như đồng bằng. Còn thấy mọc ở Trung Quốc, Philipin.
 
