@@ -31,6 +31,10 @@ export default defineAppConfig({
         href: 'https://nuxt.com'
       }
     },
+    docus: {
+      header: { logo: true },
+      // rest of the config
+    },
     github: {
       dir: '.starters/default/content',
       branch: 'main',
@@ -39,7 +43,7 @@ export default defineAppConfig({
       edit: true
     },
     aside: {
-      level: 1,
+      level: 0,
       collapsed: false,
       exclude: []
     },
