@@ -46,7 +46,7 @@ Từ vỏ và hạt cây mộc hoa trắng người ta đã chiết xuất các 
 
 \- .v.v.
 
-![Conesin \(Bertho\), Conkurchin](/imgs/caythuoc/dtl/moc-hoa-trang-3.jpg)+Conkurchin.jpg)
+![Conesin \(Bertho\), Conkurchin](/imgs/caythuoc/dtl/moc-hoa-trang-2.jpg)+Conkurchin.jpg)
 
 Chất conesin có tinh thể hình lăng trụ (kết tinh trong axêtôn) độ chảy 125<sup>o</sup>, αD = -1,9<sup>o</sup> (CHCl<sub>3</sub>) hoặc + 21<sup>o</sup>6 (C<sub>2</sub>H<sub>5</sub>OH).
 
