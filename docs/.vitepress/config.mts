@@ -2,24 +2,11 @@ import { defineConfig } from 'vitepress'
 
 import sidebar from './sidebar.json';
 
-// function s(){
-//   return {}
-// }
-// var mysidebar = [s()];
-// var mysidebar = generateSidebar({
-//     documentRootPath: 'docs',
-//     scanStartPath: 'do-tat-loi',
-//     // resolvePath: '/do-tat-loi/ctvtvn/',
-//     useTitleFromFileHeading: true,
-//   },
-// );
-
-
-// console.log(JSON.stringify(mysidebar));
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: "Y học cổ truyền",
   description: "Y học cổ truyền mãi đỉnh",
+  ignoreDeadLinks: true,
   themeConfig: {
     
 
@@ -105,7 +92,7 @@ export default defineConfig({
     //   }
     // ],
     // sidebar: mysidebar,
-
+    ignoreDeadLinks: true,
     socialLinks: [
       { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
     ]
