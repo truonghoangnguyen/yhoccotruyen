@@ -6,9 +6,11 @@ import sidebar from './sidebar.json';
 export default defineConfig({
   title: "Y học cổ truyền",
   description: "Y học cổ truyền mãi đỉnh",
+  head: [['link', { rel: 'icon', href: '/favicon.ico' }]],
+  
   ignoreDeadLinks: true,
   themeConfig: {
-    
+    logo: '/logo.png',
 
     search: {
       provider: 'local'
