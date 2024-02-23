@@ -4,13 +4,25 @@ import sidebar from './sidebar.json';
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "Y học cổ truyền",
-  description: "Y học cổ truyền mãi đỉnh",
-  head: [['link', { rel: 'icon', href: '/favicon.ico' }]],
-  
+  title: "Y Học Dân Tộc",
+  description: "Y học dân tộc mãi đỉnh",
+  head: [['link', { rel: 'icon', href: '/favicon.ico' }],
+    [
+      'link',
+      { rel: 'preconnect', href: 'https://fonts.googleapis.com' }
+    ],
+    [
+      'link',
+      { rel: 'preconnect', href: 'https://fonts.gstatic.com', crossorigin: '' }
+    ],
+    [
+      'link',
+      { href: 'https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400..800;1,400..800&display=swap', rel: 'stylesheet' }
+    ]
+  ],
   ignoreDeadLinks: true,
   themeConfig: {
-    logo: '/logo.png',
+    // logo: '/logo.png',
 
     search: {
       provider: 'local'

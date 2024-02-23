@@ -1,7 +1,26 @@
 // node generate-sidebar.mjs
-
+// https://github.com/jooy2/vitepress-sidebar
 import { generateSidebar } from 'vitepress-sidebar';
 import { writeFile } from 'fs/promises';
+
+function updateText(jsonData, updates) {
+  jsonData.forEach(item => {
+    // Cập nhật trường "text" nếu trùng với giá trị cần thay đổi
+    if (updates[item.text]) {
+      if (item.items){
+        console.log(updates[item.text]);
+        item.items.unshift(updates[item.text]['items']);
+      }
+      item.text = updates[item.text]['text'];
+    }
+    
+    // Nếu có "items", áp dụng đệ quy
+    if (item.items) {
+      updateText(item.items, updates);
+    }
+  });
+}
+
 
 function transformSidebarContent(originalContent) {
   // Mảng để chứa kết quả đã chuyển đổi
@@ -64,6 +83,7 @@ async function createSidebar() {
     //   }
     // }
   ];
+  
   // add 
   const params = uniqueFieldsArray.map(item => ({
       ...item,
@@ -71,6 +91,8 @@ async function createSidebar() {
   }));
 
   var genSidebar = generateSidebar(params);
+  ////
+  
   for (const item of params) {
     let k = item['resolvePath'];
     // add new prop
@@ -88,8 +110,26 @@ async function createSidebar() {
 
   //let k = params['resolvePath'];
   //Object.assign(originalContent[k], params['v']);
-  const result = Object.keys(genSidebar).map(key => (genSidebar[key] ));
+  var result = Object.keys(genSidebar).map(key => (genSidebar[key] ));
   
+  result = genSidebar = generateSidebar({
+    documentRootPath: '/docs',
+    useTitleFromFileHeading: true,
+    collapsed: true, 
+    //hyphenToSpace: true,
+  });
+  //
+
+  const updates = {
+    "yhctvn": {text:"Y học Cổ truyền", items: {text: "Giới thiệu", link: "/yhctvn/"} },
+    "do-tat-loi": {text:"GsTs Đỗ Tất Lợi", items: {text: "Giới thiệu", link: "/do-tat-loi/"} },
+    "ctvvtvn": {text: "S.Cây Thuốc và Vị Thuốc", items: {text: "Giới thiệu", link: "/do-tat-loi/ctvvtvn/"} },
+    "hai-thuong-lan-ong": {text: "Hải Thượng Lãn Ông", items: {text: "Giới thiệu", link: "/hai-thuong-lan-ong/"} },
+    "y-hai-cau-nguyen":{text: "Y Hải Cầu Nguyên", items: {text: "Giới thiệu", link: "/hai-thuong-lan-ong/y-hai-cau-nguyen/"} },
+    "noi-kinh-yeu-chi": {text: "Nội Kinh yếu chỉ", items: {text: "Giới thiệu", link: "/hai-thuong-lan-ong/noi-kinh-yeu-chi/"} },
+  };
+  updateText(result, updates);
+
   //const result = transformSidebarContent(sidebarContent);
   //const sidebarContent = generateSidebar();
   await writeFile('./docs/.vitepress/sidebar.json', JSON.stringify(result, null, 2));
