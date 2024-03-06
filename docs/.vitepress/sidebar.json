@@ -912,6 +912,208 @@
     "collapsed": true
   },
   {
+    "text": "Giáo trình",
+    "items": [
+      {
+        "text": "Giới thiệu",
+        "link": "/giao-trinh/"
+      },
+      {
+        "text": "Ngoai-khoa-YHCT",
+        "items": [
+          {
+            "text": "CÁC GÃY XƯƠNG CHI DƯỚI",
+            "link": "/giao-trinh/Ngoai-khoa-YHCT/cac-gay-xuong-chi-duoi"
+          },
+          {
+            "text": "CÁC GÃY XƯƠNG CHI TRÊN",
+            "link": "/giao-trinh/Ngoai-khoa-YHCT/cac-gay-xuong-chi-tren"
+          },
+          {
+            "text": "CHƯƠNG ICÁC BỆNH NHIỄM KHUẨN CẤP TÍNH",
+            "link": "/giao-trinh/Ngoai-khoa-YHCT/chuong-i-cac-benh-nhiem-khuan-cap-tinh"
+          },
+          {
+            "text": "CHƯƠNG IIMỘT SỐ BỆNH NGOẠI KHOA KHÁC",
+            "link": "/giao-trinh/Ngoai-khoa-YHCT/chuong-ii-mot-so-benh-ngoai-khoa-khac"
+          },
+          {
+            "text": "CHƯƠNG III.GÃY XƯƠNG",
+            "link": "/giao-trinh/Ngoai-khoa-YHCT/chuong-iii-gay-xuong"
+          },
+          {
+            "text": "ĐẠI CƯƠNG VỂ BỆNH NGOẠI KHOAY HỌC CỔ TRUYỀN",
+            "link": "/giao-trinh/Ngoai-khoa-YHCT/dai-cuong-ve-benh-ngoai-khoa-y-hoc-co-truyen"
+          },
+          {
+            "text": "LỜI NÓI ĐẦU",
+            "link": "/giao-trinh/Ngoai-khoa-YHCT/loi-noi-dau"
+          }
+        ],
+        "collapsed": true
+      },
+      {
+        "text": "Bào chế đông dược",
+        "items": [
+          {
+            "text": "Mục lục",
+            "link": "/giao-trinh/bao-che-dong-duoc/"
+          },
+          {
+            "text": "LỜI NÓI ĐẦU",
+            "link": "/giao-trinh/bao-che-dong-duoc/Ngoai-khoa-YHCT"
+          },
+          {
+            "text": "BÀI 1ĐẠI CƯƠNG VỀ BÀO CHẾ ĐÔNG DƯỢC",
+            "link": "/giao-trinh/bao-che-dong-duoc/bai-1-dai-cuong-ve-bao-che-dong-duoc"
+          },
+          {
+            "text": "BÀI 2BÀO CHẾ MỘT SỐVỊ THUỐC THUỘC NHÓMTHUỐC GIẢIBIỂU",
+            "link": "/giao-trinh/bao-che-dong-duoc/bai-2-bao-che-mot-so-vi-thuoc-thuoc-nhom-thuoc-gia"
+          },
+          {
+            "text": "BÀI3BÀO CHẾ MỘT SỐVỊ THUỐC THUỘC NHÓMTHUỐC KHỬHÀN",
+            "link": "/giao-trinh/bao-che-dong-duoc/bai-3-bao-che-mot-so-vi-thuoc-thuoc-nhom-thuoc-khu"
+          },
+          {
+            "text": "BÀI4BÀO CHẾMỘT SỐVỊ THUỐC THUỘC NHÓMTHUỐC THANH NHIỆT",
+            "link": "/giao-trinh/bao-che-dong-duoc/bai-4-bao-che-mot-so-vi-thuoc-thuoc-nhom-thuoc-tha"
+          },
+          {
+            "text": "BÀI 5BÀO CHẾ MỘT SỐ VỊ THUỐCTHUỘC NHÓMTHUỐC HÒAĐÀM, CHỈ HO, BÌNH SUYỄN",
+            "link": "/giao-trinh/bao-che-dong-duoc/bai-5-bao-che-mot-so-vi-thuoc-thuoc-nhom-thuoc-hoa"
+          }
+        ],
+        "collapsed": true
+      },
+      {
+        "text": "Châm cứu",
+        "items": [
+          {
+            "text": "Mục lục",
+            "link": "/giao-trinh/cham-cuu/"
+          },
+          {
+            "text": "Bài 1 ĐẠI CƯƠNG CHÂM CỨU",
+            "link": "/giao-trinh/cham-cuu/1.dai-cuong-cham-cuu"
+          },
+          {
+            "text": "Bài 2 HỆ KINH LẠC",
+            "link": "/giao-trinh/cham-cuu/2.he-kinh-lac"
+          },
+          {
+            "text": "Bài 3 ĐẠI CƯƠNG HUYỆT CHÂM CỨU",
+            "link": "/giao-trinh/cham-cuu/3.dai-cuong-huyet-cham-cuu"
+          },
+          {
+            "text": "Bài 4 KỸ THUẬT CHÂM CỨU",
+            "link": "/giao-trinh/cham-cuu/4.ky-thuat-cham-cuu"
+          },
+          {
+            "text": "Bài 5: I. KINH PHẾ - THÁI ÂM TAY (L1-L11)",
+            "link": "/giao-trinh/cham-cuu/5.1.kinh-phe-thai-am-tay"
+          },
+          {
+            "text": "X. KINH TAM TIÊU - THIẾU DƯƠNG TAY (T1 - T23)",
+            "link": "/giao-trinh/cham-cuu/5.10.kinh-tam-tieu-thieu-duong-tay"
+          },
+          {
+            "text": "XI. KINH ĐỞM – THIẾU DƯƠNG CHÂN (G1 – G44)",
+            "link": "/giao-trinh/cham-cuu/5.11.kinh-dom-thieu-duong-chan"
+          },
+          {
+            "text": "XII. KINH CAN - QUYẾT ÂM CHÂN (LIV1 - LIV14)",
+            "link": "/giao-trinh/cham-cuu/5.12.kinh-can-quyet-am-chan"
+          },
+          {
+            "text": "XIII. MẠCH ĐỐC (GV1 - GV28)",
+            "link": "/giao-trinh/cham-cuu/5.13.mach-doc"
+          },
+          {
+            "text": "MẠCH XUNG",
+            "link": "/giao-trinh/cham-cuu/5.14.mach-xung"
+          },
+          {
+            "text": "II. KINH ĐẠI TRƯỜNG - DƯƠNG MINH TAY (LI1 - LI20)",
+            "link": "/giao-trinh/cham-cuu/5.2.kinh-dai-truong-duong-minh-tay"
+          },
+          {
+            "text": "III. KINH VỊ - DƯƠNG MINH CHÂN (S1 - S45)",
+            "link": "/giao-trinh/cham-cuu/5.3.kinh-vi-duong-minh-chan"
+          },
+          {
+            "text": "IV. KINH TỲ - THÁI ÂM CHÂN (SP1 - SP21)",
+            "link": "/giao-trinh/cham-cuu/5.4.kinh-ty-thai-am-chan"
+          },
+          {
+            "text": "V. KINH TÂM - THIẾU ÂM TAY (H1 - H9)",
+            "link": "/giao-trinh/cham-cuu/5.5.kinh-tam-thieu-am-tay"
+          },
+          {
+            "text": "VI. KINH TIỂU TRƯỜNG - THÁI DƯƠNG TAY (SI1 - SI19)",
+            "link": "/giao-trinh/cham-cuu/5.6.kinh-tieu-truong-thai-duong-tay"
+          },
+          {
+            "text": "VII. KINH BÀNG QUANG - THÁI DƯƠNG CHÂN (B1 - B67)",
+            "link": "/giao-trinh/cham-cuu/5.7.kinh-bang-quan-thai.duong-chan"
+          },
+          {
+            "text": "VIII. KINH THẬN - THIẾU ÂM CHÂN (K1 - K27)",
+            "link": "/giao-trinh/cham-cuu/5.8.kinh-than-thieu-am-chan"
+          },
+          {
+            "text": "IX. KINH TÂM BÀO - QUYẾT ÂM TAY (P1-P9)",
+            "link": "/giao-trinh/cham-cuu/5.9.kinh-tam-bao-quyet-am-tay"
+          },
+          {
+            "text": "Bài 5 KINH LẠC - HUYỆT VỊ",
+            "link": "/giao-trinh/cham-cuu/5.kinh-lac-huyet-vi"
+          },
+          {
+            "text": "Bài 6 CÁCH XÂY DỰNG ĐƠN HUYỆT",
+            "link": "/giao-trinh/cham-cuu/6.cach-xay-dung-don-huyet"
+          },
+          {
+            "text": "ĐIỆN CHÂM",
+            "link": "/giao-trinh/cham-cuu/7.dien-cham"
+          },
+          {
+            "text": "THỦY CHÂM (Tiêm thuốc vào huyệt)",
+            "link": "/giao-trinh/cham-cuu/8.thuy-cham"
+          },
+          {
+            "text": "NHĨ CHÂM",
+            "link": "/giao-trinh/cham-cuu/9.nhi-cham"
+          }
+        ],
+        "collapsed": true
+      },
+      {
+        "text": "Giáo trình đông dược",
+        "items": [
+          {
+            "text": "Mục lục",
+            "link": "/giao-trinh/giao-trinh-dong-duoc/"
+          },
+          {
+            "text": "Chương I ĐẠI CƯƠNG VỀ THUỐC CỔ TRUYỀN",
+            "link": "/giao-trinh/giao-trinh-dong-duoc/chuong-i-dai-cuong-ve-thuoc-co-truyen"
+          },
+          {
+            "text": "Chương IITHUỐC GIẢI BIỂU",
+            "link": "/giao-trinh/giao-trinh-dong-duoc/chuong-ii-thuoc-giai-bieu"
+          },
+          {
+            "text": "Chương IIITHUỐC THANH  NHIỆT",
+            "link": "/giao-trinh/giao-trinh-dong-duoc/chuong-iii-thuoc-thanh-nhiet"
+          }
+        ],
+        "collapsed": true
+      }
+    ],
+    "collapsed": true
+  },
+  {
     "text": "Hải Thượng Lãn Ông",
     "items": [
       {

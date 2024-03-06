@@ -22,23 +22,23 @@ function updateText(jsonData, updates) {
 }
 
 
-function transformSidebarContent(originalContent) {
-  // Mảng để chứa kết quả đã chuyển đổi
-  const transformedContent = [];
-  const params = {
-    "k": "/do-tat-loi/",
-    "v": {
-      text: "Gs.Ts Đỗ Tất Lợi", // Đặt tên cố định cho mục này
-      //link: "home", // Link mặc định
-      collapsed: true, 
-    }
-  }
-  let k = params['k'];
-  Object.assign(originalContent[k], params['v']);
-  const result = Object.keys(originalContent).map(key => (originalContent[key] ));
+// function transformSidebarContent(originalContent) {
+//   // Mảng để chứa kết quả đã chuyển đổi
+//   const transformedContent = [];
+//   const params = {
+//     "k": "/do-tat-loi/",
+//     "v": {
+//       text: "Gs.Ts Đỗ Tất Lợi", // Đặt tên cố định cho mục này
+//       //link: "home", // Link mặc định
+//       collapsed: true, 
+//     }
+//   }
+//   let k = params['k'];
+//   Object.assign(originalContent[k], params['v']);
+//   const result = Object.keys(originalContent).map(key => (originalContent[key] ));
 
-  return result;
-}
+//   return result;
+// }
 
 async function createSidebar() {
   const commonFields = {
@@ -50,76 +50,83 @@ async function createSidebar() {
     useFolderLinkFromIndexFile: true,
   };
 
-  const uniqueFieldsArray = [
-    {
-      scanStartPath: 'yhctvn',
-      resolvePath: '/yhctvn/',
-      "v": {
-        text: "Y học Cổ truyền", // Đặt tên cố định cho mục này
-        //link: "home", // Link mặc định
-        collapsed: true, 
-      }
-    },
-    {
-      scanStartPath: 'do-tat-loi',
-      resolvePath: '/do-tat-loi/',
-      "v": {
-        text: "Gs.Ts Đỗ Tất Lợi", // Đặt tên cố định cho mục này
-        //link: "home", // Link mặc định
-        collapsed: true, 
-      },
-      'sub':{ // đoạn này hơi ép 
-        text: 'ctvvtvn',
-        newtext: 'Cây & Vị thuốc VN '
-      }
-    },
-    // {
-    //   scanStartPath: 'hai-thuong-lan-ong',
-    //   resolvePath: '/hai-thuong-lan-ong/',
-    //   "v": {
-    //     text: "Hải Thượng Lãn Ông", // Đặt tên cố định cho mục này
-    //     //link: "home", // Link mặc định
-    //     collapsed: true, 
-    //   }
-    // }
-  ];
+  // const uniqueFieldsArray = [
+  //   {
+  //     scanStartPath: 'yhctvn',
+  //     resolvePath: '/yhctvn/',
+  //     "v": {
+  //       text: "Y học Cổ truyền", // Đặt tên cố định cho mục này
+  //       //link: "home", // Link mặc định
+  //       collapsed: true, 
+  //     }
+  //   },
+  //   {
+  //     scanStartPath: 'do-tat-loi',
+  //     resolvePath: '/do-tat-loi/',
+  //     "v": {
+  //       text: "Gs.Ts Đỗ Tất Lợi", // Đặt tên cố định cho mục này
+  //       //link: "home", // Link mặc định
+  //       collapsed: true, 
+  //     },
+  //     'sub':{ // đoạn này hơi ép 
+  //       text: 'ctvvtvn',
+  //       newtext: 'Cây & Vị thuốc VN '
+  //     }
+  //   },
+  //   // {
+  //   //   scanStartPath: 'hai-thuong-lan-ong',
+  //   //   resolvePath: '/hai-thuong-lan-ong/',
+  //   //   "v": {
+  //   //     text: "Hải Thượng Lãn Ông", // Đặt tên cố định cho mục này
+  //   //     //link: "home", // Link mặc định
+  //   //     collapsed: true, 
+  //   //   }
+  //   // }
+  // ];
   
-  // add 
-  const params = uniqueFieldsArray.map(item => ({
-      ...item,
-      ...commonFields
-  }));
+  // // add 
+  // const params = uniqueFieldsArray.map(item => ({
+  //     ...item,
+  //     ...commonFields
+  // }));
 
-  var genSidebar = generateSidebar(params);
-  ////
+  // var genSidebar = generateSidebar(params);
+  // ////
   
-  for (const item of params) {
-    let k = item['resolvePath'];
-    // add new prop
-    Object.assign(genSidebar[k], item['v']);
-    if (item['sub']){
-      let sItems = genSidebar[k]["items"];
-      for(let sItem of sItems){
-        if(sItem["text"] == item['sub']["text"]){
-          sItem["text"] = item['sub']["newtext"]
-          break;
-        }
-      }
-    }
-  }
+  // for (const item of params) {
+  //   let k = item['resolvePath'];
+  //   // add new prop
+  //   Object.assign(genSidebar[k], item['v']);
+  //   if (item['sub']){
+  //     let sItems = genSidebar[k]["items"];
+  //     for(let sItem of sItems){
+  //       if(sItem["text"] == item['sub']["text"]){
+  //         sItem["text"] = item['sub']["newtext"]
+  //         break;
+  //       }
+  //     }
+  //   }
+  // }
 
   //let k = params['resolvePath'];
   //Object.assign(originalContent[k], params['v']);
-  var result = Object.keys(genSidebar).map(key => (genSidebar[key] ));
+  // var result = Object.keys(genSidebar).map(key => (genSidebar[key] ));
   
-  result = genSidebar = generateSidebar({
+  // let result = genSidebar = generateSidebar({
+  //   documentRootPath: '/docs',
+  //   useTitleFromFileHeading: true,
+  //   collapsed: true, 
+  //   //hyphenToSpace: true,
+  // });
+  let result  = generateSidebar({
     documentRootPath: '/docs',
     useTitleFromFileHeading: true,
     collapsed: true, 
     //hyphenToSpace: true,
   });
   //
-
+  // ghi chú:  "yhctvn": {text:"Y học Cổ truyền", items: {text: "Giới thiệu", link: "/yhctvn/"} },
+  // có nghĩa là trong folder /yhctvn/ cần file index.md
   const updates = {
     "yhctvn": {text:"Y học Cổ truyền", items: {text: "Giới thiệu", link: "/yhctvn/"} },
     "do-tat-loi": {text:"GsTs Đỗ Tất Lợi", items: {text: "Giới thiệu", link: "/do-tat-loi/"} },
@@ -127,6 +134,10 @@ async function createSidebar() {
     "hai-thuong-lan-ong": {text: "Hải Thượng Lãn Ông", items: {text: "Giới thiệu", link: "/hai-thuong-lan-ong/"} },
     "y-hai-cau-nguyen":{text: "Y Hải Cầu Nguyên", items: {text: "Giới thiệu", link: "/hai-thuong-lan-ong/y-hai-cau-nguyen/"} },
     "noi-kinh-yeu-chi": {text: "Nội Kinh yếu chỉ", items: {text: "Giới thiệu", link: "/hai-thuong-lan-ong/noi-kinh-yeu-chi/"} },
+    "giao-trinh": {text:"Giáo trình", items: {text: "Giới thiệu", link: "/giao-trinh/"} },
+    "cham-cuu": {text:"Châm cứu", items: {text: "Mục lục", link: "/giao-trinh/cham-cuu/"} },
+    "bao-che-dong-duoc": {text:"Bào chế đông dược", items: {text: "Mục lục", link: "/giao-trinh/bao-che-dong-duoc/"} },
+    "giao-trinh-dong-duoc": {text:"Giáo trình đông dược", items: {text: "Mục lục", link: "/giao-trinh/giao-trinh-dong-duoc/"} },
   };
   updateText(result, updates);
 
