@@ -1,3 +1,7 @@
+# Thiên 2 - THỦY HỎA
+
+<br/>
+
 ###### 1. Thủy hỏa là thực thể. 
 Thủy hỏa là dấu hiệu của âm dương, là thực thể của âm dương. Mặt trời mặt trăng là tinh ba của thủy hỏa, nóng rét là tác dụng của thủy hỏa; làm cho vật sống là hỏa, vinh nhuận vật là thủy, không có hỏa thì tiêu diệt, không có thủy thì cháy khô, cho nên trong ngũ hành thủy và hỏa là quan trọng hơn; Kim, Mộc, Thổ đều là “kí sinh” (sống gửi, sống nhờ) chết thì mất; Thủy và hỏa là do “chân sinh” (do thực thể sinh ra) chết mà không chết hẳn, mất rồi lại sinh; vì tùy từng chỗ mà có cơ hội sinh ra như khoan gỗ có thể nảy ra lửa, đập đá có thể tóe lửa, đào đất lấy được nước, hứng sương lấy nước, còn như tác dụng kỳ diệu về sinh khắc thì biến hóa không cùng; ở trong người thì tâm là “quẻ ly” thận là “quẻ khảm”, đó là thủy hỏa hữu hình của hậu thiên; khác với chân thủy, chân hỏa vô hình của tiên thiên, làm cơ sở cho tính mạng, căn bản cho sự sống. Sách nói: nhà y biết hết được tác dụng kỳ diệu vô hình của thủy hỏa đã nắm được quá nửa phần y lý rồi.
 ###### 2. Chân hỏa là gốc của dương, chân thủy là gốc của âm.

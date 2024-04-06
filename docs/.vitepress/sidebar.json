@@ -1092,20 +1092,44 @@
         "text": "Y Hải Cầu Nguyên",
         "items": [
           {
-            "text": "Y Hải Cầu Nguyên",
+            "text": "Tiểu dẫn",
             "link": "/hai-thuong-lan-ong/y-hai-cau-nguyen/"
           },
           {
-            "text": "01 THIÊN THỨ NHẤT - ÂM DƯƠNG",
+            "text": "Thiên 1 - Âm dương",
             "link": "/hai-thuong-lan-ong/y-hai-cau-nguyen/01 THIÊN THỨ NHẤT - ÂM DƯƠNG"
           },
           {
-            "text": "02 THIÊN THỨ HAI - THỦY HỎA",
+            "text": "Thiên 2 - THỦY HỎA",
             "link": "/hai-thuong-lan-ong/y-hai-cau-nguyen/02 THIÊN THỨ HAI - THỦY HỎA"
           },
           {
-            "text": "03 THIÊN THỨ BA - KHÍ HUYẾT",
+            "text": "Thiên 3 - KHÍ HUYẾT",
             "link": "/hai-thuong-lan-ong/y-hai-cau-nguyen/03 THIÊN THỨ BA - KHÍ HUYẾT"
+          },
+          {
+            "text": "Thiên 4 - Hư thực",
+            "link": "/hai-thuong-lan-ong/y-hai-cau-nguyen/04 Thiên 4 - Hư thực"
+          },
+          {
+            "text": "Thiên 5 - Tạng phủ",
+            "link": "/hai-thuong-lan-ong/y-hai-cau-nguyen/05 Thiên 5- Tạng phủ"
+          },
+          {
+            "text": "Thiên 6 - Cơ chế bệnh",
+            "link": "/hai-thuong-lan-ong/y-hai-cau-nguyen/06 Thiên 6 - Cơ chế bệnh"
+          },
+          {
+            "text": "Thiên 7 - Cơ chế hóa sinh",
+            "link": "/hai-thuong-lan-ong/y-hai-cau-nguyen/07 Thiên 7 - Cơ chế hóa sinh"
+          },
+          {
+            "text": "Thiên 8 - Phép tắc chữa bệnh",
+            "link": "/hai-thuong-lan-ong/y-hai-cau-nguyen/08 Thiên 8 - Phép tắc chữa bệnh"
+          },
+          {
+            "text": "Thiên 9 - Y huấn",
+            "link": "/hai-thuong-lan-ong/y-hai-cau-nguyen/09 Thiên 9 - Y huấn"
           },
           {
             "text": "Y Hải Cầu Nguyên",
@@ -1126,7 +1150,7 @@
     "items": [
       {
         "text": "Giới thiệu",
-        "link": "/yhctvn/"
+        "link": "/yhctvn/bai-thuoc-ban-ha-hau-phac-thang.html"
       },
       {
         "text": "10 cách duy trì trí nhớ bằng Đông y ",

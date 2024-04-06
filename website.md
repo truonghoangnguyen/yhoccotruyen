@@ -1,2 +1,5 @@
 - https://trungtamdaotaohnm.edu.vn/tai-lieu-hoc-tap/lop-trung-cap-y-si-yhct
-- 
+- https://thuochay.net/yttl-y-nghiep-than-chuong-1.html#
+- https://www.yhoccanban.com/2012/07/am-duong-thien-1.html *
+- Y-hai-cau-nguyen:
+- http://www.tuetinhlienhoa.com.vn/web/news/Y-hai-cau-nguyen/Khi-huyet-Thien-3-6450.html

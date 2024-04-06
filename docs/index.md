@@ -4,8 +4,7 @@ layout: home
 
 hero:
   name: "Y học dân tộc"
-  text: "Y học cổ truyền mãi đỉnh"
- 
+  text: 'Đông y là một khoa "Y học sinh thái", do đó muốn thành thầy thuốc theo đúng nghĩa thì cần phải "Thượng tri thiên văn, hạ tri địa lý, trung tri nhân sự". '
 
 features:
   - title: Gs.Ts Đỗ Tất Lợi
@@ -16,6 +15,6 @@ features:
     link: /hai-thuong-lan-ong/
   - title: YHCTVN
     details: Y học cổ truyền Việt Nam
-    link: /yhctvn/
+    link: /yhctvn/bai-thuoc-ban-ha-hau-phac-thang.html
 ---
 

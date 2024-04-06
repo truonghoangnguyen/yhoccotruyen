@@ -20,15 +20,21 @@ h6 {
 }
 
 body {
-  /* background-image: url(/grey.png) */
+  font-weight: 420;
+  /* --vp-font-family-base:  "EB Garamond", serif; */
 }
+/* .dark .content{
+  background-image: url(/grey.png);
+} */
 .dark {
   --vp-c-bg:  #2d2d30;
   --vp-c-bg-alt: #161618;
   --vp-c-bg-elv: #4d4d50;
   --vp-c-bg-soft: #4d4d50;
-  --vp-c-text-1: rgba(235, 235, 245, 0.68);
+  /* --vp-c-text-1: rgb(204, 204, 204); */
+  --vp-c-text-1: rgba(235, 235, 245, 0.72);
   --vp-c-divider: rgba(235, 235, 245, 0.68);
+  /* --vp-font-family-base:  "EB Garamond", serif; */
 } 
 /* .light {
   --vp-c-text-1: rgba(38, 38, 39, 0.68);

@@ -1,6 +1,6 @@
 ---
 title: Tiểu dẫn
-desc: Y HẢI CẦU NGUYÊN (Tìm nguồn gốc sâu rộng của y học.
+desc: Y HẢI CẦU NGUYÊN (Tìm nguồn gốc sâu rộng của y học).
 ---
 
 # Tiểu dẫn

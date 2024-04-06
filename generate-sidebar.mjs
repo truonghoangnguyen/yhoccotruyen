@@ -128,11 +128,11 @@ async function createSidebar() {
   // ghi chú:  "yhctvn": {text:"Y học Cổ truyền", items: {text: "Giới thiệu", link: "/yhctvn/"} },
   // có nghĩa là trong folder /yhctvn/ cần file index.md
   const updates = {
-    "yhctvn": {text:"Y học Cổ truyền", items: {text: "Giới thiệu", link: "/yhctvn/"} },
+    "yhctvn": {text:"Y học Cổ truyền", items: {text: "Giới thiệu", link: "/yhctvn/bai-thuoc-ban-ha-hau-phac-thang.html"} },
     "do-tat-loi": {text:"GsTs Đỗ Tất Lợi", items: {text: "Giới thiệu", link: "/do-tat-loi/"} },
     "ctvvtvn": {text: "S.Cây Thuốc và Vị Thuốc", items: {text: "Giới thiệu", link: "/do-tat-loi/ctvvtvn/"} },
     "hai-thuong-lan-ong": {text: "Hải Thượng Lãn Ông", items: {text: "Giới thiệu", link: "/hai-thuong-lan-ong/"} },
-    "y-hai-cau-nguyen":{text: "Y Hải Cầu Nguyên", items: {text: "Y Hải Cầu Nguyên", link: "/hai-thuong-lan-ong/y-hai-cau-nguyen/"} },
+    "y-hai-cau-nguyen":{text: "Y Hải Cầu Nguyên", items: {text: "Tiểu dẫn", link: "/hai-thuong-lan-ong/y-hai-cau-nguyen/"} },
     "noi-kinh-yeu-chi": {text: "Nội Kinh yếu chỉ", items: {text: "Nội Kinh yếu chỉ", link: "/hai-thuong-lan-ong/noi-kinh-yeu-chi/"} },
     "giao-trinh": {text:"Giáo trình", items: {text: "Giới thiệu", link: "/giao-trinh/"} },
     "cham-cuu": {text:"Châm cứu", items: {text: "Mục lục", link: "/giao-trinh/cham-cuu/"} },

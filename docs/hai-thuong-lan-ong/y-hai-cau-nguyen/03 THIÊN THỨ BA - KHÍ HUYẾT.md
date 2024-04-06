@@ -1,3 +1,5 @@
+# Thiên 3 - KHÍ HUYẾT
+
 ###### 1) Khí làm hướng đạo cho huyết, huyết làm chỗ dựa cho khí.
 Khí thuộc dương chủ động mà vận hành, huyết thuộc âm chủ tĩnh mà phụ vào. Tác dụng của khí vô hình là lưu thông, thể chất của huyết hữu hình là nương tựa và giữ gìn; cho nên khí hành thì huyết theo, âm là cơ sở của dương.
 ###### 2) Huyết là ngọn của khí, khí là gốc của huyết.
