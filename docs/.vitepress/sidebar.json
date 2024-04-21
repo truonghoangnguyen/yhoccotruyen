@@ -1027,63 +1027,135 @@
     "text": "Hải Thượng Lãn Ông",
     "items": [
       {
+        "text": "Mục lục",
+        "link": "/hai-thuong-lan-ong/index.html"
+      },
+      {
         "text": "Giới thiệu",
-        "link": "/hai-thuong-lan-ong/"
+        "link": "/hai-thuong-lan-ong/00.gioi-thieu"
+      },
+      {
+        "text": "Y HUẤN CÁCH NGÔN",
+        "link": "/hai-thuong-lan-ong/01.y-huan-cach-ngon"
+      },
+      {
+        "text": "Y Nghiệp Thần Chương",
+        "items": [
+          {
+            "text": "Tiểu dẫn",
+            "link": "/hai-thuong-lan-ong/02.y-nghiep-than-chuong/index.html"
+          },
+          {
+            "text": "Luận về tạng phủ và chẩn đoán bệnh",
+            "link": "/hai-thuong-lan-ong/02.y-nghiep-than-chuong/02.tang-phu"
+          },
+          {
+            "text": "Tiên thiên, Hậu thiên",
+            "link": "/hai-thuong-lan-ong/02.y-nghiep-than-chuong/03.tien-thien-hau-thien"
+          },
+          {
+            "text": "Mạch",
+            "link": "/hai-thuong-lan-ong/02.y-nghiep-than-chuong/04.mach"
+          },
+          {
+            "text": "Kinh lạc",
+            "link": "/hai-thuong-lan-ong/02.y-nghiep-than-chuong/05.kinh-lac"
+          },
+          {
+            "text": "Âm, dương",
+            "link": "/hai-thuong-lan-ong/02.y-nghiep-than-chuong/06.am-duong"
+          },
+          {
+            "text": "Mạch Đốc và Nhâm",
+            "link": "/hai-thuong-lan-ong/02.y-nghiep-than-chuong/07.mach-nham-doc"
+          },
+          {
+            "text": "Phân chia về biểu lý, hàn nhiệt, hư thực",
+            "link": "/hai-thuong-lan-ong/02.y-nghiep-than-chuong/08.bieu-ly-han-nhiet-hu-thuc"
+          },
+          {
+            "text": "Luận về phương pháp chế thuốc sử dụng thuốc",
+            "link": "/hai-thuong-lan-ong/02.y-nghiep-than-chuong/09.su-dung-thuoc"
+          },
+          {
+            "text": "Phương thuốc có bảy loại:",
+            "link": "/hai-thuong-lan-ong/02.y-nghiep-than-chuong/10.phuong-thuoc"
+          },
+          {
+            "text": "5 vị",
+            "link": "/hai-thuong-lan-ong/02.y-nghiep-than-chuong/11.5-vi"
+          }
+        ],
+        "collapsed": true
       },
       {
         "text": "Nội Kinh yếu chỉ",
         "items": [
           {
             "text": "Nội Kinh yếu chỉ",
-            "link": "/hai-thuong-lan-ong/noi-kinh-yeu-chi/"
+            "link": "/hai-thuong-lan-ong/03.noi-kinh-yeu-chi/"
           },
           {
             "text": "1. ÂM DƯƠNG",
-            "link": "/hai-thuong-lan-ong/noi-kinh-yeu-chi/1.amduong"
+            "link": "/hai-thuong-lan-ong/03.noi-kinh-yeu-chi/1.amduong"
           },
           {
             "text": "2. CƠ CHẾ HÓA SINH",
-            "link": "/hai-thuong-lan-ong/noi-kinh-yeu-chi/2.cochehoasinh"
+            "link": "/hai-thuong-lan-ong/03.noi-kinh-yeu-chi/2.cochehoasinh"
           },
           {
             "text": "3. TẠNG PHỦ (Nội kinh)",
-            "link": "/hai-thuong-lan-ong/noi-kinh-yeu-chi/3.tangphu"
+            "link": "/hai-thuong-lan-ong/03.noi-kinh-yeu-chi/3.tangphu"
           },
           {
             "text": "4. CƠ CHẾ BỆNH BIẾN ( Phần 1)",
-            "link": "/hai-thuong-lan-ong/noi-kinh-yeu-chi/4.1.co-che-benh-bien"
+            "link": "/hai-thuong-lan-ong/03.noi-kinh-yeu-chi/4.1.co-che-benh-bien"
           },
           {
             "text": "4.2 CƠ CHẾ BỆNH BIẾN ( Phần 2)",
-            "link": "/hai-thuong-lan-ong/noi-kinh-yeu-chi/4.2.co-che-benh-bien"
+            "link": "/hai-thuong-lan-ong/03.noi-kinh-yeu-chi/4.2.co-che-benh-bien"
           },
           {
             "text": "​4.3 CƠ CHẾ BỆNH BIẾN (Phần 3)",
-            "link": "/hai-thuong-lan-ong/noi-kinh-yeu-chi/4.3.co-che-benh-bien"
+            "link": "/hai-thuong-lan-ong/03.noi-kinh-yeu-chi/4.3.co-che-benh-bien"
           },
           {
             "text": "5.1 PHÉP TẮC CHỮA BỆNH (Phần 1)",
-            "link": "/hai-thuong-lan-ong/noi-kinh-yeu-chi/5.1.phep-tac-chua-benh"
+            "link": "/hai-thuong-lan-ong/03.noi-kinh-yeu-chi/5.1.phep-tac-chua-benh"
           },
           {
             "text": "5.2 PHÉP TẮC CHỮA BỆNH (Phần 2)",
-            "link": "/hai-thuong-lan-ong/noi-kinh-yeu-chi/5.2.phep-tac-chua-benh"
+            "link": "/hai-thuong-lan-ong/03.noi-kinh-yeu-chi/5.2.phep-tac-chua-benh"
           },
           {
             "text": "6. DƯỠNG SINH",
-            "link": "/hai-thuong-lan-ong/noi-kinh-yeu-chi/6.duong-sinh"
+            "link": "/hai-thuong-lan-ong/03.noi-kinh-yeu-chi/6.duong-sinh"
           },
           {
             "text": "7.1 MẠCH KINH (Phần 1)",
-            "link": "/hai-thuong-lan-ong/noi-kinh-yeu-chi/7.1.mach-kinh"
+            "link": "/hai-thuong-lan-ong/03.noi-kinh-yeu-chi/7.1.mach-kinh"
           },
           {
             "text": "7.2 MẠCH KINH (Phần 2)",
-            "link": "/hai-thuong-lan-ong/noi-kinh-yeu-chi/7.2.mach-kinh"
+            "link": "/hai-thuong-lan-ong/03.noi-kinh-yeu-chi/7.2.mach-kinh"
           },
           {
             "text": "7.3 MẠCH KINH (Phần 3)",
-            "link": "/hai-thuong-lan-ong/noi-kinh-yeu-chi/7.3.mach-kinh"
+            "link": "/hai-thuong-lan-ong/03.noi-kinh-yeu-chi/7.3.mach-kinh"
+          }
+        ],
+        "collapsed": true
+      },
+      {
+        "text": "04.van-khi-bi-dien",
+        "items": [
+          {
+            "text": "Phần thứ nhất: XEM MÂY, GIÓ, KHÍ, SẮC",
+            "link": "/hai-thuong-lan-ong/04.van-khi-bi-dien/phan-1-xem-gio-may-khi-sac"
+          },
+          {
+            "text": "1. VẬN KHÍ - THUYẾT CHỦ VẬN",
+            "link": "/hai-thuong-lan-ong/04.van-khi-bi-dien/phan-2"
           }
         ],
         "collapsed": true
@@ -1093,51 +1165,47 @@
         "items": [
           {
             "text": "Tiểu dẫn",
-            "link": "/hai-thuong-lan-ong/y-hai-cau-nguyen/"
+            "link": "/hai-thuong-lan-ong/05.y-hai-cau-nguyen/"
           },
           {
             "text": "Thiên 1 - Âm dương",
-            "link": "/hai-thuong-lan-ong/y-hai-cau-nguyen/01 THIÊN THỨ NHẤT - ÂM DƯƠNG"
+            "link": "/hai-thuong-lan-ong/05.y-hai-cau-nguyen/01.Thien1-am-duong"
           },
           {
             "text": "Thiên 2 - THỦY HỎA",
-            "link": "/hai-thuong-lan-ong/y-hai-cau-nguyen/02 THIÊN THỨ HAI - THỦY HỎA"
+            "link": "/hai-thuong-lan-ong/05.y-hai-cau-nguyen/02.Thien2-thuy-hoa"
           },
           {
             "text": "Thiên 3 - KHÍ HUYẾT",
-            "link": "/hai-thuong-lan-ong/y-hai-cau-nguyen/03 THIÊN THỨ BA - KHÍ HUYẾT"
+            "link": "/hai-thuong-lan-ong/05.y-hai-cau-nguyen/03.Thien2-khi-huyet"
           },
           {
             "text": "Thiên 4 - Hư thực",
-            "link": "/hai-thuong-lan-ong/y-hai-cau-nguyen/04 Thiên 4 - Hư thực"
+            "link": "/hai-thuong-lan-ong/05.y-hai-cau-nguyen/04.Thien4-hu-thuc"
           },
           {
             "text": "Thiên 5 - Tạng phủ",
-            "link": "/hai-thuong-lan-ong/y-hai-cau-nguyen/05 Thiên 5- Tạng phủ"
+            "link": "/hai-thuong-lan-ong/05.y-hai-cau-nguyen/05.Thien5-tang-phu"
           },
           {
             "text": "Thiên 6 - Cơ chế bệnh",
-            "link": "/hai-thuong-lan-ong/y-hai-cau-nguyen/06 Thiên 6 - Cơ chế bệnh"
+            "link": "/hai-thuong-lan-ong/05.y-hai-cau-nguyen/06.Thien6-co-che-benh"
           },
           {
             "text": "Thiên 7 - Cơ chế hóa sinh",
-            "link": "/hai-thuong-lan-ong/y-hai-cau-nguyen/07 Thiên 7 - Cơ chế hóa sinh"
+            "link": "/hai-thuong-lan-ong/05.y-hai-cau-nguyen/07.Thien7-co-che-hoa-sinh"
           },
           {
             "text": "Thiên 8 - Phép tắc chữa bệnh",
-            "link": "/hai-thuong-lan-ong/y-hai-cau-nguyen/08 Thiên 8 - Phép tắc chữa bệnh"
+            "link": "/hai-thuong-lan-ong/05.y-hai-cau-nguyen/08.Thien8-phep-tac-chua-benh"
           },
           {
             "text": "Thiên 9 - Y huấn",
-            "link": "/hai-thuong-lan-ong/y-hai-cau-nguyen/09 Thiên 9 - Y huấn"
-          },
-          {
-            "text": "Y Hải Cầu Nguyên",
-            "link": "/hai-thuong-lan-ong/y-hai-cau-nguyen/Y Hải Cầu Nguyên"
+            "link": "/hai-thuong-lan-ong/05.y-hai-cau-nguyen/09.Thien9-y-huan"
           },
           {
             "text": "keyword",
-            "link": "/hai-thuong-lan-ong/y-hai-cau-nguyen/keyword"
+            "link": "/hai-thuong-lan-ong/05.y-hai-cau-nguyen/keyword"
           }
         ],
         "collapsed": true

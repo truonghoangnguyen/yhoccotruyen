@@ -4,7 +4,7 @@ layout: home
 
 hero:
   name: "Y học dân tộc"
-  text: 'Đông y là một khoa "Y học sinh thái", do đó muốn thành thầy thuốc theo đúng nghĩa thì cần phải "Thượng tri thiên văn, hạ tri địa lý, trung tri nhân sự". '
+  text: 'Đông y là "Y học sinh thái", do đó muốn thành thầy thuốc theo đúng nghĩa thì cần phải "Thượng tri thiên văn, hạ tri địa lý, trung tri nhân sự". '
 
 features:
   - title: Gs.Ts Đỗ Tất Lợi
