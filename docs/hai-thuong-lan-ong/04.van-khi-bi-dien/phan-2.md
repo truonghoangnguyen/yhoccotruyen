@@ -230,7 +230,8 @@ Mộc thái quá nên nhiều gió to, mộc thịnh thổ suy, trong không gia
 Hỏa vận bất cập thì thủy khí thừa thế vượng lại hóa thành hàn, bệnh hàn phát sinh. Điều trị nên bổ tâm để trục hàn. Lại nói, người ta cảm phải thời khí ấy thì sinh bệnh hỏa bất cập mà âm tà thịnh, tâm khí tổn thương nên đau gân vai, lưng đau, mắt mờ, bụng đau nặng, đau khắp sườn eo và lưng. Lại nói, người ta cảm phải thời khí ấy thì sinh bệnh ỉa lỏng, bụng đầy, không ăn được, bổng nhiên co rút, tê liệt, chân không đứng được xuống đất.
 - Quý Sửu/Quý Mùi: hỏa mộc bất cập
 - Quý Mão/Quý Dậu: hỏa hợp với tuế hội
-- Quý Tị/Quý Hợi: hỏa hư có giúp đỡ
+- Quý Tị/Quý Hợi: hỏa hư có giúp đỡ  
+  
 Hỏa khí bất cập, thủy khí thừa thế lấn át, hàn khí lan tràn, mọi vật chỉ tươi tốt ở phần dưới mà không tươi tốt ở phần trên, rét lắm dương suy, mất hết tươi tốt. Thủy mạnh quá thì thổ phục thù, thành bụi mù ra u uất, mưa lụt to. Thủy thắng thì hỏa ngưng, nên rét dữ run rẩy. Thổ phục thù thì bỗng nhiên mưa dầm, hỏa uất thì sấm sét dữ dội, khiến cho mùa hạ mà có thắng khí; rét mướt, ngưng đọng, nứt nẻ; bất thình lịnh lại có phục khí: bụi mù, tối tăm, mưa to. Nếu không có thắng khí thì không có phục khí.
 
 ### SỰ THUẬN NGHỊCH GIỮA VẬN VÀ KHÍ

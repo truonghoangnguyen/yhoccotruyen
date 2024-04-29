@@ -134,9 +134,8 @@ async function createSidebar() {
     "hai-thuong-lan-ong": {text: "Hải Thượng Lãn Ông", items: {text: "Mục lục", link: "/hai-thuong-lan-ong/index.html"} },
     "02.y-nghiep-than-chuong":{text: "Y Nghiệp Thần Chương", items: {text: "Tiểu dẫn", link: "/hai-thuong-lan-ong/02.y-nghiep-than-chuong/index.html"} },
     "03.noi-kinh-yeu-chi": {text: "Nội Kinh yếu chỉ", items: {text: "Nội Kinh yếu chỉ", link: "/hai-thuong-lan-ong/03.noi-kinh-yeu-chi/"} },
-    "05.y-hai-cau-nguyen":{text: "Y Hải Cầu Nguyên", items: {text: "Tiểu dẫn", link: "/hai-thuong-lan-ong/05.y-hai-cau-nguyen/"} },
-    
-    
+    "04.van-khi-bi-dien":{text: "Vận Khí Bí Điển", items: {text: "Sơ lược", link: "/hai-thuong-lan-ong/04.van-khi-bi-dien/"} },
+    "05.y-hai-cau-nguyen":{text: "Y Hải Cầu Nguyên", items: {text: "Tiểu dẫn", link: "/hai-thuong-lan-ong/05.y-hai-cau-nguyen/"}},
     "giao-trinh": {text:"Giáo trình", items: {text: "Giới thiệu", link: "/giao-trinh/"} },
     "cham-cuu": {text:"Châm cứu", items: {text: "Mục lục", link: "/giao-trinh/cham-cuu/"} },
     "bao-che-dong-duoc": {text:"Bào chế đông dược", items: {text: "Mục lục", link: "/giao-trinh/bao-che-dong-duoc/"} },

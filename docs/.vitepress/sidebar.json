@@ -1147,8 +1147,12 @@
         "collapsed": true
       },
       {
-        "text": "04.van-khi-bi-dien",
+        "text": "Vận Khí Bí Điển",
         "items": [
+          {
+            "text": "Sơ lược",
+            "link": "/hai-thuong-lan-ong/04.van-khi-bi-dien/"
+          },
           {
             "text": "Phần thứ nhất: XEM MÂY, GIÓ, KHÍ, SẮC",
             "link": "/hai-thuong-lan-ong/04.van-khi-bi-dien/phan-1-xem-gio-may-khi-sac"
@@ -1156,6 +1160,18 @@
           {
             "text": "1. VẬN KHÍ - THUYẾT CHỦ VẬN",
             "link": "/hai-thuong-lan-ong/04.van-khi-bi-dien/phan-2"
+          },
+          {
+            "text": "VẬN KHÍ BÍ ĐIỂN (Tiếp)",
+            "link": "/hai-thuong-lan-ong/04.van-khi-bi-dien/phan-3"
+          },
+          {
+            "text": "VẬN KHÍ BÍ ĐIỂN (Tiếp)",
+            "link": "/hai-thuong-lan-ong/04.van-khi-bi-dien/phan-4"
+          },
+          {
+            "text": "VẬN KHÍ BÍ ĐIỂN ( Tiếp và hết)",
+            "link": "/hai-thuong-lan-ong/04.van-khi-bi-dien/phan-5"
           }
         ],
         "collapsed": true
