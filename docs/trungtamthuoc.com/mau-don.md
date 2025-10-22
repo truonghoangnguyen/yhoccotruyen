@@ -1,0 +1,91 @@
+# Mẫu Đơn (Đơn bì - Paeonia suffruticosa Andr.)
+
+![Mẫu Đơn \(Đơn bì - Paeonia suffruticosa Andr.\)](https://trungtamthuoc.com/images/others/mau-don-3-5870.jpg)
+**Mẫu đơn được sử dụng rộng rãi bởi công dụng giản đau, hạ sốt, trấn kinh. Vậy, vị thuốc này có tác dụng gì? Và sử dụng Mẫu đơn thế nào mang lại hiệu quả tối ưu nhất? Mời quý bạn đọc tìm hiểu trong bài viết sau đây.**
+##  1 Giới thiệu về cây Mẫu đơn
+Mẫu đơn còn có tên gọi khác là Mẫu đơn bụi, Đơn bì, mọc ở vùng khí hậu ôn đới ấm, ưa sáng và ưa ẩm.
+Tên khoa học của Mẫu đơn là _Paeonia suffruticosa_ Andr., thuộc họ [Hoàng Liên](https://trungtamthuoc.com/duoc-lieu/hoang-lien-81 "Hoàng Liên") (Ranunculaceae).
+![Hình ảnh Mẫu đơn](https://trungtamthuoc.com/images/item/mau-don-1-a.jpg)Hình 1: Mẫu đơn
+### 1.1 Đặc điểm thực vật
+Cây nhỏ, sống lâu năm, cao đến 1m hoặc hơn. Rễ mập, dài. Lá mọc so le, có cuống dài, chia 3 thùy, mỗi thùy lại chia 3 thùy nhỏ hơn, thùy tận cùng có 3 răng to, mặt trên xanh lục sẫm, mặt dưới trắng nhạt phủ lông tơ, cuống lá dài 6-10cm.
+Hoa to mọc đơn độc ở đầu cành, đường kính 15-20cm, màu đỏ, trắng hoặc tím tía, thơm; đài 4 răng tồn tại, tràng 10-20 cánh rộng; nhị nhiều, chỉ nhị ngắn, bầu 3-5 lá noãn. Quả có 3-5 đại, hạt to gần tròn. Mùa hoa tháng 5-7.
+![Hình 2: Đặc điểm của cây Mẫu đơn](https://trungtamthuoc.com/images/item/mau-don-2\(1\).jpg)Hình 2: Đặc điểm của cây Mẫu đơn
+### 1.2 Thu hái và chế biến
+Bộ phận dùng: Rễ, được gọi là Đơn bì hoặc Đan bì.
+Thu hái vào tháng 9 ở những cây có tuổi thọ 3 năm, đào về tách lấy vỏ rễ đem phơi khô (Nguyên đơn bì); hoặc đem sao vàng (Mẫu đơn bì thán).
+### 1.3 Đặc điểm phân bố
+Cây được trồng lâu đời ở Trung Quốc, Nhật Bản và Triều tiên. Được nhập trồng tại Sa Pa nhưng hiện đã mất giống.
+##  2 Thành phần hóa học
+### 2.1 Vỏ rễ
+Cho đến nay, khoảng 119 hợp chất đã được phân lập và xác định từ vỏ của rễ Mẫu đơn, với các hợp chất phenolic và monoterpenoid glycoside là những hợp chất chiếm ưu thế trong số đó.
+![Hình 3: Mẫu đơn bì](https://trungtamthuoc.com/images/item/mau-don-4\(1\).jpg)Hình 3: Mẫu đơn bì
+Hợp chất chính và đặc trưng của nguyên liệu thô là hợp chất phenolic paeonol (2′-hydroxy-4′-methoxyacetophenone, peonol) và các glycoside của nó, chẳng hạn như: paeonoside, paeonolide, apiopaeonoside và suffruticosides A-E. Trong số các monoterpenoid glycoside ở loài Mẫu đơn, một số cặp đồng phân đã được xác định, bao gồm α- và β-benzoylpaeoniflorin và benzoylpaeoniflorin và paeonioside A. Các hợp chất phổ biến trong tất cả các loài thuộc chi Paeonia bao gồm terpene glycoside paeoniflorin và các chất tương tự (oxypaeoniflorin, albiflorin, galloylpaeoniflorin, galloyloxypaeoniflorin, benzoylpaeoniflorin, mudanpioside A-J, α-benzoyloxypaeoniflorin, β-benzoyloxypaeoniflorin, 6-O-vanillyoxypaeoniflorin, suffrupaeonidanin A-F, paeonidanin A và C, suffruyabiosides A và B, paeoniside suffrupaeoniflorin A và B, oxypaeonidanin, 9-epi-oxypaeonidanin, 8-O-benzoylpaeonidanin, 9-O-butyloxypaeonidanin, 9-O-butylpaeonidanin, p-hydroxylbenzoylpaeonidanin, 4-O-metylsuffrupaeoniflorin B, paeoniflorin-4-etyl ete, 4-O-butylpaeoniflorin, 4-O-metylmoudanpioside C, 4-O-metylbenzoyloxypaeoniflorin, oxypaeoniflorin sulfonat, 4-O-metyloxypaeoniflorin, 4-O-metylgalloyloxypaeoniflorin , 4-O-butyloxypaeoniflorin, 4-O-methylpaeoniflorin, 8-O-debenzoylpaeoniflorin, 4-O-methylbenzoylpaeoniflorin).
+Acetophenone cũng là những hợp chất đặc trưng của Mẫu đơn, chẳng hạn như: 2,3-dihydroxy-4-methoxyacetophenone, gallacetophenone, p-hydroxyacetophenone, 3-hydroxy-4-methoxyacetophenone và reacetophenone. Các hợp chất đáng chú ý cũng bao gồm peonisotujone và peonisuffrone.
+### 2.2 Hoa Mẫu đơn
+Trong chiết xuất của các hợp chất đặc trưng của hoa là terpen, rượu, ankan, anken và alkatriens. Các monoterpen chính là (Z)-β-ocimene, alloocimene, citronellol, citronellyl axetat, α-pinene và linalool. Ngoài các hợp chất nêu trên, sự hiện diện của monoterpene glycoside, phenol, axit phenolic, tanin, [Flavonoid](https://trungtamthuoc.com/hoat-chat/flavonoid "Flavonoid"), irydoid glycoside, axit amin và đường đã được xác nhận trong chiết xuất [Ethanol](https://trungtamthuoc.com/hoat-chat/ethanol "Ethanol") từ hoa.
+### 2.3 Tinh dầu
+Dầu hạt của Mẫu đơn chứa chủ yếu là axit linolenic, axit linoleic, axit oleic và axit palmitic. Axit linolenic và axit linoleic cùng nhau chiếm hơn 60%, cho thấy rằng dầu hạt có thể đóng vai trò là nguồn cung cấp axit béo không bão hòa đa tốt cho chế độ ăn uống. Ngược lại, axit arachidic, axit palmitoleic và axit gadoleic có mặt với lượng nhỏ hơn. Dầu hạt cũng chứa tocopherol (α-tocopherol, γ-tocopherol, δ-tocopherol), sterol (campesterol, stigmasterol, β-sitosterol, Δ-5-avenasterol, brassicasterol, fucosterol) và squalene.
+![Các thành phần chính trong Mẫu đơn bì](https://trungtamthuoc.com/images/item/mau-don-3.jpg)Hình 5: Các thành phần chính trong Mẫu đơn bì
+> == >> Mời bạn đọc tham khảo vị thuốc cùng công dụng: [Cây Bạch Thược - Vị thuốc dân gian đa công dụng, nhiều lợi ích](https://trungtamthuoc.com/duoc-lieu/bach-thuoc)
+##  3 Tác dụng - Công dụng của Mẫu đơn
+### 3.1 Tác dụng dược lý
+#### 3.1.1 Chống oxy hóa
+Chiết xuất etanol của vỏ Mẫu đơn ở nồng độ 1mg/mL làm giảm sản xuất các loại oxy phản ứng (ROS) và gây độc tế bào do stress oxy hóa trong các tế bào PC12 (tế bào pheochromocytoma tuyến thượng thận của chuột) bằng cách tăng cường biểu hiện gen, trong số những gen khác, catechol-O-methyltransferase và hemoxygenase, tham gia vào quá trình điều hòa chu kỳ tế bào và sản xuất gốc tự do.
+#### 3.1.2 Chống viêm
+Các nghiên cứu được tiến hành cả trong ống nghiệm và trong cơ thể sống về hoạt động chống viêm của vỏ Moutan chỉ ra rằng hai hợp chất - paeonol và paeoniflorin - chịu trách nhiệm chính cho tác dụng này. Chiết xuất vỏ ức chế tổng hợp oxit nitric (iNOS) và gây cảm ứng cyclooxygenase (COX-2) biểu hiện bằng cách ức chế quá trình phosphoryl hóa yếu tố phiên mã protein ức chế NF-κB. Ngoài ra, chiết xuất thô có chứa paeonol và paeoniflorin đã ngăn chặn quá trình gây viêm bằng cách ức chế toàn diện sự kích hoạt của nhiều gen liên quan đến sự hình thành viêm.
+#### 3.1.3 Chống khối u
+Các nghiên cứu cho thấy chiết xuất Mẫu đơn có khả năng chống lại các dòng tế bào ung thư, bao gồm tế bào ung thư ruột kết, [ung thư vú](https://trungtamthuoc.com/bai-viet/ung-thu-vu "ung thư vú") EMT6, [ung thư gan](https://trungtamthuoc.com/bai-viet/ung-thu-gan "ung thư gan") HepG2, [ung thư dạ dày](https://trungtamthuoc.com/bai-viet/ung-thu-da-day "ung thư dạ dày") của con người SGC-7901, ung thư phổi, u thần kinh đệm, ung thư biểu mô tế bào gan người SK-HEP-1, ung thư tuyến tụy PANC1, ung thư bàng quang… Thành phần chính của Mẫu đơn là paeonol và paeoniflorin, chịu trách nhiệm cho hoạt động chống ung thư này.
+#### 3.1.4 Tác dụng trên tuần hoàn
+Nghiên cứu cho thấy paeonol, paeoniflorin, benzoylpaeoniflorin và benzoyloxypaeoniflorin là những hợp chất chính có thể góp phần cải thiện lưu thông máu. Các hợp chất này có tác dụng ức chế kết tập tiểu cầu và đông máu. Ngoài ra, có thể các hợp chất khác trong nguyên liệu thô, chẳng hạn như methyl gallate, (+)-catechin, paeoniflorigenone, galloylpaeoniflorin và daucosterol cũng có thể tham gia vào việc cải thiện tuần hoàn. Người ta cũng xác nhận rằng paeonol ngăn ngừa sự phát triển của [xơ vữa động mạch](https://trungtamthuoc.com/bai-viet/vua-xo-dong-mach "xơ vữa động mạch") bằng cách ức chế sự kết dính của bạch cầu đơn nhân, gây ra bởi dạng oxy hóa của [lipoprotein](https://trungtamthuoc.com/bai-viet/cau-tao-va-phan-loai-liporotein "lipoprotein") mật độ thấp (LDL), đối với nội mạc mạch máu thông qua ức chế con đường truyền tín hiệu kinase được kích hoạt bằng mitogen (MAPK).
+#### 3.1.5 Chống tiểu đường
+Chiết xuất vỏ Moutan và thành phần chính của nó thành phần, paeonol, có tác dụng trị đái tháo đường bằng cách ức chế sự hấp thu [Glucose](https://trungtamthuoc.com/hoat-chat/glucose "Glucose") bởi các túi màng ở viền bàn chải ruột (BBMV) và tăng sự hấp thu glucose trong tế bào nguyên bào sợi da người (Hs68) và tế bào mỡ của chuột (3T3-L1). Paeonol (ở liều 200 và 400 mg/kg) cũng được chứng minh là cải thiện khả năng dung nạp glucose trong mô hình in vivo.
+#### 3.1.6 Bảo vệ thần kinh
+Các nghiên cứu đã chứng minh rằng vỏ não Moutan có hiệu quả trong việc giảm đau thần kinh ở chuột và thể hiện tác dụng bảo vệ tế bào thần kinh trong mô hình chuột bị bệnh Parkinson. Trong các nghiên cứu được thực hiện trên các tế bào microglia, paeonol đã ức chế đáng kể sự giải phóng oxit nitric (NO) và sự biểu hiện của iNOS và COX-2. Điều trị bằng Paeonol cũng làm giảm sản xuất ROS và ức chế quá trình di chuyển tế bào do ATP gây ra. Tác dụng chống viêm thần kinh của paeonol cũng được phát hiện là được điều hòa bởi AMPK-α kinase và glycogen synthase kinase 3 α/β.
+Ngoài ra, Mẫu đơn còn được chứng minh rằng có tác dụng kháng khuẩn, bảo vệ gan, chống lại thoái hóa thần kinh, chống dị ứng và điều hòa miễn dịch.
+![Hình 6: Trà hoa Mẫu đơn giúp hoạt huyết, bổ máu](https://trungtamthuoc.com/images/item/mau-don-6.jpg)Hình 6: Trà hoa Mẫu đơn giúp hoạt huyết, bổ máu
+> == >> Mời bạn xem thêm dược liệu: [Ích mẫu - Vị thuốc quý nhiều công dụng đối với sức khỏe phụ nữ](https://trungtamthuoc.com/duoc-lieu/ich-mau-38)
+### 3.2 Công dụng theo y học cổ truyền
+Mẫu đơn có tính bình, vị cay, đắng, có mùi thơm, quy vào kinh tâm, can, thận, có tác dụng thanh huyết nhiệt, hạ sốt, lương huyết, hoạt huyết, làm tan máu ứ, giảm đau.
+Trong đông y, Mẫu đơn được dùng trong trấn kinh, giảm đau, trị nóng âm kéo dài, sốt chiều và đêm, không ra mồ hôi, đơn sưng, huyết ứ gây sốt, đau đầu, đau lưng, đau khớp, thống kinh, rối loạn kinh nguyệt, bệnh phụ khoa sau sinh. 
+##  4 Các bài thuốc từ cây Mẫu đơn
+### 4.1 Trị bệnh về thần kinh
+Chữa suy nhược thần kinh, đau đầu, mất ngủ, di tinh: Mẫu đơn bì, trạch tả, phục linh, [Phụ Tử](https://trungtamthuoc.com/duoc-lieu/phu-tu "Phụ Tử") chế mỗi vị 8g, [Thục Địa](https://trungtamthuoc.com/duoc-lieu/httpswwwvinmeccomviy-hoc-co-truyenduoc-lieuthuc-dia-co-tac-dung-gi "Thục Địa") 16g, sơn thù, [Hoài Sơn](https://trungtamthuoc.com/duoc-lieu/hoai-son "Hoài Sơn") mỗi vị 12g, nhục [Quế](https://trungtamthuoc.com/duoc-lieu/que-51 "Quế") 4g. Sắc uống.
+Chữa suy nhược thần kinh: Mẫu đơn bì, trạch tả, phục linh, sơn thù, cúc hoa, táo nhân, bá tử nhân mỗi vị 8g, kỷ tử, thục địa, hoài sơn, [Câu Đằng](https://trungtamthuoc.com/duoc-lieu/cau-dang "Câu Đằng"), sa sâm, [Mạch Môn](https://trungtamthuoc.com/duoc-lieu/mach-mon "Mạch Môn") mỗi vị 12g. Sắc uống.
+### 4.2 Trị bệnh hô hấp
+Chữa hen suyễn khi hết cơn hen: Mẫu đơn bì, trạch tả, phục linh, [Sơn Thù](https://trungtamthuoc.com/duoc-lieu/son-thu-du "Sơn Thù") mỗi vị 8g, thục địa 16g, hoài sơn 12g. Sắc uống, hoặc làm hoàn mỗi ngày uống 20g.
+Chữa viêm phổi: Mẫu đơn bì, liên kiều, uất kim mỗi vị 12g, sinh địa, huyền sâm, mạch môn, kim ngân mỗi vị 20g, hoàng liên, [Thạch Xương Bồ](https://trungtamthuoc.com/duoc-lieu/thach-xuong-bo "Thạch Xương Bồ") mỗi vị 6g. Sắc uống.
+Chữa giai đoạn hồi phục sau áp xe phổi: Mẫu đơn bì, thiên niên kiện, trạch tả, phục linh, mạch môn mỗi vị 8g, thục địa, hoài sơn mỗi vị 12g, [Ngũ Vị Tử](https://trungtamthuoc.com/duoc-lieu/ngu-vi-tu "Ngũ Vị Tử") 6g. Sắc uống.
+### 4.3 Trị bệnh xương khớp
+Chữa viêm khớp cấp: Mẫu đơn bì, linh dương giác mỗi vị 10g, [Huyền Sâm](https://trungtamthuoc.com/duoc-lieu/huyen-sam "Huyền Sâm") 20g, sừng trâu, tiền hồ, [Hoàng Cầm](https://trungtamthuoc.com/duoc-lieu/hoang-cam "Hoàng Cầm"), tri mẫu, kỷ tử, sinh địa, mạch môn, [Thạch Hộc](https://trungtamthuoc.com/duoc-lieu/httpswwwthuocdantocorgduoc-lieuthach-hoc "Thạch Hộc") mỗi vị 12g, [Thăng Ma](https://trungtamthuoc.com/duoc-lieu/thang-ma "Thăng Ma") 8g, đậu khấu, [Xạ Can](https://trungtamthuoc.com/duoc-lieu/xa-can-44 "Xạ Can") mỗi vị 6g. Sắc uống.
+Chữa lao xương, lao khớp: Mẫu đơn bì, ngân [Sài Hồ](https://trungtamthuoc.com/duoc-lieu/sai-ho-12 "Sài Hồ"), địa cốt bì, xuyên [Tục Đoạn](https://trungtamthuoc.com/duoc-lieu/tuc-doan "Tục Đoạn"), [Ngưu Tất](https://trungtamthuoc.com/duoc-lieu/nguu-tat-86 "Ngưu Tất") mỗi vị 12g, thanh cao, đào nhân mỗi vị 8g, miết giáp 20g, [Hồng Hoa](https://trungtamthuoc.com/duoc-lieu/hong-hoa-87 "Hồng Hoa") 4g. Sắc uống.
+### 4.4 Trị bệnh tuần hoàn, tim mạch
+Chữa tăng huyết áp: Mẫu đơn bì, trạch tả, phục linh, sơn thù, đương quy, bạch thược mỗi vị 8g, thục địa 16g, hoài sơn 12g. Sắc uống.
+Chữa thiếu máu: Mẫu đơn bì, trạch tả, phục linh, sơn thù mỗi vị 8g, thục địa, cỏ nhọ nồi mỗi vị 16g, hoài sơn, mai ba ba, ngẫu tiết, bạch mao căn mỗi vị 12g. Sắc uống.
+Chữa đau nhức do máu lưu thông kém, gây thiếu máu: Mẫu đơn bì, [Bạch Linh](https://trungtamthuoc.com/duoc-lieu/bach-linh-56 "Bạch Linh"), mạch môn, [Trạch Tả](https://trungtamthuoc.com/duoc-lieu/trach-ta-81 "Trạch Tả") mỗi vị 200g, [Đương Quy](https://trungtamthuoc.com/duoc-lieu/duong-quy-08 "Đương Quy") 2kg, hoài sơn, ngọc trúc, [Hà Thủ Ô](https://trungtamthuoc.com/duoc-lieu/ha-thu-o "Hà Thủ Ô") đỏ, [Đan sâm](https://trungtamthuoc.com/duoc-lieu/dan-sam-70 "Đan sâm") mỗi vị 400g, thanh bì, chỉ thực, thù nhục mỗi vị 100g. Tán bột làm viên nặng 5g, ngày uống 4-6 viên.
+Chữa chảy máu do nhiễm khuẩn: Mẫu đơn bì, [Xích Thược](https://trungtamthuoc.com/duoc-lieu/xich-thuoc-14 "Xích Thược") mỗi vị 8g, sinh địa, huyền sâm, cỏ nhọ nồi, trắc bá diệp mỗi vị 16g, sừng trâu, chi tử, đan sâm mỗi vị 12g. Sắc uống.
+Chữa viêm tắc động mạch: Mẫu đơn bì, huyền sâm, đào nhân, đan sâm mỗi vị 12g, [Kim Ngân Hoa](https://trungtamthuoc.com/duoc-lieu/kim-ngan-hoa-33 "Kim Ngân Hoa"), xích thược, ngưu tất mỗi vị 16g, cam thảo, đương quy mỗi vị 20g, binh lang, [Chỉ Xác](https://trungtamthuoc.com/duoc-lieu/chi-xac-60 "Chỉ Xác") mỗi vị 8g. Sắc uống.
+### 4.5 Trị bệnh phụ khoa, sinh dục
+Chữa kinh nguyệt trước kỳ: Mẫu đơn bì, sài hồ, bạch thược, [Bạch Truật](https://trungtamthuoc.com/duoc-lieu/bach-truat-46 "Bạch Truật") mỗi vị 12g, đương quy, [Bạc Hà](https://trungtamthuoc.com/duoc-lieu/bac-ha "Bạc Hà"), bạch linh, [Chi Tử](https://trungtamthuoc.com/duoc-lieu/chi-tu "Chi Tử") mỗi vị 8g, [Gừng](https://trungtamthuoc.com/duoc-lieu/gung-14 "Gừng") sống 2g. Sắc uống.
+Chữa kinh nguyệt sau kỳ: Mẫu đơn bì, [Xuyên Khung](https://trungtamthuoc.com/duoc-lieu/xuyen-khung-31 "Xuyên Khung"), bạch thược, nga truật mỗi vị 8g, [Đảng Sâm](https://trungtamthuoc.com/duoc-lieu/dang-sam "Đảng Sâm"), đương quy, ngưu tất mỗi vị 12g, quế tâm, [Cam Thảo](https://trungtamthuoc.com/duoc-lieu/cam-thao-32 "Cam Thảo") mỗi vị 4g. Sắc uống.
+Chữa thống kinh: Mẫu đơn bì, đào nhân, hồng hoa, huyền hồ sách, [Hương Phụ](https://trungtamthuoc.com/duoc-lieu/huong-phu "Hương Phụ") mỗi vị 8g, [Mộc Hương](https://trungtamthuoc.com/duoc-lieu/moc-huong-38 "Mộc Hương") 6g, cam thảo 4g. Sắc uống.
+Chữa bế kinh: Mẫu đơn bì, đương quy, xuyên khung, bạch thược, nga truật, quế chi mỗi vị 8g, ngưu tất, [Đẳng Sâm](https://trungtamthuoc.com/duoc-lieu/dang-sam "Đẳng Sâm") mỗi vị 12g, cam thảo 4g. Sắc uống.
+Chữa rong kinh: Mẫu đơn bì, địa du, a giao, huyết dụ, tông lư khôi, bạch thược, sinh địa, hắc giới tuệ mỗi vị 12g, bồ hoàng sao đen 20g. Sắc uống.
+Chữa khí hư: [Mẫu Đơn Bì](https://trungtamthuoc.com/duoc-lieu/mau-don-1 "Mẫu Đơn Bì") 8g, sinh địa, thổ [Phục Linh](https://trungtamthuoc.com/duoc-lieu/phuc-linh-18 "Phục Linh") mỗi vị 16g, cúc hoa, kim ngân hoa, [Ké Đầu Ngựa](https://trungtamthuoc.com/duoc-lieu/ke-dau-ngua-83 "Ké Đầu Ngựa"), khổ sâm mỗi vị 12g. Sắc uống.
+### 4.6 Trị bệnh tiêu hóa
+Chữa viêm loét dạ dày: Mẫu đơn bì, thanh bì, chi tử, bối mẫu, trạch tả, hoàng liên mỗi vị 8g, bạch thược 12g, [Trần Bì](https://trungtamthuoc.com/duoc-lieu/tran-bi-04 "Trần Bì") 6g, ngô thù 4g. Sắc uống.
+Chữa lỵ trực khuẩn: Mẫu đơn bì, trần bì, hoàng bá, xích thược mỗi vị 12g, bạch đầu ông 40g, kim ngân hoa, địa du mỗi vị 20g, chỉ xác, mộc hương mỗi vị 8g, hoàng liên 4g. Sắc uống.
+Chữa viêm gan virus cấp tính: Mẫu đơn bì, sừng trâu, chi tử mỗi vị 16g, [Nhân Trần](https://trungtamthuoc.com/duoc-lieu/nhan-tran-71 "Nhân Trần") 40g, [Sinh Địa](https://trungtamthuoc.com/duoc-lieu/dia-hoang "Sinh Địa") 24g, hoàng liên, đan sâm, huyền sâm, thăng ma, thạch hộc mỗi vị 12g. Sắc uống.
+Chữa [xơ gan](https://trungtamthuoc.com/bai-viet/xo-gan "xơ gan") cổ trướng: Mẫu đơn bì, sơn thù, trạch tả, phục linh, đương quy mỗi vị 8g, bạch mao căn 20g, thục địa, hoài sơn, bạch truật, địa cốt bì mỗi vị 12g. Sắc uống.
+![Hình 7: Bài thuốc từ Mẫu đơn ](https://trungtamthuoc.com/images/item/mau-don-5\(1\).jpg)Hình 7: Bài thuốc từ Mẫu đơn 
+### 4.7 Trị bệnh thận, tiết niệu
+Chữa viêm cầu thận mạn: Mẫu đơn bì, trạch tả, phục linh, sơn thù mỗi vị 8g, xa tiền tử 16g, thục địa, hoài sơn, kỷ tử, ngưu tất mỗi vị 12g, [Cúc Hoa](https://trungtamthuoc.com/duoc-lieu/cuc-hoa "Cúc Hoa") 10g. Sắc uống.
+Chữa viêm bàng quang mạn: Mẫu đơn bì, trạch tả, phục linh, sơn thù, tri mẫu mỗi vị 8g, thục địa, hoài sơn, hoàng bá mỗi vị 12g. Sắc uống.
+Chữa bí tiểu người già: Mẫu đơn bì, trạch tả, phục linh, sơn thù, phụ tử chế mỗi vị 8g, thục địa, hoài sơn, ngưu tất, xa tiền tử mỗi vị 12g, nhục quế 4g. Sắc uống.
+Chữa đái dầm: Mẫu đơn bì, trạch tả, phục linh, sơn thù, [Phá Cố Chỉ](https://trungtamthuoc.com/duoc-lieu/pha-co-chi "Phá Cố Chỉ"), [Ích Trí Nhân](https://trungtamthuoc.com/duoc-lieu/ich-tri "Ích Trí Nhân"), tang phiêu diêu mỗi vị 8g, thục địa, hoài sơn, ngưu tất mỗi vị 12g, [Ô Dược](https://trungtamthuoc.com/duoc-lieu/o-duoc "Ô Dược"), xương bồ mỗi vị 6g. Sắc uống.
+Chữa đái tháo đường: Mẫu đơn bì, kỷ tử, thạch hộc mỗi vị 12g, thục địa, hoài sơn mỗi vị 20g, sơn thù, thiên hoa phấn, sa sâm mỗi vị 8g. Sắc uống.
+##  5 Tài liệu tham khảo
+1. Tác giả Halina Ekiert, Marta Klimek-Szczykutowicz, Agnieszka Szopa (Ngày đăng 5 tháng 12 năm 2022). [Paeonia × suffruticosa (Moutan Peony)—A Review of the Chemical Composition, Traditional and Professional Use in Medicine, Position in Cosmetics Industries, and Biotechnological Studies](https://www.mdpi.com/2223-7747/11/23/3379), MDPI. Truy cập ngày 26 tháng 3 năm 2023. 
+2. [Cây Thuốc Và Động Vật Làm Thuốc](https://trungtamthuoc.com/bai-viet/doc-online-va-tai-mien-phi-pdf-sach-cay-thuoc-va-dong-vat-lam-thuoc-o-viet-nam "Cây Thuốc Và Động Vật Làm Thuốc") tại Việt Nam tập 2 (NXB Khoa học & Kỹ thuật, năm 2006). Mẫu đơn trang 253-256, Cây thuốc và động vật làm thuốc tại Việt Nam tập 2. Truy cập ngày 26 tháng 3 năm 2023. 
+
+
+Source: https://trungtamthuoc.com/duoc-lieu/mau-don-1

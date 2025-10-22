@@ -1,0 +1,69 @@
+# Cúc Tần (Pluchea indica (L.) Less.)
+
+![Cúc Tần \(Pluchea indica \(L.\) Less.\)](https://trungtamthuoc.com/images/others/cay-cuc-tan-0-1637.jpg)
+**Cúc tần được biết đến khá phổ biến với công dụng trị cảm mạo, giúp tiêu đờm, sát trùng, tiêu hóa tốt và làm cho bữa ăn thêm ngon miệng. Trong bài viết này,[Trung Tâm Thuốc Central Pharmacy](https://trungtamthuoc.com/ "Trung Tâm Thuốc Central Pharmacy") ([trungtamthuoc.com](https://trungtamthuoc.com/ "trungtamthuoc.com")) xin gửi đến bạn đọc những thông tin chi tiết về Cúc tần.**
+##  1 Giới thiệu về cây Cúc tần
+Cúc tần có tên khoa học là Pluchea indica (L.) Less., thuộc họ Cúc - Asteraceae. 
+### 1.1 Đặc điểm thực vật
+Cây cao khoảng 2m, có thân phân nhánh. Lá màu xanh lục nhạt, hình trứng ngược với đỉnh nhọn, mép có răng cưa và có bộ ba hoa mịn trang trí ở cả hai mặt lá. Lá mọc so le, có cuống ngắn hoặc không có cuống, với phiến lá có màng. Phần gốc bị cùn và các xương lá hình lông chim với lớp đệm giống như giấy da. Khi phiến lá bị nghiền nát, cây có mùi thơm. Thân cây khỏe, cứng, thân gỗ và tròn với các nhánh đơn. Cây có các nhánh rễ cái với các sợi rễ có kết cấu mềm. Cụm hoa là chùm hoa chùm mọc thành cụm dày đặc ở nách lá và đầu cành với tràng hoa màu tím/trắng. Hoa có cấu trúc giống như chiếc cốc và mang những quả nhỏ. Quả khô, màu nâu, không nứt, có hình trụ dài khoảng 1,0 mm.
+![Cây Cúc tần - Vị thuốc trị cảm mạo, tốt cho hệ tiêu hoá](https://trungtamthuoc.com/images/item/cay-cuc-tan-1.jpg)Hình ảnh cây Cúc tần
+### 1.2 Thu hái và chế biến
+Bộ phận dùng: Cành lá và rễ - Ramulus et Radix Plucheae Indicae. Cây này được thu hái các bộ phận tốt nhất vào mùa hè-thu từ những vùng quanh năm tốt nhất. Sau khi rửa sạch, chúng có thể được sử dụng tươi hoặc phơi khô để sử dụng dần.
+### 1.3 Cây cúc tần mọc ở đâu?
+Loài cây này chủ yếu được tìm thấy ở các khu vực nhiệt đới và cận nhiệt đới ở Châu Á, Châu Phi, Úc và Châu Mỹ, cũng như ở các vùng có nhiệt độ ấm áp của các quốc gia như Indonesia, Malaysia, Đài Loan, Úc, Mexico và Ấn Độ. **Cây cúc tần** mọc ở các vùng đất như gò bãi và ven đường quốc lộ. Nhiều nơi trồng cây này để làm hàng rào, cây thích hợp với độ cao từ 0 đến 200 mét và thời gian hoa và có quả từ tháng 2 đến tháng 6. Cây phân bố tại một số tỉnh của Việt Nam như Sơn La, Hòa Bình, Hà Nội, Ninh Bình, Thanh Hóa, [Nghệ](https://trungtamthuoc.com/hoat-chat/nghe "Nghệ") An, Thừa Thiên-Huế, Quảng Nam, Kon Tum, Gia Lai, Đăk Lăk, Lâm [Đồng](https://trungtamthuoc.com/hoat-chat/dong "Đồng") và Long An.
+![Cây Cúc tần - Vị thuốc trị cảm mạo, tốt cho hệ tiêu hoá](https://trungtamthuoc.com/images/item/cay-cuc-tan-4.jpg)Dược liệu cây Cúc tần
+##  2 Thành phần hóa học
+Cây là một nguồn giàu canxi, vitamin C, chất xơ và-carotene. Nhiều phân tử sinh học đã được phân lập từ P. indica, bao gồm thiophenes, terpenes, axit quinic, sterol, lignans, phenolics và flavonoid, thiophenes, sesquiterpenes, axit quinic, sterol, lignans và flavonoid.
+Lá P. indica có chứa nhiều [Canxi](https://trungtamthuoc.com/hoat-chat/canxi "Canxi") hơn gấp bảy lần (251 mg/100 g) và β-caroten gấp đôi (1225 μg/100 g) so với lá Húng [Quế](https://trungtamthuoc.com/hoat-chat/que "Quế") (tương ứng là 32 mg/100 g và 812 μg/100 g). Một trăm gam lá chứa nước (87,53 g), protein (1,79 g), chất béo (0,49 g), chất xơ (không hòa tan 0,89 g, hòa tan 0,45 g và tổng số 1,34 g), carbohydrate (8,65 g), canxi (251 mg), β-caroten (1225 μg) và [Vitamin C](https://trungtamthuoc.com/hoat-chat/vitamin-c "Vitamin C") (30,17 μg).
+![Cây Cúc tần - Vị thuốc trị cảm mạo, tốt cho hệ tiêu hoá](https://trungtamthuoc.com/images/item/cay-cuc-tan-5.jpg)Các hợp chất trong cây Cúc tần
+##  3 Cây Cúc tần trị bệnh gì?
+### 3.1 Tác dụng dược lý 
+Pluchea indica (L.) Less (còn được gọi là "Khlu" trong tiếng Thái) là một trong những loại cây thuốc bản địa nổi tiếng nhất ở Đông Nam Á và các nước có khí hậu ấm áp khác. Ở Thái Lan, Khlu được sử dụng truyền thống như một loại thuốc dân gian để điều trị nhiều bệnh, bao gồm sỏi thận (thân cây), [bệnh trĩ](https://trungtamthuoc.com/bai-viet/benh-tri-dau-hieu-benh-va-cach-chua-benh-tri-tai-nha "bệnh trĩ") (vỏ cây), viêm nhiễm, [đau thắt lưng](https://trungtamthuoc.com/bai-viet/dau-that-lung "đau thắt lưng") và bệnh bạch cầu (lá). Lá Khlu cũng được sử dụng như một loại thảo mộc ẩm thực, cung cấp các hợp chất tăng cường sức khỏe quan trọng như chất xơ, canxi, β-carotene, axit chlorogen, axit caffeic và quercetin. Trà Khlu đã được bán trên thị trường Thái Lan như một thức uống tăng cường sức khỏe.
+Đến nay, nhiều nghiên cứu đã tiết lộ rằng cả chiết xuất nước và cồn từ lá Khlu đều cho thấy hiệu quả cao trong việc ức chế quá trình oxy hóa lipid, loại bỏ các gốc tự do và khử ion [Sắt](https://trungtamthuoc.com/hoat-chat/sat "Sắt"). Hơn nữa, hoạt động dược lý của chiết xuất cồn của lá Khlu đã được chứng minh có tính chất chống viêm, chống nhiễm trùng và chống bệnh lao. Nghiên cứu gần đây đã báo cáo rằng chiết xuất nước thô của lá Khlu có khả năng được sử dụng như một chất chống ung thư mới, do khả năng ức chế sự tăng sinh và di chuyển của các tế bào ung thư thần kinh đệm ác tính ở não người (GBM8401) và tế bào [ung thư cổ tử cung](https://trungtamthuoc.com/bai-viet/ung-thu-co-tu-cung "ung thư cổ tử cung") ở người (tế bào HeLa).
+#### 3.1.1 Hoạt tính kháng viêm
+Chiết xuất của Cúc tần khử chất béo và có khả năng ức chế viêm bàn chân, viêm đa khớp, phù nề khớp và ngăn chặn sự hình thành u hạt. Nó cũng có khả năng bảo vệ niêm mạc dạ dày và giảm nồng độ axit. Hoạt tính chống viêm của chiết xuất MeOH từ rễ là do taraxasterol axetat được tách ra từ phần hexan. Tiền xử lý bằng chiết xuất MeOH từ rễ cũng làm giảm tình trạng tắc nghẽn mạch máu, ức chế chứng phù nề và giảm sự hình thành hydroperoxide.
+#### 3.1.2 Chống béo phì và tăng lipid máu
+Trong các nghiên cứu đã được thực hiện, chiết xuất H2O của lá đã được chứng minh là có khả năng giảm tích tụ lipid, ức chế quá trình tạo mỡ và thay đổi nồng độ các chất khác trong các tế bào tạo mỡ. Nó cũng có khả năng ức chế [Lipase](https://trungtamthuoc.com/hoat-chat/lipase "Lipase"). Trà P. indica được chứng minh là có khả năng cải thiện tình trạng tăng đường huyết, [rối loạn lipid máu](https://trungtamthuoc.com/bai-viet/roi-loan-chuyen-hoa-lipid-mau "rối loạn lipid máu") và [béo phì](https://trungtamthuoc.com/bai-viet/benh-beo-phi "béo phì") ở chuột do chế độ ăn nhiều chất béo (HFD) và làm giảm đáng kể trọng lượng chất béo TG, TC, LDL-C và pergonal ở chuột được điều trị bằng HFD.
+#### 3.1.3 Chống đái tháo đường
+Nghiên cứu cho thấy chiết xuất lá P. indica từ cây táo đắng có khả năng [hạ đường huyết](https://trungtamthuoc.com/bai-viet/ha-glucose-mau "hạ đường huyết"), bảo vệ tế bào β bằng cách thúc đẩy sự tăng sinh tế bào và ngăn chặn quá trình chết theo chương trình. Các chất chiết xuất từ lá P. indica sở hữu khả năng ức chế α-glucosidase và maltase có thể làm chậm quá trình phân hủy tinh bột thành [Glucose](https://trungtamthuoc.com/hoat-chat/glucose "Glucose") và tăng sự hấp thu glucose, do đó làm giảm mức đường huyết.
+![Cây Cúc tần - Vị thuốc trị cảm mạo, tốt cho hệ tiêu hoá](https://trungtamthuoc.com/images/item/cay-cuc-tan-3.jpg)**Rau Cúc tần luộc**
+#### 3.1.4 Diệt côn trùng và diệt cỏ
+Một nghiên cứu đã cho thấy chiết xuất lá từ dịch chiết P. indica có thể là một loại thuốc trừ sâu và diệt cỏ sinh học tiềm năng, được xem là an toàn và thân thiện với môi trường. 
+#### 3.1.5 Hoạt tính gây độc tế bào
+Chiết xuất EtOH từ P. indica có khả năng giết các tế bào ung thư NPC và K562, kích hoạt quá trình chết theo chương trình của chúng. Chiết xuất nước lá và rễ cũng có khả năng chống di cư và tăng sinh trên các tế bào HeLa và GBM8401. Ngoài ra, phần gốc hexane của P. indica ức chế sự phát triển của tế bào GBM và tăng cường quá trình autophagy. Sản phẩm hạt nano lipid rắn SLN được tạo ra từ P. indica đã cho thấy tiềm năng chống ung thư trên tế bào EAC của chuột bạch tạng Thụy Sĩ.
+#### 3.1.6 Bảo vệ gan và thần kinh
+Chiết xuất từ lá và rễ của P. indica đã cho thấy khả năng cải thiện tổn thương gan và giảm đau thần kinh ở chuột. Nghiên cứu cũng đã chỉ ra rằng P. indica có khả năng ức chế các phản ứng viêm và stress oxy hóa. Chiết xuất từ rễ cũng có tác dụng kéo dài giấc ngủ và giảm hoạt động vận động ở những con chuột bị cô lập, cho thấy tiềm năng ức chế thần kinh trung ương mạnh mẽ.
+#### 3.1.7 Chữa lành vết thương
+Lá P. Indica được sử dụng để chữa lành vết thương và loét miệng trong thuốc truyền thống của Thái Lan. Nguyên bào sợi tạo ma trận ngoại bào quan trọng trong giai đoạn tăng sinh chữa lành vết thương. Sự tăng sinh quá mức của nguyên bào sợi dẫn đến hình thành sẹo và suy giảm chức năng. Chiết xuất lá P. Indica giàu flavonoid, có khả năng chống oxy hóa và hỗ trợ quá trình lành vết thương trong khoang miệng. Các hạt nano chiết xuất từ lá P. Indica có khả năng chữa lành vết thương và giảm viêm niêm mạc miệng. Quercetin là chất [Flavonoid](https://trungtamthuoc.com/hoat-chat/flavonoid "Flavonoid") chính trong lá P. Indica ngăn chặn sự tăng sinh và tổng hợp [Collagen](https://trungtamthuoc.com/hoat-chat/collagen "Collagen") trong quá trình chữa lành vết thương.
+#### 3.1.8 Chống bệnh trĩ
+Lá của P. indica truyền thống được sử dụng để điều trị bệnh trĩ, và nghiên cứu đã chứng minh rằng việc uống chiết xuất trà P. indica H2O giảm tổn thương trực tràng và bệnh trĩ do dầu croton gây ra ở chuột.
+#### 3.1.9 Kháng khuẩn
+Chiết xuất lá P. indica có khả năng kháng khuẩn đối với các vi khuẩn gây nhiễm trùng ống chân răng, bệnh nha chu và [sâu răng](https://trungtamthuoc.com/bai-viet/benh-sau-rang "sâu răng"), và công thức gel có 1% carbopol 940 và 1,5% HPMC cũng có khả năng kháng khuẩn đối với P. aeruginosa và S. aureus.
+#### 3.1.10 Chống oxy hóa
+Các nghiên cứu cho thấy chiết xuất MeOH của rễ có khả năng chống oxy hóa với các loại gốc tự do khác nhau và chiết xuất EtOH của lá có khả năng ngăn chặn quá trình oxy hóa. Ngoài ra, dịch chiết lá nước nóng có khả năng thu hồi DPPH tốt hơn BHT.
+### 3.2 Công dụng của Cúc tần theo y học cổ truyền
+#### 3.2.1 Tính vị, tác dụng
+Cây cúc tần có vị cay, hơi đắng, mùi thơm và tính ấm; có tác dụng tán phong hàn, lợi tiểu, tiêu độc, tiêu ứ, tiêu đờm, sát trùng, giúp tiêu hóa và làm cho bữa ăn thêm ngon miệng. Ở Ấn Độ, người ta tin rằng rễ và lá của cây này có tác dụng giải nhiệt, giảm sốt.
+Lá của cây P. indica có vị ngọt, mùi thơm và tính se. Chúng có thể được ăn sống hoặc được chần qua trước khi ăn với tương ớt mới chế biến, được sử dụng như một nguyên liệu trong nhiều món ăn như Kang ped (súp nước cốt dừa cay) và yum (salad chua cay).
+![Cây Cúc tần - Vị thuốc trị cảm mạo, tốt cho hệ tiêu hoá](https://trungtamthuoc.com/images/item/cay-cuc-tan-2.jpg)Hoa Cúc tần
+##  4 Cây cúc tần có tác dụng gì?
+Lá non của cây Cúc tần thường được sử dụng như rau sống để ăn. Cành, lá, rễ thường được sử dụng để trị các triệu chứng sau đây: 1. Cảm mạo, nóng trong cơ thể, không đổ mồ hôi, khó tiểu; 2. Phong thấp, tê bại, đau nhức xương và đau thắt lưng; 3. Trẻ em ăn uống chậm tiêu. Cây cũng được sử dụng ngoài để chữa chấn thương, gãy xương, bong gân và trị ghẻ.
+Ở Trung Quốc, cây này còn được sử dụng để chữa bệnh viêm hạch bạch tuyết ở dạng lao cổ. Ở Thái Lan, toàn bộ cây được sử dụng ngoài để điều trị các bệnh về da, trong khi lá tươi được sử dụng để trị bệnh trĩ.
+Cách sử dụng là ngày dùng 10-15g cành lá hoặc 6-8g rễ khô sắc nước uống. Người dân thường sử dụng nấu nước xông để giải cảm, và đôi khi sử dụng rễ phơi khô để sắc uống giải sốt nóng. Lá non và đọt non được giã nhỏ và trộn với rượu để đắp chữa đau nhức xương. Rễ được nấu nước uống để tạo ra mồ hôi trong bệnh sốt rét.
+Ở Trung Quốc (Quảng Châu), người ta sử dụng lá tươi giã nhuyễn, trộn với bột gạo và đường để làm bánh cho trẻ con ăn, giúp làm ấm dạ dày và trừ cam tích. Để trị [ghẻ](https://trungtamthuoc.com/bai-viet/benh-ghe "ghẻ"), người ta sử dụng cành lá nấu nước để tắm. Để trị chấn thương và bong gân, lá tươi được rửa sạch, giã nhỏ và đắp lên chỗ đau.
+### 4.1 Tắm lá cúc tần có tác dụng gì?
+Lá cúc tần có thành phần lạnh tính và tác dụng làm sạch da một cách nhẹ nhàng, giúp ngăn ngừa viêm rất tốt. Hương thơm nhẹ từ lá cũng giúp thư giãn và chống lại các vết loét.
+##  5 Uống nước lá Cúc tần có tác dụng gì?
+### 5.1 Để giảm đau khớp và xương
+Sử dụng rễ Cúc tần 15-20g để sắc nước uống. Ngoài ra, có thể kết hợp với rễ Trinh nữ 20g, rễ [Bưởi](https://trungtamthuoc.com/duoc-lieu/buoi-50 "Bưởi") bung 20g, [Đinh Lăng](https://trungtamthuoc.com/hoat-chat/dinh-lang "Đinh Lăng") 10g, [Cam Thảo](https://trungtamthuoc.com/duoc-lieu/cam-thao-32 "Cam Thảo") dây 10g để sắc nước uống.
+### 5.2 Để giảm cảm sốt, nhức đầu và ho
+Nếu không có mồ hôi, có thể sử dụng 2 nắm lá Cúc tần, 1 nắm lá Sả và 1 nắm lá Chanh để sắc xông và uống nóng, đắp chăn để ra mồ hôi.
+##  6 Tài liệu tham khảo
+  1. Từ điển Cây thuốc Việt Nam Tập 1 (Xuất bản năm 2021). Cúc tần trang 90 - 91, Từ điển Cây thuốc Việt Nam Tập 1. Truy cập ngày 14 tháng 2 năm 2023.
+  2. Tác giả Sabrin RM Ibrahim và cộng sự (Đăng ngày 7 tháng 4 năm 2022). [Phytoconstituents and Pharmacological Activities of Indian Camphorweed (Pluchea indica): A Multi-Potential Medicinal Plant of Nutritional and Ethnomedicinal Importance](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9030395/#:~:text=It%20is%20utilized%20to%20cure,%2C%20diabetes%2C%20rheumatism%2C%20etc), PubMed. Truy cập ngày 17 tháng 03 năm 2023.
+  3. Tạp chí Pharmaceutical Sciences Asia (Đăng tháng 08 năm 2019). [Nutrition, Health Benefits and Applications of Pluchea indica (L.) Less Leaves](https://pharmacy.mahidol.ac.th/journal/journalabstract.php?jvol=41&jpart=4&jconnum=1), Pharmaceutical Sciences Asia. Truy cập ngày 17 tháng 03 năm 2023.
+
+
+
+
+Source: https://trungtamthuoc.com/duoc-lieu/cuc-tan

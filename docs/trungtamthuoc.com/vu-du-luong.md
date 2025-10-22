@@ -1,0 +1,29 @@
+# Vũ Dư Lương
+
+![Vũ Dư Lương](https://trungtamthuoc.com/images/others/vu-du-luong-0748.jpg)
+**Vũ dư lương là loại thuốc cổ truyền ở Trung Quốc với tác dụng trị ho, tiêu chảy, kiết lỵ. Trong bài viết này,[Trung Tâm Thuốc Central Pharmacy](https://trungtamthuoc.com/ "Trung Tâm Thuốc Central Pharmacy") xin gửi đến bạn đọc những thông tin chi tiết về loại dược chất này.**
+##  1 Vũ Dư Lương là gì ?
+Vũ dư lương, còn gọi là vũ lương thạch, dư lượng thạch, là khoảng thạch quặng thiếc.
+Liên quan đến tên gọi, nguyên nhân do thời kỳ vua Đại Vũ trị thủy, vợ ông thường làm rất nhiều bánh màn thầu làm lương khô. Sau khi vua Đại Vũ trị thủy thành công, tiện tay vứt đồ ăn thừa xuống thung lũng và đầm ao. Vậy mà đồ ăn thừa đô rơi xuống đất bám rễ và sinh trưởng, nhanh chóng ra hoa kết trái, loại quả này khi nghiền nhỏ trở thành dạng bột màu hồng. Dân gian đặt tên là vũ dư lương, có vị ngọt chát, tính hàn, quy về vi đại tràng kinh. Vị ngọt của vũ dư lương tốt cho dạ dày, tính hàn có tác dụng hạ khí. Cho nên khiến cho khí trong phối không bị trào ngược, có thể điều trị chứng ho và nấc, hơn nữa còn điều trị được tình trạng tỳ, vị bị ứ nước. Vũ dư lương tính hàn nên có thể trừ nhiệt, từ đó giảm phiền muộn; ngăn chặn sự trào ngược, vì vậy có thể giảm chứng chướng bụng. Lại vì nó quy về đại tràng kinh, có vị chát, vị chát đi vào hạ tiêu, có tác dụng trị tiêu chảy, thường dùng với xích thạch chỉ, chuyên trị bệnh lỵ lâu ngày và các bệnh đi ngoài ra dịch nhầy lẫn máu.
+![](https://trungtamthuoc.com/images/item/vu-du-luong-1.jpg)Vũ Dư Lương
+##  2 Công dụng của Vũ Dư Lương
+Bản kính có viết: Vũ dư lương vị ngọt, tính hàn. Chủ yếu trị ho, cơ thể lúc nóng lúc lạnh, căng tức trong lồng ngực, tiêu chảy. kiết lỵ. Ngoài ra, vị thuốc này còn dùng trị chứng khí hư trắng đỏ ở phụ nữ, kinh nguyệt không đều, ứ máu, trướng bụng. Đặc biệt còn có thể tiêu trừ chứng sốt ác tính.
+Vũ dư lương vị chát, có công dụng hấp thu, do đó điều trị băng huyết ở phụ nữ rất có hiệu quả.. Ngoài ra, còn có tác dụng tiêu trừ "thái nhiệt" (tức nhiệt ở Dương minh kinh). Bản thảo cương mục cho rằng: Nó còn có tác dụng thúc đẩy sản phụ dễ sinh nở, trị bệnh viêm khớp cấp, từ chỉ tê bì, mất cảm giác. Vũ dư lương có dạng và chất giống như bột, nên cổ nhân cho rằng, có thể bổ tỷ, do đó gọi là "lương”, làm giảm cảm giác đói. Vì có ưu điểm bố dưỡng khí hậu thiên nên được gọi là "khinh thân diễn niên" (kéo dài tuổi thọ). Thực tế, quan điểm này để cao được tính hơi quá.
+##  3 Một số bài thuốc từ Vũ Dư Lương
+### 3.1 Chữa trị đi tả không dứt
+Vũ dư lương 125g (sao rồi đổ giấm vào ngâm cho sủi bọt), ở đầu 31g (ngâm qua nước là 1 đêm, sau đó bóc vỏ, bỏ cuống rồi sao). Những vị thuốc trên nghiền nhỏ, cho giấm vào quấy đều rồi nặn thành viên bằng hạt ngô, uống trước khi ăn, mỗi lần uống 5 viên bằng nước ấm.
+### 3.2 Chữa thương hàn kiết lỵ, u cứng dưới vùng tìm
+Canh vũ dư lương: Xích thạch chỉ, vũ dư lương, mỗi loại 500g. Tất cả các vị thuốc trên cùng đem nghiền nhỏ, cho vào 61 nước đun còn 11 nước thuốc, lọc bỏ cặn bã rồi sử dụng.
+Chữa trị băng huyết, khí hư bất thường, tăng khả năng mang thai Vũ dư lương (sao rồi nghiền) xích thạch chỉ (sao khô rồi nghiền), [Mẫu Lệ](https://trungtamthuoc.com/hoat-chat/mau-le "Mẫu Lệ") (sao khô rồi nghiền), ô tặc cốt, phục long can (sao), [Quế](https://trungtamthuoc.com/hoat-chat/que "Quế") tâm (nghiền nhỏ). Dùng rượu ẩm uống 1g, mỗi ngày uống 2 lần. Kiêng kỵ hành, tỏi.
+### 3.3 Chữa trị đau ruột thừa, khí hư, phụ nữ đau bụng dưới
+Vũ dư lương nghiền thành bột, uống với canh tôm nõn. Mỗi ngày dùng 2 lần, hiệu quả rất thần kỳ.
+![](https://trungtamthuoc.com/images/item/vu-du-luong-2.jpg)Sơ đồ trị liệu từ Vũ Dư Lương
+##  4 ĐÔNG Y TRỊ LIỆU BỆNH PHỤ KHOA
+Tranh thị nữ ngắm hoa (bộ phận).
+Tranh lua màu, chiều dọc 46cm, ngang 180cm, lưu giữ tại viện bảo tàng tỉnh Liêu Ninh. 
+Thời nhà Hạ, Thương, Minh, Đông y trị bệnh phụ khoa đã bắt đầu phát triển, chủ yếu là tài liệu ghi chép các lý luận về vấn đề khô sinh, thuốc phụ khoa, phôi và thai nhi. Bộ sách Y học nổi tiếng đầu tiên là Hoàng Đế nội kinh thời Chiến quốc còn lưu giữ lại có nhắc đến các lý luận cơ bản về: Giải phẫu cho nữ giới, sinh lý kinh nguyệt, chẩn đoán mang thai. Hơn nữa, bộ sách này còn tường thuật lại một cách sơ bộ các bệnh lý, phụ khoa như tắc kinh, khí hư, băng huyết, [vô sinh](https://trungtamthuoc.com/bai-viet/nguyen-nhan-cach-dieu-tri-va-phong-benh-vo-sinh-chung-o-nu-gioi-va-nam-gioi "vô sinh")..., ngoài ra còn xuất hiện tác phẩm của thần y Biển Thước có tên Đới hạ y để cập về công tác chuyên môn khoa phụ sản. Thời nhà Tần đã có những ghi chép về các bệnh án sản phụ khoa, đến thời nhà Hán đã cho ra đời cuốn Nữ y, trích những ghi chép về công tác chuyên môn Y học như: Thuốc thụ thai, phôi thai, phẫu thuật bỏ [thai chết lưu](https://trungtamthuoc.com/bai-viet/thai-chet-luu-nguyen-nhan-trieu-chung-va-dieu-tri "thai chết lưu"). Cuốn Kinh thì có ghi chép hơn 50 loại thuốc phụ khoa, trong đó không thể thiếu một số thuốc phụ khoa quan trọng. Cuốn Sơn hải kinh có ghi chép hơn 120 loại, ngày nay một số Đông được phụ khoa được dùng phổ biến như: Vũ dư lương, [Hồng Hoa](https://trungtamthuoc.com/hoat-chat/hong-hoa "Hồng Hoa"), hoa hồng, [Đương Quy](https://trungtamthuoc.com/hoat-chat/duong-quy "Đương Quy"), [Ích mẫu](https://trungtamthuoc.com/hoat-chat/ich-mau "Ích mẫu") thảo, quyển bách, [Tang Ký Sinh](https://trungtamthuoc.com/hoat-chat/tang-ky-sinh "Tang Ký Sinh"), nam qua đế, kìm anh tử, ô kẻ (gà đen)...
+##  5 Tài liệu tham khảo
+Sách [Thần Nông Bản Thảo Kinh](https://trungtamthuoc.com/bai-viet/sach-than-nong-ban-thao-kinh "Thần Nông Bản Thảo Kinh") (Xuất bản năm 2021). Vũ Dư Lương, trang 30-31. Truy cập ngày 13 tháng 12 năm 2023.
+
+
+Source: https://trungtamthuoc.com/duoc-lieu/vu-du-luong

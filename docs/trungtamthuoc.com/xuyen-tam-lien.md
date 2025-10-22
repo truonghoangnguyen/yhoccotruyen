@@ -1,0 +1,64 @@
+# Xuyên Tâm Liên (Andrographis paniculata)
+
+![Xuyên Tâm Liên \(Andrographis paniculata\)](https://trungtamthuoc.com/images/others/cay-xuyen-tam-lien-0-0624.jpg)
+**Xuyên tâm liên được biết đến khá phổ biến với công dụng trị viêm đường tiết niệu, viêm đường ruột, viêm phổi, loét miệng lưỡi, viêm họng, ho. Trong bài viết này,[Trung Tâm Thuốc Central Pharmacy](https://trungtamthuoc.com/ "Trung Tâm Thuốc Central Pharmacy") ([trungtamthuoc.com](https://trungtamthuoc.com/ "trungtamthuoc.com")) xin gửi đến bạn đọc những thông tin chi tiết về Xuyên tâm liên.**
+##  1 Giới thiệu về cây Xuyên tâm liên
+[Xuyên Tâm Liên](https://trungtamthuoc.com/duoc-lieu/xuyen-tam-lien-61 "Xuyên Tâm Liên") hay còn được gọi là Nguyễn cộng, Công cộng, tên khoa học là _Andrographis paniculata (Burm.f.) Ness._ , thuộc họ Ô rô - Acanthaceae.
+### 1.1 Đặc điểm thực vật
+Cây thảo nhỏ có chiều cao dao động từ 0,4-1m và thường sống từ 1-2 năm. Thân của cây có hình dạng vuông và có nhiều đốt, mọc thẳng đứng. Cây nhiều cành, các cành mọc theo bốn hướng. Lá đơn, có cuống ngắn, hình mác, phiến nguyên và mọc đối. Mặt lá nhẵn bóng, màu xanh thẫm. Hoa mọc thành chùm ở nách lá hoặc đầu cành. Đài hoa có năm răng nhỏ, đều và có lông. Tràng hoa ở phía dưới hình ống, phía trên tạo thành hai môi màu trắng điểm hồng ở họng. Hai nhị đính ở họng tràng, bầu hoa có hai ô. Quả nang mọc thẳng đứng, hẹp dài và hơi có lông mịn, nhọn ở đầu. Hạt tròn. Toàn bộ cây có vị đắng, mùa hoa thường vào khoảng tháng 9-12 và mùa quả từ tháng 1-2.
+![Vị thuốc Xuyên tâm liên - Tăng cường hệ miễn dịch cơ thể](https://trungtamthuoc.com/images/item/cay-xuyen-tam-lien-1.jpg)Hình ảnh cây Xuyên tâm liên
+### 1.2 Thu hái và chế biến
+Cây Andrographis paniculata có thể thu hái phần trên mặt đất để sử dụng (Herba Andrographitis) trước khi cây ra hoa. Sau đó, cắt thành từng đoạn và phơi hoặc sấy khô để bảo quản. Thân của cây có hình dạng vuông và thường phân nhánh. Đốt của cây có cấu trúc mỏng manh và dễ gãy, mang mùi nhẹ và đặc trưng, vị rất đắng.
+### 1.3 Đặc điểm phân bố
+Andrographis paniculata xuất hiện tự nhiên tại Đài Loan, Trung Quốc đại lục và Ấn Độ, cũng như nhiều vùng nhiệt đới và cận nhiệt đới trên châu Á, Đông Nam Á và một số quốc gia khác như Campuchia, Indonesia, Lào, Malaysia, Myanmar, Sri Lanka, Thái Lan. Ở Việt Nam, loại cây này thường được tìm thấy trong tự nhiên và được trồng để sử dụng trong lĩnh vực y học tại nhiều địa phương.
+![Hình ảnh cây xuyên tâm liên](https://trungtamthuoc.com/images/item/xuyen-tam-lien-tac-dung.jpg)Hình ảnh cây xuyên tâm liên
+##  2 Thành phần hóa học
+Xuyên Tâm Liên đã được các nhà khoa học Ấn Độ nghiên cứu từ rất lâu. Năm 1887, E. Pozzi cho biết trong vỏ cây, vỏ rễ có hàm lượng tanin cao. 
+Năm 1949, các nhà nghiên cứu đã chiết xuất được 2,68% chất glucozit đắng, gọi là Andrographolide. Andrographolide là thành phần chính được chiết xuất từ ​​lá cây và là một diterpenoid lacton hai vòng.
+Năm 1952, Kleipool đã phát hiện trong loài cây này có chứa chất không có vị đắng thuộc nhóm Lacton, được đặt tên là neoAndrographiolide. 
+Ngoài ra, Xuyên Tâm Liên còn chứa một số thành phần khác như [Flavonoid](https://trungtamthuoc.com/hoat-chat/flavonoid "Flavonoid"), noriridoides, xanthones, polyphenol và các nguyên tố vi lượng khác.
+![Vị thuốc Xuyên tâm liên - Tăng cường hệ miễn dịch cơ thể](https://trungtamthuoc.com/images/item/thanh-phan-xuyen-tam-lien\(1\).jpg)Thành phần hóa học của Xuyên Tâm Liên
+##  3 Thuốc xuyên tâm liên chữa bệnh gì?
+### 3.1 Tác dụng dược lý 
+Tác dụng của Xuyên tâm liên bao gồm kích thích miễn dịch, nâng cao cơ chế phòng vệ của cơ thể, chống oxy hóa, bảo vệ gan, giảm lipid huyết, [hạ đường huyết](https://trungtamthuoc.com/bai-viet/ha-glucose-mau "hạ đường huyết"), hạ huyết áp, an thần, chống tiêu chảy, ngừa cảm lạnh, kháng khuẩn, kháng virus và độc tế bào. Trong khi đó, Andrographolid có tác dụng hạ [Glucose](https://trungtamthuoc.com/hoat-chat/glucose "Glucose") huyết, kháng virus, kháng khuẩn và chống khối u.
+Andrographis là một loại thảo dược đã được sử dụng trong nhiều thế kỷ trên khắp châu Á để điều trị nhiều loại bệnh như tiểu đường, huyết áp cao, cúm và sốt rét. Ở Hoa Kỳ và các nước phương Tây khác, andrographis được sử dụng như một chất bổ sung để điều trị các vấn đề liên quan đến sức khỏe hô hấp và chống viêm. Các nghiên cứu đã chỉ ra rằng andrographis có thể giúp giảm các triệu chứng của [cảm lạnh](https://trungtamthuoc.com/bai-viet/cam-lanh-nguyen-nhan-trieu-chung-va-cac-bai-thuoc-dan-gian-chua-tri "cảm lạnh") và các bệnh nhiễm trùng đường hô hấp, giảm đau và viêm trong trường hợp viêm khớp dạng thấp. Nghiên cứu mới nhất còn cho thấy rằng andrographis có thể giúp giảm đau và viêm đối với những người bị viêm xương khớp nhẹ đến trung bình ở khớp gối.
+Andrographis có tác dụng chữa bệnh khác nhau. Nghiên cứu đã chỉ ra rằng nó có thể giúp điều trị viêm loét đại tràng bằng cách giảm protein gây viêm, tuy nhiên cần nghiên cứu thêm về việc sử dụng nó như một liệu pháp chữa bệnh. Nó cũng có thể giúp điều trị [viêm khớp dạng thấp](https://trungtamthuoc.com/bai-viet/viem-khop-dang-thap "viêm khớp dạng thấp") bằng cách loại bỏ các tế bào miễn dịch tấn công khớp. Andrographis cũng có thể bảo vệ gan khỏi nhiễm viêm gan C bằng cách hạn chế sự tăng trưởng của virus và giảm tốc độ lây nhiễm.
+![Vị thuốc Xuyên tâm liên - Tăng cường hệ miễn dịch cơ thể](https://trungtamthuoc.com/images/item/cay-xuyen-tam-lien-2.jpg)Lá, hoa cây xuyên tâm liên
+### 3.2 Vị thuốc Xuyên tâm liên - Công dụng theo y học cổ truyền
+#### 3.2.1 Tính vị, tác dụng
+Xuyên tâm liên có vị ngọt, đắng, tính ấm, mùi thơm nhẹ, có tác dụng táo thấp lợi thuỷ, bổ tỳ ích khí, an thai, cố biểu chỉ hãn.
+![Toàn cây xuyên tâm liên](https://trungtamthuoc.com/images/item/xuyen-tam-lien-tac-dung-0.jpg)Toàn cây xuyên tâm liên
+#### 3.2.2 Công dụng của cây Xuyên tâm liên
+Xuyên tâm liên được sử dụng để điều trị các bệnh như viêm đường tiết niệu, viêm đường ruột, viêm phổi, loét miệng lưỡi, viêm họng, ho, phối hợp với các thuốc bảo vệ gan. Nó cũng được sử dụng trong việc chữa cúm mùa bằng cách kích thích miễn dịch và có thể được sử dụng làm thuốc bổ cho tiêu hóa.
+Ngoài ra, xuyên tâm liên cũng được sử dụng để chữa trị các bệnh như mụn nhọt, rôm sảy, [ghẻ](https://trungtamthuoc.com/bai-viet/benh-ghe "ghẻ") lở, vết thương, nhiễm trùng ngoài da, bỏng, và rắn cắn. Nó có thể được sử dụng dưới dạng giã đắp hoặc nấu nước rửa, không cần quan tâm đến liều lượng.
+Xuyên tâm liên là một loại thảo mộc đã được sử dụng trong y học cổ truyền để điều trị nhiều loại bệnh như đau bụng, viêm nhiễm, sốt và sốt liên tục. Nó được sử dụng để giải độc cơ thể do rắn cắn và nọc độc của một số côn trùng, cũng như chữa khó tiêu, cảm cúm, kiết lị, sốt rét và viêm đường hô hấp. Lá của xuyên tâm liên được sử dụng để điều trị bệnh truyền nhiễm, gây sốt, đau bụng, chán ăn, phân không đều và tiêu chảy. Tại Malaysia, nước sắc được chiết từ các bộ phận trên mặt đất được sử dụng để điều trị các bệnh thông thường như cảm lạnh, cao huyết áp, đái tháo đường, ung thư, sốt rét và rắn cắn. Nó cũng là một thành phần quan trọng của ít nhất 26 công thức Ayurveda trong dược điển Ấn Độ.
+Trong y học cổ truyền Trung Quốc, xuyên tâm liên được coi là loại thảo mộc có tính lạnh và được sử dụng để loại bỏ cơ thể nóng sốt và loại bỏ độc tố khỏi cơ thể. Các bộ lạc ở Tamilnadu, Ấn Độ cũng sử dụng xuyên tâm liên để điều trị nhiều loại bệnh như [Đau Bụng Kinh](https://trungtamthuoc.com/bai-viet/cach-dau-bung-kinh-va-phong-tranh-dau-bung-kinh "Đau Bụng Kinh"), huyết trắng, chăm sóc trước và sau khi sinh, các bệnh phức tạp như sốt rét, vàng da, lậu và các bệnh thông thường như vết thương, vết cắt, [nhọt](https://trungtamthuoc.com/bai-viet/nhot "nhọt") và bệnh ngoài da.
+![Vị thuốc Xuyên tâm liên - Tăng cường hệ miễn dịch cơ thể](https://trungtamthuoc.com/images/item/xuyen-tam-lien-3\(1\).jpg)Công dụng của Xuyên Tâm Liên mang lại
+##  4 Uống xuyên tâm liên hàng ngày có tốt không? Ai không nên dùng?
+KViệc sử dụng xuyên tâm liên bổ sung có thể an toàn khi sử dụng lượng tối đa là 600mg mỗi ngày trong khoảng thời gian ngắn. Tuy nhiên, nếu sử dụng liều bổ sung cao hơn, có thể xảy ra những tác dụng phụ tiềm ẩn cần cân nhắc, bao gồm: tiêu chảy, buồn nôn, phát ban, đau đầu, mệt mỏi và mất cảm giác vị giác. Chúng ta cần lưu ý nguồn cung cấp andrographis uy tín khi sử dụng.
+Nếu bạn đang mang thai, cần phải cẩn trọng khi sử dụng chất bổ sung xuyên tâm liên vì có thể gây sẩy thai. 
+Cho con bú cũng không nên sử dụng và chưa có thông tin đáng tin cậy về sự an toàn của chất bổ sung này đối với trẻ sơ sinh nếu được truyền qua sữa. 
+Nếu bạn dự định phẫu thuật, bạn cần ngừng sử dụng chất bổ sung ít nhất 2 tuần trước đó vì andrographis có tác dụng làm loãng máu. 
+Nếu bạn đang mắc bệnh tự miễn, sử dụng chất bổ sung andrographis có thể làm tăng hoạt động của hệ thống miễn dịch và gây ra các triệu chứng bệnh tự miễn dịch.
+Các nghiên cứu gần đây cũng cho thấy rằng một số người dùng chất bổ sung andrographis đã ghi nhận tăng nồng độ alanine aminotransferase (ALT) trong máu. Điều này có thể cho thấy rằng chất bổ sung này có thể gây căng thẳng không cần thiết cho gan của bạn. Tuy nhiên, cần có nhiều nghiên cứu hơn để hiểu rõ hơn về mối liên hệ giữa andrographis và các vấn đề về gan. Vì vậy, nếu bạn đã có vấn đề về gan, nên tránh sử dụng chất bổ sung andrographis.
+![Vị thuốc Xuyên tâm liên - Tăng cường hệ miễn dịch cơ thể](https://trungtamthuoc.com/images/item/xuyen-tam-lien-4.jpg)Nghiên cứu về tác dụng chống SARS-CoV-2 của Xuyên Tâm Liên 
+##  5 Nghiên cứu về tác dụng chống SARS-CoV-2 của Xuyên Tâm Liên 
+Xuyên Tâm Liên là vị thuốc nổi bật với các hoạt tính dược lý khác nhau. Thành phần hoạt tính sinh học chính của Xuyên tâm Liên là andrographolide, một diterpene lacton trong họ isoprenoid, được biết đến với đặc tính kháng virus phổ rộng. Andrographolide gần đây đã được dự đoán có hoạt tính chống SARS-CoV-2 mạnh mẽ thông qua việc nhắm mục tiêu cụ thể vào thụ thể ACE2 của vật chủ và các yếu tố virus. 
+Một nghiên cứu được thực hiện nhằm đánh giá hoạt tính chống SARS-CoV-2 của chiết xuất andrographolide, bằng cách sử dụng mô hình hợp pháp của tế bào biểu mô phổi người bị nhiễm. Kết quả nghiên cứu đã chứng minh hoạt tính chống SARS-CoV-2 của dược liệu này đối với các cơ quan chính trong mô hình nuôi cấy tế bào. Các hoạt động chống SAR-CoV-2 mạnh mẽ, cùng với các cấu hình gây độc tế bào thuận lợi, hỗ trợ sự phát triển hơn nữa của chiết xuất Xuyên Tâm Liên, đặc biệt là andrographolide dưới dạng đơn trị liệu hoặc kết hợp với các loại thuốc hiệu quả khác chống lại nhiễm trùng SARS-CoV-2. 
+![Vị thuốc Xuyên tâm liên - Tăng cường hệ miễn dịch cơ thể](https://trungtamthuoc.com/images/item/cay-xuyen-tam-lien-4.jpg)Dược liệu **cây Xuyên tâm liên**
+##  6 Thuốc xuyên tâm liên liều uống dùng như thế nào?
+  * Liều dùng uống hàng ngày là 4-6 gam, có thể hãm với nước hoặc sử dụng để súc miệng, ngậm để giảm viêm họng hoặc chữa [sâu răng](https://trungtamthuoc.com/bai-viet/benh-sau-rang "sâu răng").
+  * Ở miền Trung, xuyên tâm liên được sử dụng để giúp phụ nữ sau khi sinh trị ứ huyết, đau nhức thấp, kinh nguyệt bế tắc và mụn hai bên cổ. Liều dùng được khuyến khích là 10-20g sắc uống hai lần trong ngày.
+  * [Nước](https://trungtamthuoc.com/hoat-chat/nuoc "Nước") sắc đặc của xuyên tâm liên có tính kháng khuẩn cao, do đó, một số nơi sử dụng nó để rửa vết thương hoặc ngâm trị liệu cho trĩ.
+
+
+##  7 Tài liệu tham khảo
+  1. Nhận thức cây thuốc và dược liệu (Xuất bản năm 2021). Xuyên tâm liên trang 74 - 75, Nhận thức cây thuốc và dược liệu. Truy cập ngày 14 tháng 2 năm 2023.
+  2. Tác giả DM Pollock (Đăng ngày 10 tháng 1 năm 2023). [What to Know About Andrographis Supplements: Potential Benefits and Uses](https://www.healthline.com/health/what-to-know-about-andrographis-supplements-potential-benefits-and-uses), Healthline. Truy cập ngày 06 tháng 04 năm 2023.
+  3. Tác giả Agbonlahor Okhuarobo và cộng sự (Đăng tháng 6 năm 2014). [Harnessing the medicinal properties of Andrographis paniculata for diseases and beyond: a review of its phytochemistry and pharmacology](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4032030/), PubMed. Truy cập ngày 06 tháng 04 năm 2023.
+  4. Tác giả: Khanit Sa-ngiamsuntorn, Ampa Suksatu, Yongyut Pewkliang, Piyanoot Thongsri, Phongthon Kanjanasirirat, Suwimon Manopwisedjaroen. (Ngày đăng: 23 tháng 4 năm 2021). [Anti-SARS-CoV-2 Activity of Andrographis paniculata Extract and Its Major Component Andrographolide in Human Lung Epithelial Cells and Cytotoxicity Evaluation in Major Organ Cell Representatives](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8056600/), NCBI. Truy cập ngày 06 tháng 04 năm 2023.
+
+
+
+
+Source: https://trungtamthuoc.com/duoc-lieu/xuyen-tam-lien-61

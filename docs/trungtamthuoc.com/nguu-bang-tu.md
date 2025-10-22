@@ -1,0 +1,91 @@
+# Ngưu Bàng Tử (Arctium lappa L.)
+
+![Ngưu Bàng Tử \(Arctium lappa L.\)](https://trungtamthuoc.com/images/others/nguu-bang-tu-1-0832.jpg)
+**Với công dụng hiệu quả trong hỗ trợ giải nhiệt, lợi tiểu, Ngưu bàng tử được rất nhiều người sử dụng mỗi ngày. Vì vậy,[Trung Tâm Thuốc Central Pharmacy](https://trungtamthuoc.com/ "Trung Tâm Thuốc Central Pharmacy") ([trungtamthuoc.com](https://trungtamthuoc.com/ "trungtamthuoc.com")) xin gửi đến quý bạn đọc thông tin về đặc điểm, công dụng và các bài thuốc của Ngưu bàng tử. **
+##  1 Ngưu bàng tử là gì?
+Là quả của cây Ngưu bàng. Ngưu bàng có tên khoa học là _Arctium lappa_ L., thuộc họ Cúc (Asteraceae). Cây mọc ở các trảng cỏ trên núi và thường được trồng, ở độ cao 1000-2000m. Dưới đây là **hình ảnh cây Ngưu bàng**.
+![Hình ảnh cây Ngưu bàng tử](https://trungtamthuoc.com/images/item/nguu-bang-tu-2.jpg)Hình ảnh cây Ngưu bàng tử
+### 1.1 Đặc điểm thực vật
+Cây thảo lớn, sống 2 năm, có thân thẳng, có khía và phân nhánh, màu tím tía, hơi có lông, cao 1-2m. Lá hình trái xoan, mọc thành hình hoa thị ở gốc và mọc so le ở trên thân; những lá phía dưới có cuống dài, phiến lá to, rộng tới 50cm, gốc hình tim, đầu tù hay nhọn, mép có răng hay lượn sóng, mặt trên nhẵn, có nhiều lông trắng ở mặt dưới; lá phía trên hình bầu dục.
+Hoa đỏ hay tím nhạt hợp thành cụm hoa ngù mang nhiều đầu to 3-4cm, các lá của tổng bao kéo dài thành mũi nhọn, có móc ở chóp; lá bắc lợp thành nhiều lớp. Quả bế, thuôn hoặc gần hình trứng, hơi có cạnh tam giác, màu xám nâu điểm hồng, có nhiều móc quặp, phía trên có một mào lông ngắn màu vàng. Ra hoa tháng 6-7, có quả tháng 8-9 của năm thứ hai.
+### 1.2 Thu hái và chế biến
+Bộ phận dùng: Quả, rễ, thân, lá. Quả thường gọi là Ngưu bàng tử.
+**Bào chế Ngưu bàng tử** : Tới năm thứ hai, khi cây ra quả, thu hái cụm quả chín, phơi khô rồi lấy quả, hay gọi là hạt, dùng sống hoặc sao qua tới khi có mùi thơm và nổ lép bép là được. Khi dùng giã nát. Rễ thu hái vào mùa thu năm thứ nhất hoặc mùa xuân năm thứ hai, dùng tươi hoặc phơi khô ở 70 độ C, sau khi đã chẻ dọc. Lá thường dùng tươi.
+### 1.3 Đặc điểm phân bố
+**Cây Ngưu bàng ở Việt Nam** có ở Lào Cai, Sơn La, Hà Giang, Vĩnh Phúc, Lâm [Đồng](https://trungtamthuoc.com/hoat-chat/dong "Đồng"). Ngoài ra còn có ở châu Âu, Tây Á, Siberi, Himalaya, Nhật Bản, Trung Quốc, Ấn Độ, Mianma, Thái Lan.
+##  2 Thành phần hóa học
+Ngưu bàng đã cho thấy các tác dụng dược lý đa dạng do sự hiện diện của các chất chuyển hóa thứ cấp dễ bay hơi và không bay hơi như axit béo, terpen, flavonoid, lignan, hợp chất acetylenic, hydrocarbon, polysacarit, phytosterol, terpenoid, aldehyd, axit cacboxylic, axit béo, monoterpen và sesquiterpen.
+### 2.1 Lignan
+Các lignan có hoạt tính sinh học chính được tìm thấy trong Ngưu bàng bao gồm arctigenin và glycoside arctiin của nó, hầu hết có trong hạt, quả, rễ và lá. Ngoài lignans, những bộ phận thực vật này cũng rất giàu sesquilignans và dilignans ở hàm lượng thấp. Lappaol A và B là những sesquilignans đầu tiên được phân lập và đặc trưng từ hạt. Trong những năm tiếp theo, nhiều sesquilignans hơn, cụ thể là Lappaol C, D và E, và hai dilignans, cụ thể là Lappaol F và H, đã được xác định từ hạt. Lappaol A, Lappaol C, Lappaol F, arctiin và arctigenin E đã được phân lập và sau đó được đặc trưng từ chiết xuất etanol của hạt Ngưu bàng.
+### 2.2 Axit béo và ester
+Các axit béo được xác định là axit stearic, metyl stearat, metyl palmitat, axit palmitic, axit oleic, metyl linolenat, metyl oleat, axit linoleic, metyllinoleat và axit linolenic. Các nghiên cứu đã báo cáo rằng methyl palmitate, methyl linoleate, sitosterol-β-D-glucopyranoside và methyl linolenate cho thấy tác dụng ức chế α-glucosidase. Metyl oleat, axit linolenic và metyl-α-linolenate là thành phần chính từ phần n-hexan của rễ cây. Sự hiện diện của axit palmitic, axit stearic, axit linoleic và axit oleic cũng đã được báo cáo từ trái cây.
+### 2.3 Hợp chất acetylenic
+9 hợp chất axetylen chứa [Lưu Huỳnh](https://trungtamthuoc.com/hoat-chat/luu-huynh "Lưu Huỳnh"), cụ thể là, arctinone-a & b, arctinol-a & b, arctinal, axit arctic-b & c, arctinone-a axetat và methyl arctate-b từ Ngưu bàng. Sau đó, sự hiện diện của một số guaianolide được liên kết với các hợp chất acetylenic chứa lưu huỳnh, như lappaphen-a & b, lacton, dehydrocostus, và dehydrodihydrocostus lacton, được phân lập và đặc trưng từ chiết xuất axeton của rễ cây.
+### 2.4 Polysaccharide
+Các nghiên cứu đã phân lập một số polysaccharide như chất pectic; rhamnogalacturonan với đường trung tính; hemicellulose (xyloglucan, xylan, galactan, arabinan và arabinogalactan); cellulose, arabinose và galactose từ thành tế bào và rễ của Ngưu bàng. Fructofuranans loại [Inulin](https://trungtamthuoc.com/hoat-chat/inulin "Inulin") có hoạt tính sinh học và các fructo-oligosacarit khác được phân lập từ rễ của Ngưu bàng nhưng với số lượng nhỏ.
+### 2.5 Tinh dầu
+Đã phân lập được 14 hợp chất hydrocacbon từ dầu hạt, lá và rễ của cây. Chúng bao gồm tetradecane, tetracosane, pentadecane, pentacosane, 1-pentadecene, 2-nepthalenemethanol, nonadecane, hexacosane, heptacosane, 1-heptadecene, eicosane, dihydroaplotaxene, cloven và aplotaxene.
+Ngoài ra, cũng báo cáo 19 andehyde cụ thể là 4-methoxybenzaldehyde, tridecanal, propanal, pentanal, phenylacetaldehyde, (E)-2-octanal, nonanal,3-metylpropanal, (E)-2-hexenal, (Z)-3-hexenal, hexanal, heptanal , dodecanal, decanal, butanal, benzaldehyde, octanal và undecanal từ dầu rễ cây. Chỉ có một loại aldehyde - alkyl aldehyde nonanal - được tìm thấy trong tất cả các bộ phận của cây, đó là lá, rễ và hạt.
+### 2.6 Các thành phần khác
+Phytosterol: Đã phân lập được β-sitosterol và daucosterol từ chiết xuất hạt etanolic; sitosterol-β-D-glucopyranoside cũng được phân lập từ dịch chiết etanolic của cây.
+Axit carboxylic: Rễ của Ngưu bàng đã được tìm thấy có chứa các dẫn xuất của axit caffeoylquinic, như axit 1-0-,5-O-dicaffeoylquinic. Cả axit chlorogen và axit caffeic đều có trong vỏ rễ của cây.
+Flavonoid: Flavanols và flavones là hai [Flavonoid](https://trungtamthuoc.com/hoat-chat/flavonoid "Flavonoid") chính được báo cáo từ Ngưu bàng. Quercetin-3-O-rhamnoside đã được báo cáo từ lá của cây. Luteolin, quercetin, quercetin và [Rutin](https://trungtamthuoc.com/hoat-chat/rutin "Rutin") từ rễ, lá, quả và hạt của Ngưu bàng.
+![Ngưu bàng tử](https://trungtamthuoc.com/images/item/nguu-bang-tu-va-cong-dung.jpg)Ngưu bàng tử
+> == >> Mời bạn đọc tham khảo vị thuốc cùng công dụng: [Cây Kim ngân hoa - Vị thuốc giúp thanh nhiệt, giải độc và kháng khuẩn](https://trungtamthuoc.com/duoc-lieu/kim-ngan-hoa-33)
+##  3 Tác dụng - Công dụng của Ngưu bàng tử
+### 3.1 Tác dụng dược lý
+#### 3.1.1 Chống ung thư
+Arctigenin, một lignan tự nhiên, đã được phân lập từ hạt của Ngưu bàng có hoạt tính chống khối u. Tác dụng của nó được thể hiện bằng cách điều chỉnh các tế bào khối u dễ bị ảnh hưởng bởi môi trường nghèo dinh dưỡng. Arctigenin được phát hiện làm tăng tỷ lệ tế bào trong giai đoạn chu kỳ tế bào (G0/G1) trong dòng tế bào ung thư biểu mô tuyến phổi A549. Nó cũng làm giảm mức protein liên quan đến tín hiệu điểm kiểm tra pha GI/S, bao gồm kinase phụ thuộc cyclin CDK2, CDK7, cyclin E & H, protein nhân được ánh xạ tới locus AT và kinase phụ thuộc cyclin protein.
+#### 3.1.2 Trị tiểu đường
+Chiết xuất etanolic của rễ Ngưu bàng dùng đường uống cho chuột mắc bệnh tiểu đường do streptozocin gây ra đã làm giảm mức [Glucose](https://trungtamthuoc.com/hoat-chat/glucose "Glucose") và tăng mức [Insulin](https://trungtamthuoc.com/hoat-chat/insulin "Insulin") trong máu một cách đáng kể. Ngưu bàng giảm đáng kể [lipoprotein](https://trungtamthuoc.com/bai-viet/cau-tao-va-phan-loai-liporotein "lipoprotein") mật độ rất thấp (VLDL), cholesterol toàn phần trong huyết thanh (TC) và chất béo trung tính (TG) ở chuột mắc bệnh tiểu đường.
+#### 3.1.3 Kháng khuẩn
+Chiết xuất lá đông khô của cây thể hiện hoạt tính kháng khuẩn, đặc biệt là chống lại vi khuẩn có liên quan đến mầm bệnh nội nha như _Pseudomonas aeruginosa,[Lactobacillus](https://trungtamthuoc.com/hoat-chat/lactobacillus "Lactobacillus") acidophilus, Candida albicans_ và _[Bacillus](https://trungtamthuoc.com/hoat-chat/bacillus "Bacillus") subtilis._ Axit chlorogen thu được từ chiết xuất rễ của nó đã cho thấy hoạt tính kháng khuẩn chống lại Klebsiella pneumoniae và cũng được phát hiện là có hoạt tính kháng β-lactamase. Ngoài ra nó còn ức chế sự hình thành màng sinh học của _Escherichia coli_ và nấm _Candida_.
+#### 3.1.4 Trị bệnh da liễu
+Lá Ngưu bàng được dùng trị bệnh vẩy nến, áp xe, [mụn trứng cá](https://trungtamthuoc.com/bai-viet/trung-ca "mụn trứng cá"), [bệnh vảy cá](https://trungtamthuoc.com/bai-viet/benh-vay-ca "bệnh vảy cá"), chàm, [nhọt](https://trungtamthuoc.com/bai-viet/nhot "nhọt") và phát ban. Những hoạt động này có thể là do sự xuất hiện của các hợp chất phenolic trong cây. Khả năng chống oxy hóa và chống viêm của các hợp chất này hỗ trợ quá trình khử độc và làm trung gian cho hoạt động chữa bệnh của cây. Cây Ngưu bàng được sử dụng như một thành phần trong các sản phẩm mỹ phẩm thương mại khác nhau vì sự hiện diện của các dẫn xuất axit hydroxycinnamic khác nhau góp phần vào các hoạt động chống vi khuẩn, chống viêm, chống collagenase và chống tyrosinase cũng như bảo vệ chống lại bức xạ cực tím.
+#### 3.1.5 Bảo vệ gan và dạ dày
+Tiềm năng chống oxy hóa in vivo và in vitro của cây đã được báo cáo, điều này cũng cho thấy rằng cây có hoạt tính bảo vệ gan tuyệt vời. Đã báo cáo khả năng chống oxy hóa của Ngưu bàng bằng cách sử dụng xét nghiệm phosphomolybdate và 2,2-diphenyl-1-picrylhydrazyl (DPPH) và báo cáo rằng toàn bộ chiết xuất Ngưu bàng thể hiện khả năng chống oxy hóa rất cao do có sự hiện diện của một lượng rất lớn polyphenol. Ngưu bàng cũng được phát hiện có hoạt tính bảo vệ dạ dày do sự hiện diện của axit 1,3-dicaffeoylquinic đã được phân lập và đặc trưng từ phần etanol của cây.
+![Tác dụng của Ngưu bàng tử](https://trungtamthuoc.com/images/item/nguu-bang-tu-4.jpg)Tác dụng của Ngưu bàng tử
+> == >> Mời bạn xem thêm dược liệu: [Cây Tạo phì thảo - Vị thuốc trị bệnh ngoài da, đau xương khớp](https://trungtamthuoc.com/duoc-lieu/tao-phi-thao)
+### 3.2 Công dụng theo y học cổ truyền
+Ngưu bàng tử có tính hàn, vị cay, đắng, quy vào kinh phế, vị, có tác dụng sơ phong tán nhiệt, tuyên phế thấu chẩn, tán kết giải độc. Rễ có vị đắng, cay, tính hàn, có tác dụng thanh nhiệt giải độc, sơ phong lợi yết.
+Trong đông y, Ngưu bàng tử được dùng trong chữa phong lở, mày đay, bụng sình; dùng làm [thuốc lợi tiểu](https://trungtamthuoc.com/bai-viet/duoc-ly-thuoc-loi-tieu-dai-cuong-va-cac-thuoc-cu-the "thuốc lợi tiểu"), giải nhiệt, trị phù thũng, đau họng, sưng họng, phế viêm, cảm cúm, tinh hồng nhiệt. Rễ trị mụn nhọt, áp xe, nấm da, [hắc lào](https://trungtamthuoc.com/bai-viet/benh-hac-lao-tac-nhan-trieu-chung-va-phuong-phap-dieu-tri "hắc lào"), chàm, loét, viêm hạch, vết thương có mủ. Dùng ngoài trị rắn cắn, bệnh phổi mạn tính, cúm kéo dài và các chứng đau khác.
+##  4 Các bài thuốc từ cây Ngưu bàng tử
+### 4.1 Trị cảm sốt
+Chữa cảm cúm (Ngân kiều tán): Ngưu bàng tử, cát cánh, [Bạc Hà](https://trungtamthuoc.com/duoc-lieu/bac-ha "Bạc Hà") mỗi vị 24g, kim ngân, liên kiều mỗi vị 40g, cam thảo, đậu xị mỗi vị 20g, hoa [Kinh Giới](https://trungtamthuoc.com/hoat-chat/kinh-gioi "Kinh Giới") 16g, lá tre 4g. Tán bột, lấy 24g sắc nước uống, ngày 3-4 lần.
+Chữa cảm mạo, thủy thũng, chân tay phù: Ngưu bàng tử 80g, sao vàng tán bột, mỗi ngày uống 8g chia làm 3 lần, dùng nước nóng chiêu thuốc.
+Chữa cảm sốt, viêm họng sinh ho, trẻ lên [sởi](https://trungtamthuoc.com/bai-viet/benh-soi "sởi") lúc mới phát, sốt ho, mắt đỏ sưng đau: Ngưu bàng tử 12g, kim ngân hoa, [Cát Căn](https://trungtamthuoc.com/hoat-chat/cat-can "Cát Căn"), bạc hà, kinh giới mỗi vị 8g. Sắc với nước, xông và uống.
+### 4.2 Trị đậu chẩn
+Chữa đậu chẩn mọc chậm, viêm cổ họng: Ngưu bàng tử 8g, [Cát Cánh](https://trungtamthuoc.com/duoc-lieu/cat-canh-74 "Cát Cánh") 6g, [Cam Thảo](https://trungtamthuoc.com/duoc-lieu/cam-thao-32 "Cam Thảo") 3g. Sắc uống.
+Chữa trẻ lên đậu mọc không thuận, nóng sốt, cổ họng tắc: Ngưu bàng tử (sao) 5g, kinh giới tuệ 1g, cam thảo 2g. Sắc với 200ml nước tới khi còn 50ml, cho uống. Nếu đậu mọc rồi vẫn dùng được. Không dùng cho đại tiện không thông.
+### 4.3 Trị bệnh hô hấp
+Ho khan nhiều, khản tiếng: Ngưu bàng tử, tang bạch bì, sinh địa, địa cốt bì mỗi vị 8g, [Mạch Môn](https://trungtamthuoc.com/duoc-lieu/mach-mon "Mạch Môn"), thiên môn, sa sâm, sâm Bố Chính mỗi vị 12g, đan bì 6g, trúc lịch 10ml. Sắc uống.
+Viêm họng cấp (Ngân kiều tán gia giảm): Ngưu bàng tử, liên kiều, kinh giới, cương tàm, sinh địa, [Huyền Sâm](https://trungtamthuoc.com/hoat-chat/huyen-sam "Huyền Sâm") mỗi vị 12g, kim ngân 20g, bạc hà 6g, cát cánh, cam thảo mỗi vị 4g. Sắc uống.
+Viêm amidan cấp: Ngưu bàng tử 12g, [Kim Ngân Hoa](https://trungtamthuoc.com/hoat-chat/kim-ngan-hoa "Kim Ngân Hoa") 40g, liên kiều 16g, bạc hà, cát cánh mỗi vị 6g, cam thảo, hoàng cầm, [Hoàng Liên](https://trungtamthuoc.com/hoat-chat/hoang-lien "Hoàng Liên") mỗi vị 4g. Hoặc: Ngưu bàng tử 12g, cam thảo 8g, kinh giới 4g. Đều sắc uống.
+Viêm phổi giai đoạn khởi phát: Ngưu bàng tử, đậu xị mỗi vị 12g, kim ngân, liên kiều mỗi vị 16g, cát cánh, tiền hồ, bạc hà mỗi vị 8g, bối mẫu 6g. Sắc uống.
+### 4.4 Trị bệnh răng miệng
+Viêm loét lợi: Ngưu bàng tử, hoàng cầm, liên kiều, bạc hà, ngọc trúc, [Thăng Ma](https://trungtamthuoc.com/hoat-chat/thang-ma "Thăng Ma") mỗi vị 12g, thạch cao sống 40g, sinh địa, huyền sâm mỗi vị 16g, hoàng liên, tri mẫu mỗi vị 8g. Hoặc: Ngưu bàng tử, hoàng liên, sinh địa, huyền sâm, bạc hà, thăng ma mỗi vị 12g, thạch cao 20g, búp bàng 6g. Đều sắc uống.
+[Viêm nha chu](https://trungtamthuoc.com/bai-viet/nha-chu-viem-toan-bo-khu-tru-ap-xe-nha-chu "viêm nha chu") cấp tính: Ngưu bàng tử 12g, [Bồ Công Anh](https://trungtamthuoc.com/duoc-lieu/bo-cong-anh-30 "Bồ Công Anh") 20g, [Hạ Khô Thảo](https://trungtamthuoc.com/hoat-chat/ha-kho-thao "Hạ Khô Thảo"), kim ngân hoa mỗi vị 16g, bạc hà, gai [Bồ Kết](https://trungtamthuoc.com/hoat-chat/bo-ket "Bồ Kết") mỗi vị 8g. Hoặc: Ngưu bàng tử 12g, thạch cao 40g, [Sinh Địa](https://trungtamthuoc.com/hoat-chat/sinh-dia "Sinh Địa") 20g, kim ngân hoa, liên kiều mỗi vị 16g, hoàng liên, đan bì, bạc hà mỗi vị 8g, thăng ma 4g. Đều sắc uống.
+### 4.5 Trị sởi
+Trẻ bị sởi khi chưa mọc, thời kỳ phát sốt: Ngưu bàng tử, liên kiều, cát căn, thăng ma mỗi vị 8g, phù bình, đậu xị mỗi vị 12g, xác ve sầu 4g. Sốt cao thêm kim ngân hoa, [Hoàng Cầm](https://trungtamthuoc.com/duoc-lieu/hoang-cam "Hoàng Cầm") mỗi vị 12g. Sắc uống.
+Trẻ bị sởi khi đã mọc, tiêu chảy: Ngưu bàng tử, liên kiều mỗi vị 3g, [Sơn Tra](https://trungtamthuoc.com/hoat-chat/son-tra "Sơn Tra") 8g, đăng tâm 6g, binh lang sao, [Chỉ Xác](https://trungtamthuoc.com/hoat-chat/chi-xac "Chỉ Xác") sao mỗi vị 4g, hoàng liên sao, hoàng cầm sao, hậu phác sao, thanh bì, cam thảo, [Đương Quy](https://trungtamthuoc.com/hoat-chat/duong-quy "Đương Quy") mỗi vị 2g. Sắc uống.
+### 4.6 Trị bệnh ngoài da
+Chàm thể cấp tính: Ngưu bàng tử, hoàng liên, mộc thông, khổ sâm, hoàng bá mỗi vị 12g, mã đề, sinh địa mỗi vị 16g, [Phục Linh](https://trungtamthuoc.com/hoat-chat/phuc-linh "Phục Linh"), thương truật mỗi vị 8g, bạc hà 4g. Sắc uống.
+Viêm da thần kinh giai đoạn đầu: Ngưu bàng tử, kinh giới, sinh địa, phòng phong, đương quy, tri mẫu, địa phu tử mỗi vị 12g, thạch cao 20g, thuyền thoái 6g. Sắc uống.
+[Mày đay](https://trungtamthuoc.com/bai-viet/benh-may-day "mày đay") thể phong nhiệt: Ngưu bàng tử 12g, thuyền thoái, đan bì, [Bạch Thược](https://trungtamthuoc.com/duoc-lieu/bach-thuoc "Bạch Thược") mỗi vị 8g. Sắc uống.
+![Bài thuốc trị mày đay thể phong nhiệt từ Ngưu bàng tử](https://trungtamthuoc.com/images/item/nguu-bang-tu-5.jpg)Bài thuốc trị mày đay thể phong nhiệt từ Ngưu bàng tử
+### 4.7 Trị bệnh khác
+Phong chẩn, phát ban: Ngưu bàng tử, xích thược, kinh giới mỗi vị 6g, [Phòng Phong](https://trungtamthuoc.com/hoat-chat/phong-phong "Phòng Phong") 4g, cam thảo, thăng ma, sơn tra, liên kiều mỗi vị 2g. Sắc uống.
+Thủy đậu mức độ nhẹ: Ngưu bàng tử, liên kiều, hoạt thạch, mỗi vị 8g, [Mã Đề](https://trungtamthuoc.com/hoat-chat/ma-de "Mã Đề") 12g, hoàng cầm, xích thược, [Sài Hồ](https://trungtamthuoc.com/hoat-chat/sai-ho "Sài Hồ"), chi tử, mộc thông mỗi vị 6g, phòng phong, kinh giới, cam thảo, đương quy mỗi vị 4g, thuyền thoái 2g. Sắc uống.
+Chữa quai bị: Ngưu bàng tử, liên kiều, hoàng cầm mỗi vị 8g, bồ công anh 16g, sài hồ, hạ khô thảo, kim ngân mỗi vị 12g. Sắc uống.
+Chữa bạch hầu: Ngưu bàng tử, bạc hà mỗi vị 8g, sinh địa 16g, mạch môn, huyền sâm, [Ngưu Tất](https://trungtamthuoc.com/hoat-chat/nguu-tat "Ngưu Tất"), sơn đậu căn mỗi vị 12g. Hoặc: Ngưu bàng tử, sơn đậu căn, thạch cao mỗi vị 12g, ma hoàng, đại hoàng mỗi vị 6g, trúc lịch 30ml. Đều sắc uống.
+Chữa chứng cuồng: Ngưu bàng tử, ngưu giác, mạch môn, [Viễn Chí](https://trungtamthuoc.com/hoat-chat/vien-chi "Viễn Chí") mỗi vị 12g, xuyên liên 10g, trân châu mẫu 40g, xương bồ, táo nhân mỗi vị 8g, cam thảo, đảm tinh, [Phục Thần](https://trungtamthuoc.com/hoat-chat/phuc-than "Phục Thần") mỗi vị 6g, thần sa 4g. Sắc uống, riêng thần sa tán nhỏ uống riêng.
+Chữa co giật trẻ em do ngoại cảm hay ngoại phong: Ngưu bàng tử, bạc hà, cát cánh mỗi vị 8g, ngân hoa, trúc diệp mỗi vị 16g, liên kiều, đậu xị, kinh giới mỗi vị 12g, cam thảo 4g. Sắc uống.
+Chữa phù thận cấp: Ngưu bàng tử (nửa sao, nửa sống), bèo cái (sao khô), đồng lượng. Tán nhỏ, trộn đều, mỗi lần uống 5g với nước nóng, ngày 3 lần.
+Viêm hạch lympho cấp hóa mủ: Ngưu bàng tử, liên kiều, sơn chi, hạ khô thảo, [Xích Thược](https://trungtamthuoc.com/hoat-chat/xich-thuoc "Xích Thược") mỗi vị 12g, kim ngân hoa 16g, bạc hà, bối mẫu mỗi vị 8g. Sắc uống.
+Viêm tai giữa thể cấp tính: Ngưu bàng tử, sài hồ, long đởm thảo, hoàng cầm, [Chi Tử](https://trungtamthuoc.com/hoat-chat/chi-tu "Chi Tử") mỗi vị 12g, kim ngân 20g, bạc hà 6g. Nếu chảy máu và mủ thêm sinh địa 16g, đan bì 12g. Sắc uống.
+##  5 Tài liệu tham khảo
+1. Tác giả Suhail Ahmad Mir và cộng sự (Đăng vào tháng 3 năm 2022). [Arctium lappa: A Review on Its Phytochemistry and Pharmacology](https://www.researchgate.net/publication/359225928_Arctium_lappa_A_Review_on_Its_Phytochemistry_and_Pharmacology), Research Gate. Truy cập ngày 20 tháng 4 năm 2023. 
+2. Tác giả Võ Văn Chi (Xuất bản năm 2021). Ngưu bàng trang 331-332, Từ điển Cây thuốc Việt Nam Tập 2. Truy cập ngày 16 tháng 4 năm 2023.
+
+
+Source: https://trungtamthuoc.com/duoc-lieu/nguu-bang-tu
