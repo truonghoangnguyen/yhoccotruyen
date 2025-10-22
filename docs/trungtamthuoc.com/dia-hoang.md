@@ -1,0 +1,70 @@
+# Địa Hoàng (Sinh Địa - Rehmannia glutinosa)
+
+![Địa Hoàng \(Sinh Địa - Rehmannia glutinosa\)](https://trungtamthuoc.com/images/others/cay-dia-hoang-0-6265.jpg)
+**Địa hoàng được biết đến khá phổ biến với công dụng giảm đường huyết, lợi tiểu, chữa táo bón và suy[nhược cơ](https://trungtamthuoc.com/bai-viet/chan-doan-va-dieu-tri-nhuoc-co "nhược cơ") thể. Trong bài viết này, [Trung Tâm Thuốc Central Pharmacy](https://trungtamthuoc.com/ "Trung Tâm Thuốc Central Pharmacy") ([trungtamthuoc.com](https://trungtamthuoc.com/ "trungtamthuoc.com")) xin gửi đến bạn đọc những thông tin chi tiết về Địa hoàng.**
+##  1 Giới thiệu về cây Địa hoàng
+Địa hoàng hay còn gọi là Sinh địa, tên khoa học là _Rehmannia glutinosa_ (Gaeri 1., thuộc họ Hoa mõm chó - _Serophulariaceae_. 
+### 1.1 Đặc điểm thực vật
+Cây thảo sống nhiều năm và có chiều cao khoảng 20-30cm. Toàn bộ cây có lông mềm và lông tiết có màu tro trắng. Rễ phát triển thành củ. Lá mọc vòng ở gốc cây, với phiến hình bầu dục, gốc thuôn và đầu tròn, có độ dài từ 3-15cm và chiều rộng từ 1,5-6cm. Mặt lá có khía răng tròn không đều và gân lá hình mạng lưới nổi rõ ở mặt dưới, khiến lá trông rộp và chia thành nhiều múi nhỏ. Hoa mọc thành chùm ở đầu cành, với đài và tràng đều có hình chuông. Tràng hơi cong và có độ dài khoảng 3-4cm, mặt ngoài có màu tím đậm, trong khi mặt trong hơi vàng với những đốm tím. Cây có 4 nhị, nhị trường. Quả của cây có hình trứng và chứa nhiều hạt nhỏ.
+![Địa hoàng - Vị thuốc giải nhiệt, mát máu, hạ đường huyết hiệu quả](https://trungtamthuoc.com/images/item/cay-dia-hoang-1.jpg)Hình ảnh cây Địa hoàng
+### 1.2 Thu hái và chế biến
+Rễ củ của **cây Địa hoàng** , tên khoa học Radix Rehmanniae, được thu hoạch vào tháng 2-3 và 8-9. Khi đào củ, nên chọn ngày nắng để củ tươi hình thoi hoặc hình trụ cong queo có mặt ngoài màu vàng đỏ, dễ bẻ gãy và được chia thành từng khoanh với vùng thắt lại. Các rãnh trên củ có vết mầm. Từ sinh địa hoàng, qua các phương pháp chế biến khác nhau sẽ cho ra được những vị thuốc khác nhau cả về tính vị và công dụng.
+Tiên địa hoàng còn được gọi là Địa hoàng tươi: Có dạng hình thoi hoặc hình dải, chiều dài dao động khoảng 8 đến 24cm, đường kín từ 2 đến 9cm. Vỏ mỏng, mặt có màu đỏ nhạt. Tiên địa hoàng có mùi thơm nhẹ, vị hơi ngọt đắng. Tiên địa hoàng là vị thuốc có tính hàn được sử dụng trong các trường hợp như chảy máu cam, viêm họng,...
+Để làm Sinh địa, củ Địa hoàng đã được lựa chọn, sau đó được rải vào lò sấy và sấy trong khoảng 6-7 ngày để khô đều. Sinh địa hay còn gọi là địa hoàng khô, chế biến bằng cách làm khô Tiên địa hoàng. Sinh địa là vị thuốc được sử dụng trong các trường hợp viêm họng, sốt cao, nôn ra máu, bệnh nhân tiểu đường.
+Để làm Thục địa, củ Địa hoàng được ngâm nước và cạo sạch đất. Sau đó, những củ vụn nát được lấy để nấu nước, nước đó được dùng để tẩm những củ đã được lựa chọn và sau đó phơi khô. Thao tác tẩm và phơi được lặp lại 9 lần, cho đến khi màu của Thục địa đạt đến màu thục đen nhánh. Khi nấu Thục địa, không nên sử dụng nồi kim loại như đồng hay [Sắt](https://trungtamthuoc.com/hoat-chat/sat "Sắt"). Cách chế biến Thục địa có thể khác nhau tùy thuộc vào vùng miền và người chế biến. Ví dụ, có thể sử dụng rượu để nấu và sau đó ngâm với nước [Gừng](https://trungtamthuoc.com/hoat-chat/gung "Gừng"), rồi lại nấu tiếp cho tới khi có được Thục địa có màu đen. Tính chất của Sinh địa và Thục địa có thể khác nhau do cách chế biến khác nhau.
+![Sinh địa](https://trungtamthuoc.com/images/item/sinh-dia-va-cong-dung.jpg)Sinh địa
+### 1.3 Đặc điểm phân bố
+Loài cây này có nguồn gốc từ Trung Quốc và từ năm 1958 đã được nhập trồng ở Việt Nam. Hiện nay, cây này được trồng rộng rãi ở nhiều khu vực từ Bắc đến Nam và thích hợp với đất phù sa hoặc đất thịt. Phương pháp nhân giống của cây là bằng cách sử dụng mầm rễ, với mỗi mầm có độ dài khoảng 1-2cm. Cây có thể thu hoạch sau khoảng 6 tháng rưỡi và cho hai vụ trồng trong năm vào các tháng 2-3 và 8-9. Ra hoa vào tháng 4-5 và có quả vào tháng 5-6.
+##  2 Thành phần hóa học
+Trong rễ Địa hoàng có chứa nhiều thành phần như catalpol, mannit, rehmannin, [Glucose](https://trungtamthuoc.com/hoat-chat/glucose "Glucose") và một số lượng nhỏ caroten. Ngoài ra, nó còn chứa khoảng 15 acid amin và D-glucozamin, acid phosphoric và một số cacbohydrat, chủ yếu là stachyoza; cùng với chất campesterol. Thành phần chính khác bao gồm iridoid glycosid (bao gồm catalpol, rehmaniosid A, B, C, D), ionon glucosid (bao gồm rehmaionosid A, B, C), monoterpen glucosid (rehmapicrosid), các acid amin, D-glucosamin và các đường với hàm lượng cao lên tới 48,3% (bao gồm D-glucose, D-galactose, D-fructose và stachyose).
+![Địa hoàng - Vị thuốc giải nhiệt, mát máu, hạ đường huyết hiệu quả](https://trungtamthuoc.com/images/item/cay-dia-hoang-2.jpg)Bộ phận cây Địa hoàng
+##  3 Tác dụng - Công dụng của cây Địa hoàng
+### 3.1 Tác dụng dược lý 
+[Sinh Địa](https://trungtamthuoc.com/hoat-chat/sinh-dia "Sinh Địa") chứa thành phần catalpol, có tác dụng giảm đường huyết, hỗ trợ lợi tiểu, làm dịu các triệu chứng táo bón, và ức chế aldose reductase. Vì vậy, Sinh địa có thể giúp cải thiện các biến chứng của bệnh tiểu đường liên quan đến thận, thần kinh, võng mạc và [đục thủy tinh thể](https://trungtamthuoc.com/bai-viet/benh-duc-thuy-tinh-the-nguoi-gia "đục thủy tinh thể").
+### 3.2 Vị thuốc Địa hoàng - Công dụng theo y học cổ truyền
+#### 3.2.1 Tính vị, tác dụng
+Địa hoàng tươi có vị ngọt và đắng, tính hàn và có tác dụng giải nhiệt, mát máu. Củ địa hoàng khô hay còn gọi là sinh địa hoàng có vị ngọt, tính hàn và tác dụng bổ thận, tăng cường sức khỏe và cải thiện sức đề kháng của cơ thể. Thục địa hoàng có hương vị ngọt, hơi thơm và tính ôn, tác dụng bồi bổ thận, dưỡng âm, bổ huyết, giúp tóc và râu đen lại. Ngoài ra, đã có nghiên cứu chứng minh được tác dụng kháng đường huyết, chống kết hợp, lợi tiểu, kháng khuẩn của Địa hoàng.
+Trong cuốn sách  _Thần Nông Bản Thảo Kinh_ có đề cập rằng: Địa hoàng khô chủ trị tổn thương gân cốt, bồi bổ cơ thể suy nhược do ngũ tạng nội thương, thanh trừ chứng máu tắc nghẽn ứ trệ, bổ dưỡng cốt tuỷ, phát triển cơ bắp. Địa hoàng khô nấu, thành canh uống có thể hóa giải chứng sợ lạnh, phát sốt, trục tà khí tích tụ trong bụng, trị các chứng chân tay tê bì, đau nhức do phong thấp gây nên. Dùng trong thời gian dài, có thể làm cho cơ thể nhẹ nhõm, nhanh nhẹn, đẩy lùi quá trình lão hóa, kéo dài tuổi thọ. Địa hoàng tươi có hiệu quả trị liệu tốt hơn địa hoàng khô.
+![Địa hoàng - Vị thuốc giải nhiệt, mát máu, hạ đường huyết hiệu quả](https://trungtamthuoc.com/images/item/cay-dia-hoang-3.jpg)Hình ảnh hoa Địa hoàng
+#### 3.2.2 Công dụng
+Sinh địa có thể được sử dụng để điều trị nhiều bệnh khác nhau. Nó được sử dụng để điều trị bệnh tiểu đường, thiếu máu, chảy máu dễ xảy ra, sốt, lưỡi đỏ và cảm giác khát.
+[Thục Địa](https://trungtamthuoc.com/hoat-chat/thuc-dia "Thục Địa") được sử dụng để điều trị thiếu máu, nhịp tim nhanh, rối loạn ý thức và các triệu chứng suy nhược cơ thể. Tuy nhiên, nếu xuất hiện triệu chứng đau bụng, tiêu chảy, [chóng mặt](https://trungtamthuoc.com/bai-viet/chong-mat "chóng mặt") và buồn nôn, nên ngưng sử dụng.
+Sinh địa hoàng được sử dụng để điều trị bệnh huyết hư phát nóng, thổ huyết, băng huyết, chảy máu cam, kinh nguyệt không đều, động thai, bệnh [thương hàn](https://trungtamthuoc.com/bai-viet/benh-thuong-han "thương hàn"), ôn dịch, phát ban chẩn, cổ họng sưng đau, huyết nhiệt và tân dịch khô. Liều lượng dùng trong ngày cho Sinh địa hoàng là 8-16g, có thể tăng đến 40g.
+Thục địa được sử dụng để điều trị các chứng nóng âm ỉ do suy thận âm gây ra, bệnh tiểu đường, đau họng, khí suyễn, huyết xuất, điều hòa kinh, bổ huyết, tăng sinh tinh và giúp cơ thể tráng kiện. Liều lượng dùng trong ngày cho Thục địa là 12-40g.
+Theo sách _[Thần Nông Bản Thảo Kinh](https://trungtamthuoc.com/bai-viet/sach-than-nong-ban-thao-kinh "Thần Nông Bản Thảo Kinh") _có ghi:[ho ra máu](https://trungtamthuoc.com/bai-viet/ho-ra-mau "ho ra máu") do bệnh lao và các chứng bệnh về máu trong phụ khoa; trị liệu tất cả chứng bệnh huyết mạch không thông. Ngoài ra, công dụng sinh âm bổ thận của địa hoàng khô từ xưa đến nay vẫn luôn được con người đánh giá cao, thường sử dụng làm vị thuốc bồi bổ cơ thể. Trong nhiều điển tịch cổ có ghi chép về bài thuốc cháo địa hoàng sinh âm bổ máu. Cho địa hoàng vào 200ml nước, sau khi nước sôi cho gạo vào. Tiếp theo cho 200ml bơ và 100ml mặt vào nấu cùng, đun đến khi chín là có thể dùng được. Món cháo này có công dụng bổ sung năng lượng và nuôi dưỡng máu. Liệu pháp điều trị hiện đại vẫn đề cao phương pháp này, cho rằng nó có tác dụng bồi bổ sức khỏe rất tốt. Hơn nữa, địa hoàng còn có thể chữa bệnh da liễu và qua nhiều thế hệ đã chứng minh có những hiệu quả thần kỳ.
+##  4 Bài thuốc từ cây Địa hoàng
+### 4.1 Ttrị chảy máu cam
+Sử dụng 40g rễ củ cây địa hoàng tươi. Sau khi rửa sạch đất cát và bỏ phần rễ phụ, thái lát rồi đem đi sắc nước để uống hàng ngày. Mỗi ngày dùng 1 thang thuốc và sau vài ngày sử dụng, triệu chứng [chảy máu cam](https://trungtamthuoc.com/bai-viet/chay-mau-cam-nguyen-nhan-dieu-tri-va-phong-ngua "chảy máu cam") sẽ hết.
+### 4.2 Chữa ho khan, ho khạc ra máu, giãn phế quản
+Dùng củ địa hoàng tươi, rửa sạch và giã nát, chắt lấy 300ml nước cốt. Sau đó nấu cháo chín nhừ rồi cho nước cốt vào đun sôi và ăn khi bụng đói. Ăn cháo địa hoàng vừa dễ nuốt, không gây thêm tổn thương cho thanh quản và có tác dụng giảm ho, cầm máu xuất tiết nhanh chóng.
+### 4.3 Chữa sốt thường, sốt xuất huyết, sốt phát ban
+Sử dụng địa hoàng tươi, lá [Sen](https://trungtamthuoc.com/hoat-chat/sen "Sen"), trắc bá diệp tươi và ngải diệp tươi. Thảo dược này được rửa sạch và cho vào ấm sắc với 700ml nước. Chia nước thuốc uống 2 – 3 lần/ngày, kiên trì sử dụng trong 5 – 7 ngày sẽ hạ sốt, giảm sốt xuất huyết và vết ban rất hiệu quả.
+Phụ nữ bị động thai ra huyết
+Sử dụng can địa hoàng. Bài thuốc bao gồm 40g can khương đã bào mỏng và 40g can địa hoàng đã được tán nhỏ thành bột mịn. Mỗi lần uống 1 thìa bột thuốc với rượu và ngày uống 3 lần. Tuy nhiên, nếu phụ nữ có tình trạng xuất huyết nhiều, cần đưa đến bệnh viện để kiểm tra. Bài thuốc này có hiệu quả an thai rất tốt.
+![Địa hoàng - Vị thuốc giải nhiệt, mát máu, hạ đường huyết hiệu quả](https://trungtamthuoc.com/images/item/cay-dia-hoang-6.jpg)Sinh địa và Thục địa
+### 4.4 Hỗ trợ phụ nữ sau sinh
+Cho [Hà Thủ Ô](https://trungtamthuoc.com/duoc-lieu/ha-thu-o "Hà Thủ Ô") đỏ, sinh địa, [Ích mẫu](https://trungtamthuoc.com/hoat-chat/ich-mau "Ích mẫu") và sâm nam vào nước (500ml) và sắc cho đến khi nước chỉ còn một nửa. Uống ngay khi còn nóng.
+### 4.5 Trị mụn nhọt, mụn độc, ôn độc phát ban
+Đun mỡ lợn, đậu xị, sinh địa với nước cho đến khi còn khoảng 3 phần. Sau đó, thêm hùng hoàng và xạ hương vào và trộn đều. Uống thuốc cho đến khi các dấu hiệu mụn trên da biến mất.
+### 4.6 Trị chứng sốt cao không hạ được kèm co giật
+Giã nát 20g sinh địa và 10g lá hẹ tươi rửa sạch, để ráo nước. Sau đó, thêm một thìa nước và lọc bỏ bã. Uống nước cốt mỗi ngày 1 lần để hạ sốt và ngăn ngừa tình trạng co giật gây nguy hiểm.
+### 4.7 Hỗ trợ điều trị đái tháo đường
+Giã nát 800g sinh địa, lấy nước cốt rồi tẩm vào 600g [Hoàng Liên](https://trungtamthuoc.com/hoat-chat/hoang-lien "Hoàng Liên") khô. Sau đó, thêm [Mật Ong](https://trungtamthuoc.com/hoat-chat/mat-ong "Mật Ong") nguyên chất và vo thành viên hoàn nhỏ bằng hạt ngô. Uống 20 viên thuốc, mỗi ngày 2 lần.
+Sử dụng sinh địa, sơn dược, [Hoàng Kỳ](https://trungtamthuoc.com/duoc-lieu/hoang-ky "Hoàng Kỳ") và tụy heo. Sắc các vị thuốc với nước và uống hết trong ngày.
+Dùng sơn dược, thục địa, thái tử sâm, [Ngũ Vị Tử](https://trungtamthuoc.com/hoat-chat/ngu-vi-tu "Ngũ Vị Tử") đem sắc thành nước và uống mỗi ngày.
+##  5 So sánh tác dụng của Sinh địa và Huyền sâm
+![So sánh tác dụng của Sinh địa và Huyền sâm](https://trungtamthuoc.com/images/item/sinh-dia-va-huyen-sam.jpg)So sánh tác dụng của Sinh địa và Huyền sâm
+Sinh địa và [Huyền sâm](https://trungtamthuoc.com/duoc-lieu/huyen-sam) đều là những vị thuốc quý trong Y học cổ truyền với nhiều công dụng cho sức khỏe. Dưới đây là những điểm giống và khác nhau về tác dụng của 2 vị thuốc này.
+| Sinh địa | Huyền sâm  
+---|---|---  
+Giống nhau | Cả 2 vị thuốc Sinh địa hoàng Huyền sâm đều cam, khô, tính hàn, có tác dụng thanh nhiệt lương huyết, dưỡng âm sinh tân, dùng để trị ôn bệnh nhiệt nhập dinh huyết, phát nhiệt phát ban, tâm phiền miệng khát, phiền táo bất an, miệng khô lưỡi giáng, thậm chí thần hôn chiêm ngôn, tới ôn độc phát ban; nhiệt bệnh thương tân, lưỡi giáng, phiền khát uống nhiều, tới âm hư nội nhiệt mà tiêu khát, cốt chưng lao triều nhiệt, đạo hãn di tinh... Do đó, bất kể là nhiệt thực chứng tại dinh huyết hay hư nhiệt chứng do âm hư phát nhiệt, cả 2 đều có thể phối dùng.  
+Khác nhau | Sinh địa hoàng thanh nhiệt lương huyết mạnh, tư âm sinh tân mạnh hơn, là thuốc lương huyết tư âm trọng yếu, nếu nhiệt bệnh thương tân thấy lưỡi giáng phiền khát uống nhiều, âm hư tiêu khát, âm hư phát nhiệt, Sinh địa hoàng hay dùng. Lại thường dùng với ôn bệnh hậu kỳ, dư nhiệt chưa giải, âm tân đã thương, tà còn lưu âm phận, chứng thấy đêm sốt ngày mát, lưỡi đỏ mạch sác; huyết nhiệt vọng hành mà thổ huyết, nục huyết, tiện huyết, niệu huyết, băng lậu (Huyết nhiệt xuất huyết). |  [Huyền Sâm](https://trungtamthuoc.com/hoat-chat/huyen-sam "Huyền Sâm") lại hàm, thanh nhiệt lương huyết, dương âm sinh tân yếu hơn, thường dùng tả hỏa giải độc tán kết. Lại thường dùng ngoại cảm ôn độc, nhiệt độc ủng thịnh mà yết hầu sưng đau, [bạch hầu](https://trungtamthuoc.com/bai-viet/benh-bach-hau-nhung-dieu-can-biet "bạch hầu"), tới âm hư hỏa vượng mà yết hầu sưng đau; can nhiệt mắt đỏ sưng đau; đàm hỏa uất kết mà gây chứng loa lịch đàm hạch; ung thũng sang độc, thoát thư.  
+##  6 Tài liệu tham khảo
+  1. Nhận thức cây thuốc và dược liệu (Xuất bản năm 2021). Địa hoàng trang 74 - 75, Nhận thức cây thuốc và dược liệu. Truy cập ngày 14 tháng 2 năm 2023.
+  2. Từ điển Cây thuốc Việt Nam Tập 1 (Xuất bản năm 2021). Địa hoàng trang 90 - 91, Từ điển Cây thuốc Việt Nam Tập 1. Truy cập ngày 14 tháng 2 năm 2023.
+  3. [Dược Điển Việt Nam](https://trungtamthuoc.com/bai-viet/duoc-dien-viet-nam "Dược Điển Việt Nam") V. Địa hoàng, 1164-1166. Truy cập ngày 23 tháng 7 năm 2024.
+
+
+
+
+Source: https://trungtamthuoc.com/duoc-lieu/dia-hoang

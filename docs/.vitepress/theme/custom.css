@@ -3,9 +3,8 @@
   } */
 
 .main{
-    font-family: "EB Garamond", serif;
     font-size: larger;
-    
+
 }
 html {
   font-size: normal;
@@ -35,7 +34,7 @@ body {
   --vp-c-text-1: rgba(235, 235, 245, 0.72);
   --vp-c-divider: rgba(235, 235, 245, 0.68);
   /* --vp-font-family-base:  "EB Garamond", serif; */
-} 
+}
 /* .light {
   --vp-c-text-1: rgba(38, 38, 39, 0.68);
 } */

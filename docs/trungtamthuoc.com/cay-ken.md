@@ -1,0 +1,44 @@
+# Cây Kẹn (Aesculus assamica Griff.)
+
+![Cây Kẹn \(Aesculus assamica Griff.\)](https://trungtamthuoc.com/images/others/ken-1-4873.jpg)
+**Với công dụng hiệu quả trong hỗ trợ điều trị viêm và rối loạn tiêu hóa, Kẹn được rất nhiều người sử dụng mỗi ngày. Vì vậy,[Trung Tâm Thuốc Central Pharmacy](https://trungtamthuoc.com/ "Trung Tâm Thuốc Central Pharmacy") ([trungtamthuoc.com](https://trungtamthuoc.com/ "trungtamthuoc.com")) xin gửi đến quý bạn đọc thông tin về đặc điểm, công dụng và sử dụng Kẹn trong y học.**
+##  1 Giới thiệu về cây Kẹn
+Tên khoa học của Kẹn là _Aesculus assamica_ Griff., thuộc họ Bồ hòn (Sapindaceae). Cây mọc ở rừng ẩm ướt, rừng lá rộng, rừng lá rộng nửa rụng lá hoặc hỗn loài rụng lá/thường xanh ở đồi hoặc núi đá vôi, rừng đồi núi cận nhiệt đới, rừng trên núi, rừng thưa, rừng trong đá; ở độ cao 100-2000m.
+![Hình ảnh cây và quả Kẹn](https://trungtamthuoc.com/images/item/ken-2.jpg)Hình ảnh cây và quả Kẹn
+### 1.1 Đặc điểm thực vật
+Cây gỗ đơn tính rụng lá, cao 8-18m, có khi tới 32m. Cành non không có lông hoặc có lông. Lá kép mọc đối được mang trên cuống dài 8-30cm. Lá có 5-9 lá chét, có cuống dài 0,3-1,5cm. Lá chét hình mũi mác thuôn, ít khi hình mác hoặc hẹp, dài 12-35cm, rộng 5-18cm. 
+Cụm hoa có cuống dài 7-13cm. Các gai có hình trụ, dài 27-45cm, rộng 5-14cm ở gốc. Hoa có mùi thơm. Đài hoa dài 4-8mm, ở gần trục màu xám hoặc xám hơi vàng nhạt, có lông tơ hoặc xám mịn. Cánh hoa 4 cánh, màu trắng hoặc vàng nhạt, có đốm tím hoặc nâu, đôi khi có màu cam ở gốc hoặc mép có màu hơi đỏ, không bằng nhau, 2 cánh hình trứng thuôn và 2 cánh hình trứng ngược, kích thước 1,3-2,2cm × 3-7mm. Quả nang màu nâu vàng, hình trứng hoặc hình cầu lõm, 4,5-5 × 3-7,5cm, có nhiều chấm nhưng nhẵn; vỏ quả dày 1,5-2mm sau khi sấy khô. Quả có 1-3 ô, mỗi ô chứa 1 hạt không có nội nhũ. Ra hoa: Tháng 2-5.
+### 1.2 Thu hái và chế biến
+Bộ phận dùng: Hạt và dầu chiết từ hạt, đôi khi dùng cả vỏ thân.
+### 1.3 Đặc điểm phân bố
+Cây Kẹn hiện có ở phía tây và phía nam Trung Quốc, Bangladesh, Bhutan, phía bắc và phía đông Ấn Độ, Lào, Mianma, Thái Lan và phía bắc Việt Nam. Tại Việt Nam, cây có ở Mộc Châu, Lào Cai, Cao Bằng, Hòa Bình, Thanh Hóa.
+##  2 Thành phần hóa học
+Hiện có rất ít nghiên cứu về thành phần hóa học và tác dụng của cây Kẹn. Các hợp chất đã được phân lập từ hạt của các loài thuộc chi Aesculus bao gồm triterpenoid, triterpenoid glycoside (saponin), flavonoid, coumarin, [Carotenoid](https://trungtamthuoc.com/hoat-chat/carotenoid "Carotenoid"), hợp chất chuỗi béo dài và một số loại hợp chất khác.
+Triterpenoid: Đã xác định được một số triterpenoid trong hạt của Kẹn, bao gồm protoaescigenin, barringtogenol-C và 21-O-angyloylprotoescigenin.
+Triterpenoid glycoside (Saponin): Một số [Saponin](https://trungtamthuoc.com/hoat-chat/saponin "Saponin") độc đáo đã được phân lập và định danh từ chiết xuất Kẹn, bao gồm assamicins I, II, III, IV, V, VI, VII và VIII cùng với một saponin đã biết - isoescin Ib. Thành phần hoạt chất chính là aescin.
+Flavonoid: 2 [Flavonoid](https://trungtamthuoc.com/hoat-chat/flavonoid "Flavonoid") đã được phát hiện trong chiết xuất Kẹn là quercetin và kaempferal.
+Chất béo: Hàm lượng chất béo trong hạt Kẹn khá cao, lên tới 27-30%, dầu hạt có màu vàng và chua.
+![Aescin - Thành phần chính trong hạt Kẹn](https://trungtamthuoc.com/images/item/ken-3.jpg)Aescin - Thành phần chính trong hạt Kẹn
+> == >> Mời bạn đọc tham khảo vị thuốc cùng công dụng: [Cây Dẻ ngựa - Trị rối loạn tuần hoàn, trĩ và tiêu chảy](https://trungtamthuoc.com/duoc-lieu/hat-de-ngua-18)
+##  3 Tác dụng - Công dụng của Kẹn
+### 3.1 Tác dụng dược lý
+#### 3.1.1 Hoạt tính tương tự insulin
+Hai saponin triterpenoid mới có hoạt tính giống như [Insulin](https://trungtamthuoc.com/hoat-chat/insulin "Insulin"), được gọi là assamicin I và II, được phân lập từ rễ của Kẹn. Chúng ức chế giải phóng axit béo tự do từ tế bào mỡ của chuột được điều trị bằng epinephrine và tăng cường hấp thu [Glucose](https://trungtamthuoc.com/hoat-chat/glucose "Glucose") vào tế bào mỡ 3T3-L1. Đây có thể được coi là tiềm năng trong điều trị tiểu đường.
+#### 3.1.2 Khả năng gây độc tế bào
+Đã xác định được 2 saponin trong chiết xuất [Ethanol](https://trungtamthuoc.com/hoat-chat/ethanol "Ethanol") từ hạt Kẹn, đó là 28-O-acetyl-21-O-(4-O-angeloyl)-6-deoxy--glucopyranosyl-3-O-[-glucopyranosyl (1-2)-O-[-glucopyranosyl(1-4)]--glucuronopyranosyl]protoaescigenin và 21-O-(4-O-angeloyl)-6-deoxy--glucopyranosyl-3 -O-[-glucopyranosyl(1-2)-O-[-glucopyranosyl(1-4)]--glucuronopyranosyl]protoaescigenin. Hoạt tính sinh học trong ống nghiệm của chúng chống lại nấm gây bệnh thực vật Pyricularia oryzae và khả năng gây độc tế bào đối với các dòng tế bào K562 và HCT-15 đã được đánh giá. 
+#### 3.1.3 Tác dụng của aescin
+[Aescin](https://trungtamthuoc.com/hoat-chat/aescin "Aescin") đã được nghiên cứu nhiều, nhằm thiết lập cơ sở dược lý cho chỉ định lâm sàng chính về: điều trị suy tĩnh mạch mạn tính (CVI). Ít nhất ba loại tác dụng dược lực học đã được quy cho aescin: đặc tính chống phù nề; hoạt động chống viêm; đặc tính tĩnh mạch. Tất cả những điều này dường như là do một cơ chế phân tử cơ bản, được xác định là sự hoán vị mạch chọn lọc, cho phép độ nhạy cao hơn, chẳng hạn như kênh [Canxi](https://trungtamthuoc.com/hoat-chat/canxi "Canxi"), thành các ion phân tử, dẫn đến tăng trương lực tĩnh mạch và động mạch. Những hiệu ứng nhạy cảm này đối với các ion và các phân tử khác, ví dụ: 5-HT, có thể dẫn đến hoạt động co bóp tĩnh mạch được tăng cường, và do đó, dẫn đến đặc tính chống phù nề của phân tử.
+Chống phù nề: Aescin đã được chứng minh là có hiệu quả trong việc ngăn ngừa sự hình thành phù nề trong các mô hình viêm tái tạo giai đoạn tiết dịch ban đầu, chẳng hạn như phù nề gây ra ở bàn chân bởi một loạt tác nhân kích ứng (oalbumin, dextran, viên bông, carrageenin và bradykinin), [viêm phúc mạc](https://trungtamthuoc.com/bai-viet/viem-phuc-mac "viêm phúc mạc") huyết thanh gây ra ở chuột bằng cách tiêm chính thức và ở chuột bằng carrageenin. Cơ chế của tác dụng chống phù nề, ngoài sự nhạy cảm được mô tả trước đó với các ion Ca2+, dẫn đến 'hiệu ứng bịt kín' trên các mạch nhỏ thấm nước, cũng liên quan đến việc giảm kích hoạt tế bào nội mô của con người do thiếu oxy gây ra. Bên cạnh hoạt động nhạy cảm với ion mạch máu đã mô tả của aescin, đặc tính 'niêm phong' có thể dựa trên khả năng ức chế enzyme elastase và [Hyaluronidase](https://trungtamthuoc.com/hoat-chat/hyaluronidase "Hyaluronidase"). Chúng tham gia vào quá trình phân hủy proteoglycan, thành phần quan trọng của nội mô mao mạch và thành phần chính của ma trận ngoại mạch. Aescin có thể thay đổi sự cân bằng giữa quá trình tổng hợp và phân hủy proteoglycan theo hướng tổng hợp ròng, củng cố thành mao mạch và ngăn ngừa rò rỉ.
+Chống viêm: Ascin có thể can thiệp một cách hiệu quả vào giai đoạn tế bào của quá trình viêm, tức là với sự kích hoạt bạch cầu. Giả thuyết này được hỗ trợ bởi việc ngăn chặn sự di chuyển của bạch cầu vào khoang màng phổi trong mô hình thí nghiệm viêm màng phổi được báo cáo trước đây ở chuột và bằng các nghiên cứu trên các tế bào nội mô bị kích hoạt do thiếu oxy, cho thấy aescin có thể làm giảm khả năng kết dính của bạch cầu trung tính và giải phóng các chất trung gian gây viêm.
+Đặc tính tĩnh mạch: Trong tĩnh mạch hiển của con người trong ống nghiệm, các đặc tính của tĩnh mạch đã được xác nhận rõ ràng với β-aescin tinh khiết. Cơ chế tăng trương lực tĩnh mạch có liên quan rõ ràng với việc tăng cường tạo ra prostaglandin F2α trong tĩnh mạch người. Aescin, ở nồng độ 10−3 M hoặc thấp hơn dẫn đến sự gia tăng rõ rệt khả năng co bóp ở các tĩnh mạch hiển bị cô lập ở người.
+![Lợi ích của cây Kẹn](https://trungtamthuoc.com/images/item/ken-4.jpg)Lợi ích của cây Kẹn
+### 3.2 Công dụng theo y học cổ truyền
+Hạt Kẹn có vị ngọt, tính ấm, có tác dụng lý khí khoan trung, hòa vị chỉ thống; vỏ thân có tác dụng sát trùng, an thần, giảm đau. 
+Trong đông y, vỏ thân thường được dùng trị bệnh lỵ, đau đầu và kích thích tiêu hoá; hạt được dùng chữa ngực bụng oi bức, đau bụng. 
+> == >> Mời bạn xem thêm dược liệu: [Cây Lô hội - Dược liệu đa lợi ích, tốt cho sức khỏe](https://trungtamthuoc.com/duoc-lieu/lo-hoi-60)
+##  4 Tài liệu tham khảo
+1. Tác giả C R Sirtori (Đăng vào tháng 9 năm 2001). [Aescin: pharmacology, pharmacokinetics and therapeutic profile](https://pubmed.ncbi.nlm.nih.gov/11529685/), PubMed. Truy cập ngày 23 tháng 3 năm 2023. 
+2. Tác giả Zhizhen Zhang, Shiyou Li, Xiao Yuan (Đăng vào tháng 1 năm 2010). [An Overview of Genus Aesculus L.: Ethnobotany, Phytochemistry, and Pharmacological Activities](https://www.researchgate.net/publication/228719034_An_Overview_of_Genus_Aesculus_L_Ethnobotany_Phytochemistry_and_Pharmacological_Activities), ResearchGate. Truy cập ngày 23 tháng 3 năm 2023. 
+
+
+Source: https://trungtamthuoc.com/duoc-lieu/ken

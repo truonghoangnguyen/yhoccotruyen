@@ -1,0 +1,46 @@
+# Dây Chiều (Tetracera scandens (L.) Merr.)
+
+![Dây Chiều \(Tetracera scandens \(L.\) Merr.\)](https://trungtamthuoc.com/images/others/cay-day-chieu-0-8877.jpg)
+**Dây chiều được biết đến khá phổ biến với công dụng chữa tê thấp, ứ huyết, đau bụng, phù thũng, gan lách sưng to và bạch đới. Trong bài viết này,[Trung Tâm Thuốc Central Pharmacy](https://trungtamthuoc.com/ "Trung Tâm Thuốc Central Pharmacy") ([trungtamthuoc.com](https://trungtamthuoc.com/ "trungtamthuoc.com")) xin gửi đến bạn đọc những thông tin chi tiết về Dây chiều.**
+##  1 Giới thiệu về cây Dây chiều bonsai
+Dây chiều hay còn được gọi là Tứ giác leo, tên khoa học là Tetracera scandens (L.) Merr., thuộc họ Sổ - Dilleniaceae. 
+### 1.1 Đặc điểm thực vật
+Dây chiều là một loại cây bụi thường xanh cao tới 2 m. Trong các bụi cây, cây thường mọc như một cây leo thân gỗ, cao tới 30 m. Nó có những chiếc lá nhỏ, đơn giản được sắp xếp thành từng cặp đối diện dọc theo thân cây. Hơn nữa, phiến lá có đặc điểm là hình trứng, kết cấu sần sùi như da, mép có răng cưa và đỉnh nhọn. Những chiếc lá mới có màu đỏ hồng trước khi chuyển sang màu xanh lục khi trưởng thành. Chuỳ hoa to, ở nách lá hay ở ngọn cành. Hoa có 5 lá đài, 5 cánh hoa màu trắng, mau rụng, nhiều nhị và bầu 1 lá noãn. Quả đại có lông, chứa 1-2 hạt, có áo hạt có rìa, màu đỏ. 
+![Cây Dây chiều - Vị thuốc bổ chữa tê thấp, ứ huyết và đau bụng](https://trungtamthuoc.com/images/item/cay-day-chieu-1.jpg)Hình ảnh **cây Dây chiều bonsai**
+### 1.2 Thu hái và chế biến vị thuốc U chạc chìu
+Tên gọi và phần sử dụng: Rễ và dây (U chạc chìu) của cây Tetracerae Scandentis.
+Để lấy phần sử dụng, cắt các đoạn có u từ phần gốc của cây. Rễ có thể thu hái quanh năm, sau đó rửa sạch, thái nhỏ và phơi khô. Có thể sử dụng tươi hoặc tẩm rượu sao vàng. Ngoài ra, lá, gỗ, dịch và hạt của cây cũng có thể được sử dụng trong một số trường hợp.
+Lá khô của cây Tetracerae Scandentis được sử dụng để làm giấy nhám cho các sản phẩm gỗ bởi các nghệ nhân địa phương. Thân cây non cũng có thể được sử dụng để làm dây thừng do tính linh hoạt và dẻo dai của chúng. Ngoài ra, các bộ phận khác của cây cũng đã được sử dụng như thuốc dân gian để điều trị nhiều loại bệnh khác nhau.
+### 1.3 Đặc điểm phân bố
+Cây Tetracera scandens có nguồn gốc từ các nước Đông Nam Á như Malaysia, Việt Nam, Indonesia, Philippines, Ấn Độ, Nam Trung Quốc, và Thái Lan. Nó thường được tìm thấy trong các bụi cây ở khu vực nhiệt đới và bìa rừng, và thường ra hoa vào tháng 5-8. Ở Việt Nam, cây này phân bố khá phổ biến.
+![Cây Dây chiều - Vị thuốc bổ chữa tê thấp, ứ huyết và đau bụng](https://trungtamthuoc.com/images/item/cay-day-chieu-2.jpg)Vị thuốc U chạc chìu
+##  2 Thành phần hóa học
+Chiết xuất metanol từ lá cây T. scandens đã cho thấy sự hiện diện của ba terpenoid và sáu flavonoid. Các terpenoid được xác định bao gồm stigmasterol, axit betulinic và hỗn hợp đồng phân của sitosterol (∆ 5) glycoside và stigmasterol (∆ 5,22) glycoside, trong khi các [Flavonoid](https://trungtamthuoc.com/hoat-chat/flavonoid "Flavonoid") bao gồm quercetin, hypolectin, isoscutellarein astragalin, kaempferol và kaempferol-3- O-(6″-Op-trans-coumaroyl) glucozit.
+##  3 Cây Dây chiều trị bệnh gì?
+### 3.1 Cây Dây chặc chìu có tác dụng gì?
+Rễ, thân và lá của cây T. scandens L. được sử dụng trong các bài thuốc dân gian của nhiều người dân bản địa ở các quốc gia khác nhau để điều trị nhiều loại bệnh như thấp khớp, hạ huyết áp, bệnh viêm nhiễm, viêm gan, đau nội tạng, rối loạn tiết niệu, kiết lỵ, sinh con, viêm họng, bệnh gút và bệnh tiểu đường.
+Một số isoflavonoid đã được phân lập từ lá của T. scandens và cho thấy khả năng ức chế hoạt động của xanthine oxidase phụ thuộc vào nồng độ trong ống nghiệm. Ngoài ra, các dẫn xuất genistein từ T. scandens đã được chứng minh là có tác dụng hấp thu [Glucose](https://trungtamthuoc.com/hoat-chat/glucose "Glucose") đáng kể ở các ống cơ L6 cơ bản và được kích thích bằng [Insulin](https://trungtamthuoc.com/hoat-chat/insulin "Insulin") trong ống nghiệm, cho thấy tiềm năng to lớn của nó trong việc kiểm soát bệnh tiểu đường. Chiết xuất từ lá của T. scandens cũng có hiệu quả chống bệnh tiểu đường ở chuột bị tiểu đường do alloxan (2,4,5,6-pyrimidinetetrone) gây ra.
+### 3.2 Công dụng của cây Dây Chiều (Cây u chặc chìu) theo y học cổ truyền
+#### 3.2.1 Tính vị, tác dụng
+Cây có vị chua, chát, tính bình, có tác dụng thu liễm chỉ tả, tiêu thũng chỉ thống. Ở Nuven Calêđôni, cây này có tác dụng lợi tiểu, lọc máu, bổ, hạ sốt. [Nước](https://trungtamthuoc.com/hoat-chat/nuoc "Nước") sắc gỗ của cây này cũng có tác dụng làm toát mồ hôi.
+![Cây Dây chiều - Vị thuốc bổ chữa tê thấp, ứ huyết và đau bụng](https://trungtamthuoc.com/images/item/cay-day-chieu-3.jpg)Bộ phận cây Dây chiều
+#### 3.2.2 Tác dụng của cây hoa chặc chìu (cây Dây chiều)
+Cây Dây chiều có tác dụng chữa tê thấp, ứ huyết, đau bụng, phù thũng, gan lách sưng to, bạch đới. Liều dùng từ 10-30g dây hoặc 8-16g rễ, sắc nước uống, thường kết hợp với các vị thuốc khác. Ở Philippines, cây được sử dụng bên trong để kiểm soát chứng [ho ra máu](https://trungtamthuoc.com/bai-viet/ho-ra-mau "ho ra máu") trong bệnh lao và bên ngoài để làm dịu cơn đau họng, do hàm lượng tanin cao. Người Malaysia sử dụng nước sắc của thân cây để khắc phục tình trạng suy nhược kèm theo sốt và cúm, và dùng nước sắc của cả cây sau khi sinh con như một loại thuốc bổ. Cành non thường được nghiền thành bột mịn, sau đó dùng ngoài da dưới dạng thuốc đắp để trị rắn cắn ở Indonesia.
+Ở Việt Nam, thân và lá của cây được sử dụng để trị viêm gan, thấp khớp, gút, sưng tấy và đau lưng. Lá được nghiền thành bột và pha với nước để điều trị tiêu chảy, hoặc đun sôi với nước để bôi ngoài da cho mụn [nhọt](https://trungtamthuoc.com/bai-viet/nhot "nhọt"). Rễ của cây cũng đã được sử dụng để kiểm soát [bệnh tiêu chảy](https://trungtamthuoc.com/bai-viet/co-che-trieu-chung-nguyen-nhan-cua-benh-tieu-chay "bệnh tiêu chảy") và trong hỗn hợp bỏng. [Nhựa](https://trungtamthuoc.com/hoat-chat/nhua "Nhựa") của thân cây đã được dùng như một chất chống ho bằng đường uống, trong khi dịch truyền của thân cây được sử dụng như một loại thuốc súc miệng để điều trị bệnh nấm miệng. Rễ được nghiền và nước ép của chúng được bôi vào vết loét miệng. Cây cũng được sử dụng theo truyền thống để điều trị bệnh đái tháo đường (DM), [tăng huyết áp](https://trungtamthuoc.com/bai-viet/tang-huyet-ap-thong-tin-ve-benh-danh-cho-benh-nhan "tăng huyết áp"), sốt, rối loạn tiết niệu, đau bên trong và phù nề.
+Ở Vân Nam (Trung Quốc), rễ lá của cây được sử dụng để trị ỉa chảy, đái và đi ngoài ra máu, gan lách sưng to, sa tử cung, bạch đới và phong thấp đau khớp. Ở Nuven Calêđôni, cây được sử dụng để trị [bệnh lậu](https://trungtamthuoc.com/bai-viet/benh-lau "bệnh lậu") và phù nề có nguồn gốc từ gan và thận, và nhựa của cây được dùng.
+![Cây Dây chiều - Vị thuốc bổ chữa tê thấp, ứ huyết và đau bụng](https://trungtamthuoc.com/images/item/cay-day-chieu-4.jpg)**Cây U chặc chìu**
+##  4 Bài thuốc từ cây Dây chiều
+### 4.1 Tụ máu, chảy máu, u xơ hoặc sưng gan và lách cứng
+Sử dụng một số loại thảo dược như sau: 20g U chạc chìu, Ngải máu, mỗi vị 12g [Xạ Can](https://trungtamthuoc.com/hoat-chat/xa-can "Xạ Can") và Hồi, trộn vào nước sắc uống.
+Ngoài ra, bạn cũng có thể dùng Dây chiều, [Huyết Giác](https://trungtamthuoc.com/hoat-chat/huyet-giac "Huyết Giác"), Cỏ xước hoặc [Ngưu Tất](https://trungtamthuoc.com/hoat-chat/nguu-tat "Ngưu Tất"), Tổ rồng, [Tầm Xuân](https://trungtamthuoc.com/hoat-chat/tam-xuan "Tầm Xuân"), Kim cang để chữa các triệu chứng đau nhức xương, phong thấp hoặc sưng đau chân gối. [Dây Đau Xương](https://trungtamthuoc.com/duoc-lieu/day-dau-xuong "Dây Đau Xương") và Dây chìa vôi (ngâm nước vo gạo 1 đêm) cũng có thể được dùng, mỗi vị 15-20g, sắc uống. Hoặc bạn có thể phối hợp Dây chiều với Dây gắm, Thổ [Phục Linh](https://trungtamthuoc.com/hoat-chat/phuc-linh "Phục Linh"), [Cà Gai Leo](https://trungtamthuoc.com/duoc-lieu/ca-gai-leo-32 "Cà Gai Leo") và Ngũ gia bì.
+### 4.2 Chữa nam di tinh và nữ bạch đới
+Sử dụng một số loại thảo dược như rễ Bươm bướm, Bạc sau, [Cẩu Tích](https://trungtamthuoc.com/duoc-lieu/cau-tich "Cẩu Tích") và Dây chiều, mỗi vị 20g, trộn vào nước sắc uống. Tuy nhiên, tôi cũng muốn lưu ý rằng việc sử dụng các loại thuốc từ thảo dược cần được thực hiện dưới sự giám sát của các chuyên gia y tế và không nên tự ý sử dụng.
+##  5 Tài liệu tham khảo
+  1. Từ điển Cây thuốc Việt Nam Tập 1 (Xuất bản năm 2021). Dây chiều trang 90 - 91, Từ điển Cây thuốc Việt Nam Tập 1. Truy cập ngày 14 tháng 2 năm 2023.
+  2. Tác giả Tung Bui Thanh và cộng sự (Đăng tháng 08 năm 2021). [Protective effect of Tetracera scandens L. leaf extract against CCl4-induced acute liver injury in rats](https://www.sciencedirect.com/science/article/pii/S2221169115300095), ScienceDirect. Truy cập ngày 20 tháng 03 năm 2023.
+  3. Tác giả Ahmed Nokhala và cộng sự (Đăng tháng 08 năm 2019). [Phytochemicals and biological activity of Tetracera scandens Linn. Merr. (Dilleniaceae): A short review](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7574740/), PubMed. Truy cập ngày 20 tháng 03 năm 2023.
+
+
+
+
+Source: https://trungtamthuoc.com/duoc-lieu/day-chieu

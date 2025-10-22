@@ -13,7 +13,7 @@ function updateText(jsonData, updates) {
       }
       item.text = updates[item.text]['text'];
     }
-    
+
     // Nếu có "items", áp dụng đệ quy
     if (item.items) {
       updateText(item.items, updates);
@@ -30,7 +30,7 @@ function updateText(jsonData, updates) {
 //     "v": {
 //       text: "Gs.Ts Đỗ Tất Lợi", // Đặt tên cố định cho mục này
 //       //link: "home", // Link mặc định
-//       collapsed: true, 
+//       collapsed: true,
 //     }
 //   }
 //   let k = params['k'];
@@ -57,7 +57,7 @@ async function createSidebar() {
   //     "v": {
   //       text: "Y học Cổ truyền", // Đặt tên cố định cho mục này
   //       //link: "home", // Link mặc định
-  //       collapsed: true, 
+  //       collapsed: true,
   //     }
   //   },
   //   {
@@ -66,9 +66,9 @@ async function createSidebar() {
   //     "v": {
   //       text: "Gs.Ts Đỗ Tất Lợi", // Đặt tên cố định cho mục này
   //       //link: "home", // Link mặc định
-  //       collapsed: true, 
+  //       collapsed: true,
   //     },
-  //     'sub':{ // đoạn này hơi ép 
+  //     'sub':{ // đoạn này hơi ép
   //       text: 'ctvvtvn',
   //       newtext: 'Cây & Vị thuốc VN '
   //     }
@@ -79,12 +79,12 @@ async function createSidebar() {
   //   //   "v": {
   //   //     text: "Hải Thượng Lãn Ông", // Đặt tên cố định cho mục này
   //   //     //link: "home", // Link mặc định
-  //   //     collapsed: true, 
+  //   //     collapsed: true,
   //   //   }
   //   // }
   // ];
-  
-  // // add 
+
+  // // add
   // const params = uniqueFieldsArray.map(item => ({
   //     ...item,
   //     ...commonFields
@@ -92,7 +92,7 @@ async function createSidebar() {
 
   // var genSidebar = generateSidebar(params);
   // ////
-  
+
   // for (const item of params) {
   //   let k = item['resolvePath'];
   //   // add new prop
@@ -111,17 +111,17 @@ async function createSidebar() {
   //let k = params['resolvePath'];
   //Object.assign(originalContent[k], params['v']);
   // var result = Object.keys(genSidebar).map(key => (genSidebar[key] ));
-  
+
   // let result = genSidebar = generateSidebar({
   //   documentRootPath: '/docs',
   //   useTitleFromFileHeading: true,
-  //   collapsed: true, 
+  //   collapsed: true,
   //   //hyphenToSpace: true,
   // });
   let result  = generateSidebar({
     documentRootPath: '/docs',
     useTitleFromFileHeading: true,
-    collapsed: true, 
+    collapsed: true,
     //hyphenToSpace: true,
   });
   //
@@ -140,6 +140,7 @@ async function createSidebar() {
     "cham-cuu": {text:"Châm cứu", items: {text: "Mục lục", link: "/giao-trinh/cham-cuu/"} },
     "bao-che-dong-duoc": {text:"Bào chế đông dược", items: {text: "Mục lục", link: "/giao-trinh/bao-che-dong-duoc/"} },
     "giao-trinh-dong-duoc": {text:"Giáo trình đông dược", items: {text: "Mục lục", link: "/giao-trinh/giao-trinh-dong-duoc/"} },
+    "cay-thuoc": {text:"Cây thuốc", items: {text: "Mục lục", link: "/trungtamthuoc.com/"} },
   };
   updateText(result, updates);
 
